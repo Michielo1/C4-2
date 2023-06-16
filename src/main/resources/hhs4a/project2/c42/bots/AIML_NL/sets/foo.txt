@@ -1,0 +1,52 @@
+ten noorden van:ten zuiden van
+ten oosten van:ten westen van
+boven:onder
+tegenover van:tegenover
+tegen:tegen
+voor:trailing
+langs:langs
+naast:naast
+rond:binnen
+boven:onder
+achter:voor
+onder:boven
+onder:boven
+naast:naast
+dicht bij:dicht bij
+ver van:ver van
+Voor van:achter
+binnen:rondom
+binnenkant van:rondom
+links van:rechts van
+in de buurt:in de buurt
+in de buurt van:in de buurt van
+naast:naast
+Bovenop :Onder
+tegengesteld:tegengesteld
+onder:boven
+ten zuiden van:ten noorden van
+ten westen van:ten oosten van
+onder:boven
+tegenover van:tegenover
+tegen:tegen
+volgen:vóór
+langs:langs
+naast:naast
+binnen:rondom
+onder:bovenop
+Voor van:achter
+boven:onder
+boven:onder
+naast:naast
+dicht bij:dicht bij
+ver van:ver van
+achter:voor
+rond:binnen
+rond:binnenkant van
+rechts van:links van
+in de buurt:in de buurt
+in de buurt van:in de buurt van
+naast:naast
+onder:bovenop
+tegengesteld:tegengesteld
+boven:onder

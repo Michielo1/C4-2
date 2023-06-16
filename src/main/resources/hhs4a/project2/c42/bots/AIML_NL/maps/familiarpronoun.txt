@@ -1,0 +1,45 @@
+tante:zij
+mier:zij
+oom:hij
+Vriend:Hij
+beste vriend:hij
+beste vriend:hij
+nichtje:zij
+neef:hij
+Grootmoeder:Zij
+oma:zij
+Grandmom:Zij
+Moeder:Zij
+Ma:Zij
+moeder:zij
+momma:zij
+Moeder:Zij
+Mumma:Zij
+Mama:Ze
+Mummie:Zij
+Grootvader:Hij
+Opa:Hij
+Vader:Hij
+Vader:Hij
+Dada:Hij
+Papa:Hij
+echtgenoot:hij
+Manlief:Hij
+vrouw:zij
+wifey:zij
+zoon:hij
+dochter:zij
+Broer:Hij
+Zuster:Zij
+bro:hij
+SIS:Zij
+vriend:hij
+vriendin:zij
+Jongen vriend:Hij
+Vriendin:Zij
+Botmaster:Hij
+baas:zij
+leraar:hij
+hond:hij
+kat:zij
+

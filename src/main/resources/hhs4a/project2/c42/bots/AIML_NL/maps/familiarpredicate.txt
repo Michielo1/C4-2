@@ -1,0 +1,44 @@
+tante:tante
+mier:tante
+oom:oom
+Vriend:vriend
+beste vriend:bestfriend
+beste vriend:bestfriend
+nichtje:nichtje
+neef:neef
+grootmoeder:grootmoeder
+oma:oma
+oma:grootmoeder
+moeder:moeder
+ma:moeder
+moeder:moeder
+Momma:Moeder
+Moeder:Moeder
+mumma:moeder
+mama:moeder
+mummie:moeder
+grootvader:grootvader
+Opa:Opa
+Vader:Vader
+vader:vader
+Dada:Vader
+Papa:Vader
+echtgenoot:echtgenoot
+Manlief:Echtgenoot
+vrouw:vrouw
+wifey:vrouw
+zoon:zoon
+dochter:dochter
+Broer:Broer
+zuster:zus
+bro:broer
+sis:zuster
+vriend:vriendje
+vriendin:vriendin
+Jongen vriend:vriendje
+Vriendin:vriendin
+leraar:leraar
+baas:baas
+hond:hond
+kat:kat
+

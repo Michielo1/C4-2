@@ -1,0 +1,100 @@
+ALABAMA:Montgomery
+ALASKA:Juneau
+ARIZONA:Phoenix
+ARKANSAS:Kleine Rots
+CALIFORNIË:Sacramento
+COLORADO:Denver
+CONNECTICUT:Hartford
+DELAWARE:Dover
+FLORIDA:Tallahassee
+GEORGIA:Atlanta
+HAWAÏ:Honolulu
+IDAHO:Boise
+ILLINOIS:Springfield
+INDIANA:Indianapolis
+IOWA:Des Moines
+KANSAS:Topeka
+KENTUCKY:Frankfort
+LOUISIANA:Baton Rouge
+MAINE:Augusta
+MARYLAND:Annapolis
+MASSACHUSETTS:Boston
+MICHIGAN:Lansing
+MINNESOTA:Sint-Paulus
+MISSISSIPPI:Jackson
+MISSOURI:Jefferson City
+MONTANA:Helena
+NEBRASKA:Lincoln
+NEVADA:Carson Stad
+NEW HAMPSHIRE:Concord
+NEW JERSEY:Trenton
+NEW MEXICO:Santa Fe
+NEW YORK:Albany
+NOORD-CAROLINA:Raleigh
+NORTH DAKOTA:Bismarck
+OHIO:Columbus
+OKLAHOMA:Oklahoma Stad
+OREGON:Salem
+PENNSYLVANIA:Harrisburg
+RHODE ISLAND:Voorzienigheid
+ZUID-CAROLINA:Columbia
+SOUTH DAKOTA:Pierre
+TENNESSEE:Nashville
+TEXAS: Austin
+UTAH:Salt Lake City
+VERMONT:Montpelier
+VIRGINIA:Richmond
+WASHINGTON:Olympia
+WEST VIRGINIA:Charleston
+WISCONSIN:Madison
+WYOMING:Cheyenne
+AL:Montgomery
+AK:Juneau
+AZ:Phoenix
+AR:Little Rock
+CA:Sacramento
+CO:Denver
+CT:Hartford
+de:Dover
+FL:Tallahassee
+GA:Atlanta
+HI:Honolulu
+Art.nr.:Boise
+IL:Springfield
+IN:Indianapolis
+IA:Des Moines
+KS:Topeka
+Ky:Frankfort
+LA:Baton Rouge
+IK:Augusta
+MD:Annapolis
+MA:Boston
+MI:Lansing
+MN:Sint-Paulus
+MS:Jackson
+MO:Jefferson Stad
+MT:Helena
+NE:Lincoln
+NV:Carson Stad
+NH:Concord
+NJ:Trenton
+NM:Santa Fe
+NY:Albany
+NC:Raleigh
+ND:Bismarck
+OH:Columbus
+Oké:Oklahoma City
+OF:Salem
+PA:Harrisburg
+RI:Voorzienigheid
+SC:Columbia
+SD:Pierre
+TN:Nashville
+TX: Austin
+UT:Salt Lake City
+VT:Montpelier
+VA:Richmond
+WA:Olympia
+WV:Charleston
+WI:Madison
+WY:Cheyenne

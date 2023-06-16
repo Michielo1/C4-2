@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import io.github.palexdev.materialfx.controls.MFXButton?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Region?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+<?import javafx.scene.shape.Rectangle?>
+
+<!--suppress ALL -->
+<BorderPane fx:id="accountBorderPane" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="hhs4a.project2.c42.scenecontrollers.AccountOverviewScreenController">
+   <center>
+      <VBox alignment="CENTER" maxHeight="600.0" maxWidth="400.0" spacing="20.0" BorderPane.alignment="CENTER">
+         <Text fx:id="accountOverviewScreenHeaderText" text="Account" textAlignment="CENTER">
+            <font>
+               <Font name="Impact" size="40.0" />
+            </font>
+         </Text>
+         <HBox alignment="CENTER" spacing="20.0">
+            <ImageView fx:id="profileImageView" fitHeight="100.0" fitWidth="100.0">
+               <clip>
+                  <Rectangle width="100" height="100" arcWidth="8" arcHeight="8" />
+               </clip>
+            </ImageView>
+            <Region HBox.hgrow="ALWAYS" />
+            <MFXButton fx:id="changeProfilePictureButton" onAction="#onEditProfileClick" text="Profielfoto wijzigen" textAlignment="CENTER">
+               <padding>
+                  <Insets bottom="10.0" left="20.0" right="20.0" top="10.0" />
+               </padding>
+            </MFXButton>
+         </HBox>
+         <Separator blendMode="OVERLAY" />
+         <HBox alignment="CENTER" spacing="20.0">
+            <VBox alignment="CENTER_LEFT">
+               <Text fx:id="usernameLabel" text="Gebruikersnaam" />
+               <Text fx:id="usernameText" />
+            </VBox>
+            <Region HBox.hgrow="ALWAYS" />
+            <MFXButton fx:id="changeUsernameButton" disable="false" onAction="#onEditUsernameClick" text="Bewerken" textAlignment="CENTER">
+               <padding>
+                  <Insets bottom="10.0" left="20.0" right="20.0" top="10.0" />
+               </padding>
+            </MFXButton>
+         </HBox>
+         <Separator blendMode="OVERLAY" />
+         <HBox alignment="CENTER" spacing="20.0">
+            <VBox alignment="CENTER_LEFT">
+               <Text fx:id="emailLabel" text="E-mailadres" />
+               <Text fx:id="emailText" />
+            </VBox>
+            <Region HBox.hgrow="ALWAYS" />
+            <MFXButton fx:id="changeEmailButton" disable="false" onAction="#onEditEmailClick" text="Bewerken" textAlignment="CENTER">
+               <padding>
+                  <Insets bottom="10.0" left="20.0" right="20.0" top="10.0" />
+               </padding>
+            </MFXButton>
+         </HBox>
+         <Separator blendMode="OVERLAY" />
+         <HBox alignment="CENTER" spacing="20.0">
+            <VBox alignment="CENTER_LEFT">
+               <Text fx:id="passwordLabel" text="Wachtwoord" />
+               <Text fx:id="passwordText" />
+            </VBox>
+            <Region HBox.hgrow="ALWAYS" />
+            <MFXButton fx:id="changePasswordButton" disable="false" onAction="#onEditPasswordClick" text="Bewerken" textAlignment="CENTER">
+               <padding>
+                  <Insets bottom="10.0" left="20.0" right="20.0" top="10.0" />
+               </padding>
+            </MFXButton>
+         </HBox>
+      </VBox>
+   </center>
+</BorderPane>

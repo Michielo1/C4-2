@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import io.github.palexdev.materialfx.controls.MFXButton?>
+<?import io.github.palexdev.materialfx.controls.MFXPasswordField?>
+<?import io.github.palexdev.materialfx.controls.MFXTextField?>
+<?import io.github.palexdev.materialfx.controls.MFXToggleButton?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Region?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<!--suppress ALL -->
+<ScrollPane fitToHeight="true" fitToWidth="true" hbarPolicy="NEVER" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="hhs4a.project2.c42.scenecontrollers.RegisterAccountScreenController">
+   <AnchorPane fx:id="registerAnchorPane">
+      <BorderPane AnchorPane.bottomAnchor="40.0" AnchorPane.leftAnchor="40.0" AnchorPane.rightAnchor="40.0" AnchorPane.topAnchor="40.0">
+         <center>
+            <VBox alignment="CENTER" maxHeight="600.0" maxWidth="400.0" spacing="20.0" BorderPane.alignment="CENTER">
+               <VBox alignment="CENTER">
+                  <Text fx:id="accountRegisterScreenHeaderText" text="Registreer een nieuw account">
+                     <font>
+                        <Font name="Impact" size="40.0" />
+                     </font>
+                  </Text>
+                  <Text fx:id="registerAccountLabel" text="Voer hieronder de nieuwe accountgegevens in om een account te creëren." textAlignment="CENTER" wrappingWidth="600" />
+               </VBox>
+               <MFXTextField fx:id="usernameTextField" floatMode="DISABLED" minHeight="40.0" minWidth="230.0" promptText="Gebruikersnaam" />
+               <MFXTextField fx:id="emailTextField" floatMode="DISABLED" minHeight="40.0" minWidth="230.0" promptText="E-mailadres" />
+               <MFXPasswordField fx:id="passwordField" allowCopy="true" allowCut="true" allowPaste="true" floatMode="DISABLED" minHeight="40.0" minWidth="230.0" promptText="Wachtwoord" />
+               <MFXPasswordField fx:id="confirmPasswordField" allowCopy="true" allowCut="true" allowPaste="true" floatMode="DISABLED" minHeight="40.0" minWidth="230.0" promptText="Herhaal wachtwoord" />
+               <Separator blendMode="OVERLAY" maxWidth="230.0" />
+               <VBox alignment="CENTER_LEFT" maxWidth="230.0" spacing="20">
+                  <HBox alignment="CENTER_LEFT" spacing="20.0">
+                     <Text fx:id="statusText" text="Geblokkeerd" HBox.hgrow="ALWAYS" />
+                     <Region HBox.hgrow="ALWAYS" />
+                     <MFXToggleButton fx:id="statusToggle" />
+                  </HBox>
+                  <HBox alignment="CENTER_LEFT" spacing="20.0">
+                     <Text fx:id="onlineChatbotText" text="Online chatbot" HBox.hgrow="ALWAYS" />
+                     <Region HBox.hgrow="ALWAYS" />
+                     <MFXToggleButton fx:id="onlineChatbotToggle" />
+                  </HBox>
+                  <HBox alignment="CENTER_LEFT" spacing="20.0">
+                     <Text fx:id="offlineChatbotText" text="Offline chatbot" HBox.hgrow="ALWAYS" />
+                     <Region HBox.hgrow="ALWAYS" />
+                     <MFXToggleButton fx:id="offlineChatbotToggle" />
+                  </HBox>
+                  <HBox alignment="CENTER_LEFT" spacing="20.0">
+                     <Text fx:id="adminText" text="Beheerder" HBox.hgrow="ALWAYS" />
+                     <Region HBox.hgrow="ALWAYS" />
+                     <MFXToggleButton fx:id="adminToggle" />
+                  </HBox>
+               </VBox>
+               <MFXButton fx:id="registerAccountButton" buttonType="RAISED" defaultButton="true" minHeight="40.0" minWidth="160.0" onAction="#onRegisterClick" text="Account registreren" textAlignment="CENTER" textFill="WHITE">
+                  <font>
+                     <Font name="Impact" size="14.0" />
+                  </font>
+               </MFXButton>
+            </VBox>
+         </center>
+      </BorderPane>
+   </AnchorPane>
+</ScrollPane>

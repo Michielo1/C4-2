@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- Bestand: update.aiml -->
+<!-- Auteur: unknown -->
+<!-- Laatst gewijzigd: mei 24, 2023 -->
+<!--  -->
+<!-- Dit AIML-bestand maakt deel uit van de AIML_NL [versie] chatbot-kennisbank. -->
+<!--  -->
+<!-- Het AIML_NL-brein is auteursrechtelijk beschermd © 2023 door [organisatie]. -->
+<!--  -->
+<!-- Het AIML_NL-brein is uitgebracht onder de voorwaarden van de GNU Lesser General Public License, zoals gepubliceerd door de Free Software Foundation. -->
+<!--  -->
+<!-- Dit bestand wordt GELEVERD ZONDER ENIGE GARANTIE; zonder zelfs maar de impliciete garantie van VERKOOPBAARHEID of GESCHIKTHEID VOOR EEN BEPAALD DOEL. -->
+<!--  -->
+<!-- Voor meer informatie zie https://www.42.nl/ -->
+<category><pattern>VERSION</pattern>
+<template>C4-2 0.0.4 NL</template>
+</category>
+<category><pattern>BUILD</pattern>
+<template>Fri May 05 12:02:29 CEST 2023</template>
+</category>
+<category><pattern>DELEVLOPMENT ENVIRONMENT</pattern>
+<template>C4-2 ChatBot</template>
+</category>
+<category><pattern>PROGRAM VERSION</pattern>
+<template>Program JB -- AI Foundation Reference AIML 2.1 implementation</template>
+</category>
+<category><pattern>BRAIN BUILD</pattern>
+<template>Wed May 24 21:34:46 CEST 2023</template>
+</category>
+</aiml>

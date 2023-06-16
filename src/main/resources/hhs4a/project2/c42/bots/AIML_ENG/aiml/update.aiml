@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: update.aiml -->
+<!-- Author: unknown -->
+<!-- Last modified: mei 24, 2023 -->
+<!--  -->
+<!-- This AIML file is part of the AIML_ENG 0.0.4 chat bot knowledge base. -->
+<!--  -->
+<!-- The AIML_ENG brain is Copyright &copy; 2023 by 42 B.V. -->
+<!--  -->
+<!-- The AIML_ENG brain is released under the terms of the GNU Lesser General -->
+<!-- Public License, as published by the Free Software Foundation. -->
+<!--  -->
+<!-- This file is distributed WITHOUT ANY WARRANTY; without even the -->
+<!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. -->
+<!--  -->
+<!-- For more information see https://www.42.nl/ -->
+<!--  -->
+<!--  -->
+<category><pattern>VERSION</pattern>
+<template>C4-2 0.0.4 ENG</template>
+</category>
+<category><pattern>BUILD</pattern>
+<template>Fri May 05 12:02:29 CEST 2023</template>
+</category>
+<category><pattern>DELEVLOPMENT ENVIRONMENT</pattern>
+<template>C4-2 ChatBot</template>
+</category>
+<category><pattern>PROGRAM VERSION</pattern>
+<template>Program JB -- AI Foundation Reference AIML 2.1 implementation</template>
+</category>
+<category><pattern>BRAIN BUILD</pattern>
+<template>Wed May 24 21:34:43 CEST 2023</template>
+</category>
+</aiml>

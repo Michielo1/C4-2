@@ -1,0 +1,5676 @@
+REKENING:hasPurpose:om geld bij te houden
+REKENING:hasSize:0
+REKENING:hasSyllables:2
+REKENING:isa:Concept
+REKENING:lifeArea:Financiën
+ACT:hasPurpose:om te vermaken door op te treden
+ACT:hasSize: 0
+ACT:hasSyllables:1
+ACT:isa:Activiteit
+ACT:lifeArea:Recreatie
+ACTEUR:hasPurpose:om een rol te spelen
+ACTEUR:hasSize:7
+ACTEUR:hasSpeed:7
+ACTEUR:hasSyllables:2
+ACTEUR:isa:Man
+ACTEUR:isa:Persoon
+ACTEUR:lifeArea:Recreatie
+ACTRICE:hasPurpose:om een rol te spelen
+ACTRICE:hasSize:7
+ACTRICE:hasSpeed:7
+ACTRICE:hasSyllables:2
+ACTRICE:isa:Persoon
+ACTRICE:isa:Vrouw
+ACTRICE:lifeArea:Recreatie
+ADRES:hasPurpose:om een woning of bedrijf te lokaliseren
+ADRES:hasSize:0
+ADRES:hasSyllables:2
+ADRES:isa:Lokatie
+ADRES:lifeArea:Fysiek
+ADOBE:hasPurpose:om onderdak te bieden
+ADOBE:hasSize:9
+ADOBE:hasSyllables:3
+ADOBE:isa:Bewoning
+ADOBE:lifeArea:Fysiek
+BemindePersoon:isa:Persoon
+AVONTUUR:hasPurpose:om nieuwe ervaringen te beleven
+AVONTUUR:hasSize:0
+AVONTUUR:hasSyllables:3
+AVONTUUR:isa:Activiteit
+AVONTUUR:lifeArea:Recreatie
+ADVIES:hasPurpose:om kennis over te dragen
+ADVIES:hasSize:0
+ADVIES:hasSyllables:1
+ADVIES:isa:Concept
+ADVIES:lifeArea:Spiritueel
+AFRIKA:hasPurpose:om een continent te vormen
+AFRIKA:hasSize:11
+AFRIKA:hasSyllables:3
+AFRIKA:isa:Continent
+AFRIKA:isa:Geografische Locatie
+AFRIKA:lifeArea:Educatie
+LEEFTIJD:hasPurpose:om jaren van leven bij te houden
+LEEFTIJD:hasSize:0
+LEEFTIJD:hasSyllables:1
+LEEFTIJD:isa:Meting
+LEEFTIJD:isa:Getal
+LEEFTIJD:lifeArea:Fysiek
+Vliegtuig:isa:Transportmiddel
+VLIEGTUIG:hasPurpose:om ons door de lucht te vervoeren
+VLIEGTUIG:hasSize:9
+VLIEGTUIG:hasSyllables:1
+VLIEGTUIG:isa:Vliegtuig
+VLIEGTUIG:isa:Transportmiddel
+VLIEGTUIG:lifeArea:Fysiek
+ALABAMA:hasPurpose:om een staat te vormen
+ALABAMA:hasSize:11
+ALABAMA:hasSyllables:4
+ALABAMA:isa:Geografische Locatie
+ALABAMA:isa:Staat
+ALABAMA:lifeArea:Educatie
+ALARM:hasPurpose:om ons wakker te maken
+ALARM:hasSize: 0
+ALARM:hasSyllables:1
+ALARM:isa:Geluid
+ALARM:lifeArea:Fysiek
+ALASKA:hasPurpose:om een staat te vormen
+ALASKA:hasSize:11
+ALASKA:hasSyllables:3
+ALASKA:isa:Geografische Locatie
+ALASKA:isa:Staat
+ALASKA:lifeArea:Educatie
+ALCOHOL:hasPurpose:om ons dronken te maken
+ALCOHOL:hasSize:0
+ALCOHOL:hasSyllables:3
+Alcohol:isa:Drankje
+ALCOHOL:isa:Drankje
+ALCOHOL:lifeArea:Dieet
+Alien:isa:FictiefPersonage
+AMBER:hasPurpose:om sieraden te maken
+AMBER:hasSize: 0
+AMBER:hasSyllables:2
+AMBER:isa:Steen
+AMBER:lifeArea:Fysiek
+AMERIKA:hasPurpose:om een unie te vormen
+AMERIKA:hasSize:11
+AMERIKA:hasSyllables:3
+AMERIKA:isa:Land
+AMERIKA:isa:Geografische Locatie
+AMERIKA:lifeArea:Educatie
+AMERIKAAN:hasPurpose:om een burger van Amerika te zijn
+AMERIKAAN:hasSize:0
+AMERIKAANS:hasSyllables:3
+AMERIKAAN:isa:Nationaliteit
+AMERIKAAN:lifeArea:Sociaal
+DierlijkDeel:isa:Lichaamsdeel
+DIER:hasPurpose:om in de natuur te leven
+DIER:hasSize:0
+DIER:hasSyllables:3
+DIER:isa:LevendWezen
+DIER:lifeArea:Fysiek
+Jaarlijks Evenement:isa:Feestdag
+Jaarlijks Evenement:isa:Tijdsduur
+MIER:hasPurpose:om mieren hopen te maken
+MIER:hasSize:3
+MIER:hasSyllables:1
+MIER:isa:Dier
+MIER:isa:Insect
+MIER:lifeArea:Fysiek
+ANTARCTICA:hasPurpose:om een continent te vormen
+ANTARCTICA:hasSize:11
+ANTARCTICA:isa:Continent
+ANTARCTICA:isa:Geografische locatie
+ANTARCTICA:lifeArea:Educatie
+ANTEATER:hasPurpose:om mieren te eten
+MIERENETER:hasSize:6
+MIERENETER:hasSyllables:3
+MIERENETER:isa:Dier
+MIERENETER:isa:Zoogdier
+MIERENETER:lifeArea:Fysiek
+APPLE:hasPurpose:om voeding te bieden
+APPLE:hasSize:4
+APPLE:hasSyllables:2
+APPEL:isa:Fruit
+APPLE:lifeArea:Dieet
+TOEPASSING:hasPurpose:om te solliciteren naar een baan
+TOEPASSING:hasSize:0
+TOEPASSING:hasSyllables:4
+TOEPASSING:isa:Taak
+TOEPASSING:lifeArea:Business
+APPOINTMENT:hasPurpose:om een afspraak te plannen
+AFSPRAAK:hasSize:0
+BENOEMING:hasSyllables:3
+AFSPRAAK:isa:Event
+AFSPRAAK:lifeArea:Business
+APRIL:hasPurpose:tijd te meten
+APRIL:hasSize:0
+APRIL:hasSyllables:2
+APRIL:isa:Maand
+APRIL:isa:Tijdseenheid
+APRIL:lifeArea:Fysiek
+WATERMAN:hasPurpose:onze persoonlijkheid te geven op basis van geboorte
+WATERMAN:hasSize:0
+WATERMAN:hasSyllables:4
+WATERMAN:isa:Sterrenbeeld
+WATERMAN:lifeArea:Spiritueel
+ARABIË:hasPurpose:een koninkrijk vormen
+ARABIË:hasSize:11
+ARABIË:hasSyllables:4
+ARABIË:isa:Land
+ARABIË:isa:Geografische locatie
+ARABIË:lifeArea:Onderwijs
+Spinachtige:isa:Dier
+RAM:hasPurpose:om ons persoonlijkheid te geven op basis van geboorte
+RAM:hasSize:0
+RAM:hasSyllables:2
+RAM:isa:Sterrenbeeld
+RAM:lifeArea:Spiritueel
+ARIZONA:hasPurpose:een staat vormen
+ARIZONA:hasSize:11
+ARIZONA:hasSyllables:4
+ARIZONA:isa:Geografische locatie
+ARIZONA:isa:Staat
+ARIZONA:lifeArea:Onderwijs
+ARKANSAS:hasPurpose:een staat vormen
+ARKANSAS:hasSize:11
+ARKANSAS:hasSyllables:3
+ARKANSAS:isa:Geografische locatie
+ARKANSAS:isa:Staat
+ARKANSAS:lifeArea:Onderwijs
+ARLINGTON:hasPurpose:om een stad te vormen
+ARLINGTON:hasSize:10
+ARLINGTON:hasSyllables:3
+ARLINGTON:isa:Stad
+ARLINGTON:isa:Geografische locatie
+ARLINGTON:lifeArea:Onderwijs
+armdeel:isa: lichaamsdeel
+ARMENIË:hasPurpose:een natie vormen
+ARMENIË:hasSize:11
+ARMENIË:hasSyllables:4
+ARMENIË:isa:Land
+ARMENIË:isa:Geografische locatie
+ARMENIË:lifeArea:Onderwijs
+LEGER:hasPurpose:om een natie te verdedigen
+LEGER:hasSize:10
+LEGER:hasSyllables:2
+LEGER:isa:Militair
+LEGER:lifeArea:Sociaal
+ARTIEST:hasPurpose:om nieuwe dingen te creëren
+ARTIEST:hasSize:7
+ARTIEST:hasSyllables:2
+ARTIEST:isa:Persoon
+ARTIEST:lifeArea:Creative
+AZIË:hasPurpose:een continent vormen
+AZIË:hasSize:11
+AZIË:isa:Continent
+AZIË:isa:Geografische locatie
+AZIË:lifeArea:Onderwijs
+ASSISTENT:hasPurpose:om te helpen met projecten
+ASSISTENT:hasSize: 7
+ASSISTENT:hasSyllables:3
+ASSISTENT:isa:Persoon
+ASSISTENT:lifeArea:Creative
+ATHEIST:hasPurpose:geloven dat er geen God is
+ATHEIST:hasSize:7
+ATHEIST:hasSyllables:3
+ATHEIST:isa:Persoon
+ATHEIST:lifeArea:Spiritueel
+ATLANTA:hasPurpose:een stad vormen
+ATLANTA:hasSize:10
+ATLANTA:hasSyllables:3
+ATLANTA:isa:Stad
+ATLANTA:isa:Geografische locatie
+ATLANTA:lifeArea:Onderwijs
+Atmosfeer:isa:Astronomisch Lichaam
+AUGUSTUS:hasPurpose:om de tijd te meten
+AUGUSTUS:hasSize:0
+AUGUSTUS:hasSyllables:2
+AUGUSTUS:isa:Maand
+AUGUSTUS:isa:Tijd Hoeveelheid
+AUGUSTUS:lifeArea:Fysiek
+AUSTIN:hasPurpose:om een stad te vormen
+AUSTIN:hasSize:10
+AUSTIN:hasSyllables:2
+AUSTIN:isa:Stad
+AUSTIN:isa:Geografische locatie
+AUSTIN:lifeArea:Onderwijs
+AUSTRALIË:hasPurpose:om een continent te vormen
+AUSTRALIË:hasSize:11
+AUSTRALIË:hasSyllables:1
+AUSTRALIË:isa:Continent
+AUSTRALIË:isa:Geografische locatie
+AUSTRALIË:lifeArea:Education
+AUTEUR:hasPurpose:boeken schrijven
+AUTEUR:hasSize:7
+AUTEUR:hasSyllables:4
+Auteur:isa:Persoon
+AUTEUR:isa:Persoon
+AUTEUR:lifeArea:Creative
+Auto:isa:Transport
+HERFST:hasPurpose:om bladeren te laten vallen
+HERFST:hasSize:0
+HERFST:hasSyllables:1
+HERFST:isa:Seizoen
+HERFST:lifeArea:Fysiek
+GEMIDDELDE:hasPurpose:om het midden te berekenen
+GEMIDDELD:hasSize:0
+GEMIDDELDE:hasSyllables:2
+GEMIDDELD:isa:Concept
+GEMIDDELDE:lifeArea:Onderwijs
+WAKKER:hasPurpose:bewust zijn
+WAKKER:hasSize:0
+WAKKER:hasSyllables:2
+WAKKER:isa:Spirituele Staat
+WAKKER:lifeArea:Spiritueel
+AWE:hasPurpose:onder de indruk zijn
+AWE:hasSize:0
+AWE:hasSyllables:2
+AWE:isa:Spirituele Staat
+AWE:lifeArea:Spiritueel
+BABY:hasPurpose:opgroeien
+BABY:hasSize:6
+BABY:hasSyllables:2
+BABY:isa:Kind
+BABY:isa:Persoon
+BABY:lifeArea:Familie
+TERUG:hasPurpose:om de romp te ondersteunen
+TERUG:hasSize:5
+TERUG:hasSyllables:1
+TERUG:isa:Lichaamsdeel
+TERUG:lifeArea:Fysiek
+BACON:hasPurpose:om voeding te bieden
+BACON:hasSize:3
+BACON:hasSyllables:2
+BACON:isa:Vlees
+BACON:lifeArea:Dieet
+Gebakken gerecht:isa: Italiaans eten
+Bakkerij Item:isa: Dessert
+BAL:hasPurpose: om te sporten
+BAL:hasSize: 4
+BAL:hasSyllables:1
+BAL:isa:Object
+BAL:lifeArea:Recreatie
+BANAAN:hasPurpose:om voeding te bieden
+BANAAN:hasSize:4
+BANAAN:hasSyllables:3
+BANAAN:isa:Fruit
+BANAAN:isa:Tropisch fruit
+BANAAN:lifeArea:Dieet
+BAND:hasPurpose:om muziek af te spelen
+BAND:hasSize: 8
+BAND:hasSyllables:1
+BAND:isa:Organisatie
+BAND:lifeArea:Recreatie
+BANG:hasPurpose:om ons te waarschuwen
+BANG:hasSize: 0
+BANG:hasSyllables:1
+BANG:isa:Geluid
+BANG:lifeArea:Fysiek
+BANK:hasPurpose:om geld te sparen en te lenen
+BANK:hasSize:9
+BANK:hasSyllables:1
+BANK:isa:Zakelijk
+BANK:lifeArea:Financiën
+BAR:hasPurpose:om alcohol te serveren
+BAR:hasSize:9
+BAR:hasSyllables:1
+BAR:isa:Zakelijk
+BAR:lifeArea:Recreatie
+HONKBAL:hasPurpose:om homeruns te scoren
+HONKBAL:hasSize: 0
+HONKBAL:hasSyllables:2
+HONKBAL:isa:Sport
+HONKBAL:lifeArea:Recreatie
+Basketbalteam:isa:Sportteam
+BASKETBAL:hasPurpose:om baskets te scoren
+BASKETBAL:hasSize:0
+BASKETBAL:hasSyllables:3
+BASKETBAL:isa:Sport
+BASKETBAL:lifeArea:Recreatie
+BATH:hasPurpose:om het lichaam te reinigen
+BAD:hasSize: 7
+BAD:hasSyllables:1
+BAD:isa: Hygeine
+BATH:lifeArea:Fysiek
+BATMAN:hasPurpose:om misdaad te bestrijden
+BATMAN:hasSize:7
+BATMAN:hasSyllables:2
+BATMAN:isa:Fictief personage
+BATMAN:isa:Superheld
+BATMAN:lifeArea:Recreatie
+BATTERIJ:hasPurpose: om elektriciteit op te slaan
+BATTERIJ:hasSize: 4
+BATTERIJ:hasSyllables: 3
+BATTERIJ:isa: Elektrisch apparaat
+BATTERIJ:isa: Power Storage
+BATTERIJ:lifeArea: Onderwijs
+BAY:hasPurpose:om een waterlichaam gedeeltelijk te omsluiten
+BAY:hasSize:10
+BAY:hasSyllables:1
+BAY:isa:Geografische locatie
+BAY:isa:Natuurlijke eigenschap
+BAY:lifeArea:Onderwijs
+BBC:hasPurpose:om tv-programma's te produceren
+BBC:hasSize:0
+BBC:hasSyllables:3
+BBC:isa:TV-netwerk
+BBC:lifeArea:Recreatie
+STRAND:hasPurpose: om te zwemmen en te zonnebaden
+STRAND:hasSize:10
+STRAND:hasSyllables:1
+STRAND:isa:Geografische locatie
+STRAND:isa:Natuurlijke eigenschap
+STRAND:lifeArea:Onderwijs
+BEAM:hasPurpose: om licht te dragen
+BEAM:hasSize:0
+BALK:hasSyllables:1
+BEAM:isa:Fysisch effect
+BEAM:lifeArea:Onderwijs
+BEER:hasPurpose:om bladeren en kleine dieren te eten
+BEER:hasSize:8
+BEER:hasSyllables:1
+BEER:isa:Dier
+BEER:isa:Wild Animal
+BEER:lifeArea:Fysiek
+BEAT:hasPurpose:om ritme te bieden
+BEAT:hasSize:0
+BEAT:hasSyllables:1
+BEAT:isa:Geluid
+BEAT:lifeArea:Fysiek
+BEATLES:hasPurpose:om populaire muziek af te spelen
+BEATLES:hasSize:8
+BEATLES:hasSyllables:2
+BEATLES:isa:Band
+BEATLES:isa:Rock Band
+BEATLES:lifeArea:Recreatie
+BIER:hasPurpose:om ons bedwelmd te maken
+BIER:hasSize:4
+BIER:hasSyllables:1
+BIER:isa:Alcohol
+BIER:isa:Drank
+BIER:lifeArea:Dieet
+ZIJN:hasPurpose:bestaan
+WEZEN:hasSize:0
+WEZEN:hasSyllables:2
+ZIJN:isa:Concept
+WEZEN:lifeArea:Spiritueel
+BELFAST:hasPurpose:een stad vormen
+BELFAST:hasSize:10
+BELFAST:hasSyllables:2
+BELFAST:isa:Stad
+BELFAST:isa:Geografische locatie
+BELFAST:lifeArea:Onderwijs
+BENTLEY:hasPurpose:om ons in luxe te vervoeren
+BENTLEY:hasSize:8
+BENTLEY:hasSyllables:2
+BENTLEY:isa:Automobiel
+BENTLEY:isa:Vervoer
+BENTLEY:lifeArea:Fysiek
+BERLIJN:hasPurpose:een stad vormen
+BERLIJN:hasSize:10
+BERLIJN:hasSyllables:2
+BERLIJN:isa:Stad
+BERLIJN:isa:Geografische locatie
+BERLIJN:lifeArea:Onderwijs
+BET:hasPurpose:gokken
+BET:hasSize:0
+BET:hasSyllables:1
+BET:isa:Inzet
+BET:lifeArea:Financiën
+BETA:hasPurpose:om de tweede stap te vormen
+BETA:hasSize:0
+BETA:hasSyllables:1
+BETA:isa:Symbool
+BETA:lifeArea:Onderwijs
+BIJBEL:hasPurpose:om inspiratie en begeleiding te bieden
+BIJBEL:hasSize:4
+BIJBEL:hasSyllables:2
+BIJBEL:isa:Boek
+BIJBEL:lifeArea:Spiritueel
+BIKINI:hasPurpose: om te dragen op het strand
+BIKINI:hasSize: 4
+BIKINI:hasSyllables:3
+BIKINI:isa:Kleding
+BIKINI:lifeArea:Fysiek
+VOGEL:hasPurpose:om wormen te eten
+VOGEL:hasSize:4
+VOGEL:hasSyllables:1
+Vogel:isa:Dier
+VOGEL:isa:Dier
+VOGEL:isa:Wild Dier
+VOGEL:lifeArea:Fysiek
+GEBOORTE:hasPurpose:tot leven komen
+GEBOORTE:hasSize:0
+GEBOORTE:hasSyllables:1
+GEBOORTE:isa:Event
+GEBOORTE:lifeArea:Fysiek
+VERJAARDAG:hasPurpose:om een geboorte te vieren
+VERJAARDAG:hasSize:0
+VERJAARDAG:hasSyllables:2
+VERJAARDAG:isa:Jaarlijks evenement
+VERJAARDAG:isa:Tijd hoeveelheid
+VERJAARDAG:lifeArea:Sociaal
+ZWART:hasPurpose:om donker te kleuren
+ZWART:hasSize:0
+ZWART:hasSyllables:1
+ZWART:isa:Kleur
+ZWART:lifeArea:Fysiek
+BLACKJACK:hasPurpose:gokken
+BLACKJACK:hasSize:0
+BLACKJACK:hasSyllables:2
+BLACKJACK:isa:Spel
+BLACKJACK:lifeArea:Recreatie
+BLONDE:hasPurpose:naar kleur geel
+BLOND:hasSize:0
+BLOND:hasSyllables:1
+BLOND:isa:Kleur
+BLONDE:lifeArea:Fysiek
+BLOED:hasPurpose:om vloeistof te laten circuleren
+BLOED:hasSize:0
+BLOED:hasSyllables:1
+BLOED:isa:Lichaamsdeel
+BLOED:lifeArea:Fysiek
+BLAUW:hasPurpose:om te kleuren als de lucht
+BLAUW:hasSize:0
+BLAUW:hasSyllables:1
+BLAUW:isa:Kleur
+BLAUW:lifeArea:Fysiek
+BMW:hasPurpose:om ons op de grond te vervoeren
+BMW:hasSize:8
+BMW:hasSyllables:3
+BMW:isa:Automobiel
+BMW:isa:Vervoer
+BMW:lifeArea:Fysiek
+LICHAAM:hasPurpose:om onze ziel te bevatten
+LICHAAM:hasSize: 7
+LICHAAM:hasSyllables:2
+LICHAAM:lifeArea:Fysiek
+BOND:hasPurpose:om geld in te zamelen
+BOND:hasSize:4
+BOND:hasSyllables:1
+BOND:isa:Contract
+OBLIGATIE:lifeArea:Financiën
+BOEK:hasPurpose:om kennis en verhalen te delen
+BOEK:hasSize:4
+BOEK:hasSyllables:1
+BOEK:isa:Schrijven
+BOEK:lifeArea:Onderwijs
+BOOM:hasPurpose:om ons te waarschuwen
+BOEM:hasSize: 0
+BOEM:hasSyllables:1
+BOEM:isa:Geluid
+BOOM:lifeArea:Fysiek
+BOOT:hasPurpose:om de voeten te bedekken
+BOOT:hasSize:4
+BOOT:hasSyllables:1
+BOOT:isa:Kleding
+BOOT:lifeArea:Fysiek
+BORDER:hasPurpose:twee geografische gebieden verdelen
+RAND:hasSize:0
+RAND:hasSyllables:2
+RAND:isa:Geografische locatie
+BORDER:lifeArea:Onderwijs
+Borough:isa:Geografische locatie
+BOSS:hasPurpose:om mensen te managen
+BOSS:hasSize:7
+BOSS:hasSyllables:1
+BOSS:isa:Persoon
+BOSS:lifeArea:Business
+BOSTON:hasPurpose:een stad vormen
+BOSTON:hasSize:10
+BOSTON:hasSyllables:2
+BOSTON:isa:Stad
+BOSTON:isa:Geografische locatie
+BOSTON:lifeArea:Onderwijs
+BOX:hasPurpose:om dingen op te slaan
+DOOS:hasSize: 5
+DOOS:hasSyllables:1
+DOOS:isa:Container
+BOX:lifeArea:Fysiek
+JONGEN:hasPurpose:een jonge man zijn
+JONGEN:hasSize:6
+JONGEN:hasSyllables:1
+JONGEN:isa:Mannelijke Persoon
+JONGEN:isa:Persoon
+JONGEN:lifeArea:Sociaal
+BREIN:hasPurpose:denken
+HERSENEN:hasSize: 5
+HERSENEN:hasSyllables:1
+HERSENEN:isa: Lichaamsdeel
+HERSENEN:isa:Orgaan
+HERSENEN:lifeArea:Fysiek
+MERK:hasPurpose:om een product een naam te geven
+MERK:hasSize:0
+MERK:hasSyllables:1
+MERK:isa:Concept
+MERK:lifeArea:Business
+BRANDEWIJN:hasPurpose:om ons bedwelmd te maken
+BRANDEWIJN:hasSize:4
+BRANDEWIJN:hasSyllables:2
+BRANDEWIJN:isa:Alcohol
+BRANDEWIJN:isa:Drank
+BRANDEWIJN:lifeArea:Dieet
+BRAZILIË:hasPurpose:om een natie te vormen
+BRAZILIË:hasSize:11
+BRAZILIË:hasSyllables:2
+BRAZILIË:isa:Land
+BRAZILIË:isa:Geografische locatie
+BRAZILIË:lifeArea:Onderwijs
+BROOD:hasPurpose:om voeding te bieden
+BROOD:hasSize:4
+BROOD:hasSyllables:1
+BROOD:isa:Graanproduct
+BROOD:lifeArea:Dieet
+BREAK:hasPurpose:om te ontspannen
+BREAK:hasSize:0
+BREAK:hasSyllables:1
+BREAK:isa:Activiteit
+BREAK:lifeArea:Recreatie
+ONTBIJT:hasPurpose: om voeding te bieden
+ONTBIJT:hasSize:4
+ONTBIJT:hasSyllables:2
+ONTBIJT:isa:Maaltijd
+ONTBIJT:lifeArea:Dieet
+GROOT-BRITTANNIË:hasPurpose:om een natie te vormen
+GROOT-BRITTANNIË:hasSize:11
+GROOT-BRITTANNIË:hasSyllables:2
+GROOT-BRITTANNIË:isa:Land
+GROOT-BRITTANNIË:isa:Geografische locatie
+GROOT-BRITTANNIË:lifeArea:Education
+BROER:hasPurpose:een mannelijke broer of zus zijn
+BROTHER:hasSize:7
+BROTHER:hasSyllables:2
+BROER:isa:Broer of zus
+BROER:lifeArea:Familie
+BRUIN:hasPurpose:om te kleuren als klei
+BRUIN:hasSize:0
+BRUIN:hasSyllables:1
+BRUIN:isa:Kleur
+BRUIN:lifeArea:Fysiek
+BUDDY:hasPurpose:een vriend zijn
+BUDDY:hasSize: 7
+BUDDY:hasSyllables:2
+BUDDY:isa:Vriend
+BUDDY:lifeArea:Sociaal
+BUFFALO:hasPurpose:om gras te eten
+BUFFALO:hasSize:8
+BUFFEL:hasSyllables:3
+BUFFEL:isa:Dier
+BUFFEL:isa:Wild Dier
+BUFFALO:lifeArea:Fysiek
+GEBOUW:hasPurpose:om onderdak te bieden
+GEBOUW:hasSize:9
+GEBOUW:hasSyllables:2
+GEBOUW:isa:Onderdak
+GEBOUW:lifeArea:Fysiek
+BULL:hasPurpose:om koeien te trouwen
+BULL:hasSize:8
+BULL:hasSyllables:1
+BULL:isa:Dier
+BULL:isa:Landbouwhuisdier
+BULL:lifeArea:Fysiek
+BUM:hasPurpose:om wisselgeld te vragen
+BUM:hasSize: 7
+BUM:hasSyllables:1
+BUM:isa:Persoon
+BUM:lifeArea:Sociaal
+BUNNY:hasPurpose:om paaseieren te bezorgen
+BUNNY:hasSize: 4
+BUNNY:hasSyllables:2
+BUNNY:isa:Dier
+BUNNY:isa:Konijn
+BUNNY:lifeArea:Fysiek
+BURBANK:hasPurpose:een stad vormen
+BURBANK:hasSize:10
+BURBANK:hasSyllables:2
+BURBANK:isa:Stad
+BURBANK:isa:Geografische locatie
+BURBANK:lifeArea:Onderwijs
+BURGER:hasPurpose:om voeding te bieden
+BURGER:hasSize:4
+BURGER:hasSyllables:2
+BURGER:isa:Vlees
+BURGER:lifeArea:Dieet
+BUSINESS:hasPurpose:om winst te maken
+BUSINESS:hasSize:0
+BUSINESS:hasSyllables:3
+BUSINESS:isa:Organisatie
+BUSINESS:lifeArea:Business
+BUTT:hasPurpose:om een achtereind te zijn
+BUTT:hasSize: 3
+KONT:hasSyllables:1
+BUTT:isa:Lichaamsdeel
+BUTT:lifeArea:Fysiek
+Cafeïne Drank:isa: Drank
+KALENDER:hasPurpose:om datums en afspraken bij te houden
+KALENDER:hasSize:4
+KALENDER:hasSyllables:3
+KALENDER:isa: Tijd meetapparaat
+KALENDER:isa:Gereedschap
+KALENDER:lifeArea:Onderwijs
+CALIFORNIË:hasPurpose:om een staat te vormen
+CALIFORNIË:hasSize:11
+CALIFORNIË:hasSyllables:5
+CALIFORNIË:isa:Geografische locatie
+CALIFORNIË:isa:Staat
+CALIFORNIË:lifeArea:Onderwijs
+CALL:hasPurpose:om telefonisch contact op te nemen met iemand
+OPROEP:hasSize:0
+ROEP:hasSyllables:1
+CALL:isa:Communicatie
+CALL:isa:Spraakcommunicatie
+OPROEP:lifeArea:Sociaal
+CAMERA:hasPurpose: om foto's te maken
+CAMERA:hasSize: 4
+CAMERA:hasSyllables:3
+CAMERA:isa: Tool
+CAMERA:lifeArea:Fysiek
+CANADA:hasPurpose:om een natie te vormen
+CANADA:hasSize:11
+CANADA:hasSyllables:3
+CANADA:isa:Land
+CANADA:isa:Geografische locatie
+CANADA:lifeArea:Onderwijs
+CANADEES:hasPurpose:een burger van Canada zijn
+CANADEES:hasSize:7
+CANADEES:hasSyllables:4
+CANADEES:isa:Burger
+CANADEES:isa:Persoon
+CANADEES:lifeArea:Sociaal
+KREEFT:hasPurpose:om ons persoonlijkheid te geven op basis van geboorte
+KREEFT:hasPurpose:om ons erg ziek te maken
+KANKER:hasSize:0
+KREEFT:hasSyllables:2
+KANKER:isa:Ziekte
+KREEFT:isa:Sterrenbeeld
+KANKER:lifeArea:Fysiek
+KREEFT:lifeArea:Spiritueel
+KAPITAAL:hasPurpose:het centrum van de overheid zijn
+KAPITAAL:hasSize:10
+HOOFDLETTERGEBRUIK:hasSyllables:3
+HOOFDSTAD:isa:Stad
+HOOFDSTAD:isa:Geografische locatie
+KAPITAAL:lifeArea:Onderwijs
+STEENBOK:hasPurpose:om ons persoonlijkheid te geven op basis van geboorte
+STEENBOK:hasSize:0
+STEENBOK:hasSyllables:3
+STEENBOK:isa:Sterrenbeeld
+STEENBOK:lifeArea:Spiritueel
+KAPITEIN:hasPurpose:om een schip te besturen
+KAPITEIN:hasSize:7
+KAPITEIN:hasSyllables:2
+KAPITEIN:isa:Officier
+KAPITEIN:isa:Persoon
+CAPTAIN:lifeArea:Sociaal
+CAR:hasPurpose:om ons rond te vervoeren
+AUTO:hasSize:8
+AUTO:hasSpeed:10
+CAR:hasSyllables:1
+AUTO:isa:Automobiel
+CAR:isa:Transport
+CAR:lifeArea:Fysiek
+CARD:hasPurpose:om kaartspellen te spelen
+KAART:hasSize: 4
+KAART:hasSyllables:1
+CARD:isa:Papier
+KAART:isa:Tool
+KAART:lifeArea:Recreatie
+CARNAVAL:hasPurpose:om attracties en spelletjes te bieden
+CARNAVAL:hasSize:9
+CARNAVAL:hasSyllables:3
+CARNAVAL:isa:Evenement
+CARNAVAL:lifeArea:Recreatie
+WORTEL:hasPurpose:om voeding te bieden
+WORTEL:hasSize:3
+WORTEL:hasSyllables:2
+WORTEL:isa:Groente
+WORTEL:lifeArea:Dieet
+CASH:hasPurpose:om dingen te betalen
+CASH:hasSize:4
+CASH:hasSyllables:1
+CASH:isa:Valuta
+CASH:isa:Geld
+CASH:lifeArea:Financiën
+CAT:hasPurpose:om ons gezelschap te houden
+CAT:hasSize:5
+CAT:hasSyllables:3
+CAT:isa:Dier
+Kat:isa:Huisdier
+CAT:isa:Huisdier
+CAT:lifeArea:Fysiek
+KATHOLIEK:hasPurpose:god aanbidden
+KATHOLIEK:hasSize:0
+KATHOLIEK:hasSyllables:3
+KATHOLIEK:isa:Religie
+KATHOLIEK:lifeArea:Spiritueel
+OORZAAK:hasPurpose:om iets te laten gebeuren
+OORZAAK:hasSize:0
+OORZAAK:hasSyllables:4
+OORZAAK:isa:Concept
+OORZAAK:lifeArea:Fysiek
+CELEBRITY:hasPurpose:beroemd zijn
+CELEBRITY:hasSize:7
+BEROEMDHEID:hasSyllables:1
+CELEBRITY:isa:Persoon
+BEROEMDHEID:lifeArea:Recreatie
+CEL:hasPurpose:om grotere organismen te vormen
+CEL:hasSize:2
+CEL:hasSyllables:1
+CEL:isa:Lichaamsdeel
+CEL:isa:Micro-organisme
+CEL:lifeArea:Fysiek
+CENTER:hasPurpose:om het midden te zijn
+CENTRUM:hasSize:0
+CENTRUM:hasSyllables:2
+CENTRUM:isa:Concept
+CENTER:lifeArea:Fysiek
+TSJAAD:hasPurpose:een land vormen
+TSJAAD:hasSize:11
+TSJAAD:hasSyllables:1
+TSJAAD:isa:Land
+TSJAAD:isa:Geografische locatie
+TSJAAD:lifeArea:Onderwijs
+VERANDERING:hasPurpose:om van het ene ding naar het andere over te gaan
+VERANDERING:hasSize:0
+VERANDERING:hasSyllables:1
+VERANDERING:isa:Concept
+VERANDERING:lifeArea:Fysiek
+KANAAL:hasPurpose:om entertainment te bieden
+KANAAL:hasSize: 0
+KANAAL:hasSyllables: 2
+KANAAL:lifeArea:Recreatie
+KARAKTER:hasPurpose:om een rol te spelen in een verhaal
+KARAKTER:hasSize:7
+KARAKTER:hasSyllables:3
+KARAKTER:isa:Entiteit
+KARAKTER:lifeArea:Recreatie
+CHARGE:hasPurpose: om elektriciteit op te slaan
+LADING:hasSize: 0
+LADING:hasSyllables: 1
+LADING:isa: Elektrische meting
+LADING:isa: Fysieke eenheid
+CHARGE:lifeArea:Onderwijs
+CHECK:hasPurpose:betalen vanaf een bankrekening
+CHECK:hasSize:0
+CHECK:hasSyllables:1
+CHECK:isa:Contract
+CHECK:isa:Betaalmethode
+CHECK:lifeArea:Financiën
+CHEER:hasPurpose:om te prijzen
+CHEER:hasSize:0
+CHEER:hasSyllables:1
+CHEER:isa:Activiteit
+CHEER:isa:Groepsactiviteit
+CHEER:lifeArea:Recreatie
+KAAS:hasPurpose:om voeding te bieden
+KAAS:hasSize:4
+KAAS:hasSyllables:1
+KAAS:isa:Zuivel
+KAAS:lifeArea:Dieet
+CHEETAH:hasPurpose:om op wilde dieren te jagen
+CHEETAH:hasSize:7
+CHEETAH:hasSpeed:10
+CHEETAH:hasSyllables:2
+CHEETAH:isa:Dier
+CHEETAH:isa:Wild Dier
+CHEETAH:lifeArea:Fysiek
+CHELSEA:hasPurpose:een stad vormen
+CHELSEA:hasSize:10
+CHELSEA:hasSyllables:2
+CHELSEA:isa:Stad
+CHELSEA:isa:Geografische locatie
+CHELSEA:lifeArea:Onderwijs
+CHEMISCH:hasPurpose:om verbindingen te maken
+CHEMISCH:hasSize:0
+CHEMISCH:hasSyllables:3
+CHEMISCH:isa:Chemie
+CHEMIE:lifeArea:Onderwijs
+CHERRY:hasPurpose:om voeding te bieden
+KERS:hasSize:3
+KERS:hasSyllables:2
+KERS:isa:Fruit
+KERS:lifeArea:Dieet
+CHEVY:hasPurpose:om ons op de grond te vervoeren
+CHEVY:hasSize:8
+CHEVY:hasSyllables:2
+CHEVY:isa:Automobiel
+CHEVY:isa:Vervoer
+CHEVY:lifeArea:Fysiek
+CHICAGO:hasPurpose:om een stad te vormen
+CHICAGO:hasSize:10
+CHICAGO:hasSyllables:3
+CHICAGO:isa:Stad
+CHICAGO:isa:Geografische locatie
+CHICAGO:lifeArea:Onderwijs
+KIP:hasPurpose:om voeding te bieden
+KIP:hasSize:4
+KIP:hasSyllables:2
+KIP:isa:Vlees
+KIP:lifeArea:Dieet
+KIND:hasPurpose:om de soort voort te zetten
+KIND:hasSize:6
+KIND:hasSpeed:6
+KIND:hasSyllables:1
+Kind:isa:Persoon
+KIND:isa:Persoon
+KIND:isa:Jongere
+KIND:lifeArea:Familie
+CHINA:hasPurpose:om een natie te vormen
+CHINA:hasSize:11
+CHINA:hasSyllables:2
+CHINA:isa:Land
+CHINA:isa:Geografische locatie
+CHINA:lifeArea:Onderwijs
+CHINEES:hasPurpose:een burger van China zijn
+CHINEES:hasSize:0
+CHINEES:hasSyllables:2
+CHINEES:isa:Nationaliteit
+CHINEES:lifeArea:Sociaal
+Keuze:isa:Beslissing
+CHRISTUS:hasPurpose:om Zichzelf te sacraferen voor onze zonden
+CHRISTUS:hasSize:7
+CHRISTUS:hasSyllables:1
+CHRISTUS:isa:Godheid
+CHRISTUS:isa:God
+CHRISTUS:lifeArea:Geestelijk
+CHRISTENDOM:hasPurpose:god aanbidden
+CHRISTENDOM:hasSize:0
+CHRISTENDOM:hasSyllables:5
+CHRISTENDOM:isa:Religie
+CHRISTENDOM:lifeArea:Spiritueel
+KERSTMIS:hasPurpose:om de geboorte van Christus te vieren
+KERSTMIS:hasSize:0
+KERSTMIS:hasSyllables:2
+KERSTMIS:isa:Jaarlijks evenement
+KERST:isa:Vakantie
+KERSTMIS:lifeArea:Sociaal
+KERK:hasPurpose:om gelovigen te verzamelen
+KERK:hasSize:9
+KERK:hasSyllables:1
+KERK:isa:Gebouw
+KERK:isa:Aanbiddingsfaciliteit
+KERK:lifeArea:Spiritueel
+CINCINNATI:hasPurpose:om een stad te vormen
+CINCINNATI:hasSize:10
+CINCINNATI:hasSyllables:4
+CINCINNATI:isa:Stad
+CINCINNATI:isa:Geografische locatie
+CINCINNATI:lifeArea:Onderwijs
+CINEMA:hasPurpose:om films te tonen
+BIOSCOOP:hasSize:9
+CINEMA:hasSyllables:3
+CINEMA:isa:Gebouw
+BIOSCOOP:isa:Entertainment Faciliteit
+BIOSCOOP:lifeArea:Recreatie
+Burger:isa:Persoon
+Citrus:isa:Fruit
+STAD:hasPurpose:om cultuur en beschaving te bieden
+PLAATS:hasSize:10
+PLAATS:hasSyllables:2
+Plaats:isa:Geografische locatie
+PLAATS:isa:Geografische locatie
+Plaats:isa:Georgaphical Feature
+STAD:isa:Politieke eenheid
+STAD:lifeArea:Onderwijs
+CLEVELAND:hasPurpose:om een stad te vormen
+CLEVELAND:hasSize:10
+CLEVELAND:hasSyllables:2
+CLEVELAND:isa:Stad
+CLEVELAND:isa:Geografische locatie
+CLEVELAND:lifeArea:Onderwijs
+KLEDING:hasPurpose: om het lichaam te bedekken
+KLEDING:hasSize:5
+KLEDING:hasSyllables:1
+KLEDING:isa:Kleding
+KLEDING:lifeArea:Fysiek
+CLUB:hasPurpose:om een gevoel van verbondenheid te geven
+CLUB:hasSize:0
+CLUB:hasSyllables:1
+CLUB:isa:Organisatie
+CLUB:lifeArea:Sociaal
+CLUE:hasPurpose:om informatie te onthullen
+AANWIJZING:hasSize:0
+AANWIJZING:hasSyllables:1
+AANWIJZING:isa:Concept
+AANWIJZING:lifeArea:Onderwijs
+CNN:hasPurpose:om nieuws uit te zenden
+CNN:hasSize:0
+CNN:hasSyllables:3
+CNN:isa:TV-netwerk
+CNN:lifeArea:Recreatie
+COCA:hasPurpose:om cocaïne te maken
+COCA:hasSize:3
+COCA:hasSyllables:2
+COCA:isa:Bijsnijden
+COCA:isa:Plant
+COCA:lifeArea:Dieet
+COCAÏNE:hasPurpose:om ons bedwelmd te maken
+COCAÏNE:hasSize:3
+COCAÏNE:hasSyllables:2
+COCAÏNE:isa:Drug
+COCAÏNE:lifeArea:Dieet
+COCONUT:hasPurpose:om voeding te bieden
+COCONUT:hasSize:4
+COCONUT:hasSyllables:3
+KOKOSNOOT:isa:Fruit
+COCONUT:isa:Tropisch fruit
+COCONUT:lifeArea:Dieet
+KOFFIE:hasPurpose:om ons wakker te houden
+KOFFIE:hasSize:3
+KOFFIE:hasSyllables:2
+KOFFIE:isa:Drank
+KOFFIE:isa:Cafeïnedrank
+KOFFIE:lifeArea:Dieet
+COLA:hasPurpose:om voeding te bieden
+COLA:hasSize: 4
+COLA:hasSyllables:1
+COLA:isa:Drank
+COLA:isa:Soda
+COLA:lifeArea:Dieet
+COLD:hasPurpose:om ons ziek te maken
+KOUD:hasSize:0
+KOUD:hasSyllables:1
+COLD:isa:Ziekte
+KOUD:lifeArea:Fysiek
+COLLECTIE:hasPurpose:om items te verzamelen
+COLLECTIE:hasSize:0
+COLLECTIE:hasSyllables:3
+COLLECTIE:isa:Concept
+COLLECTIE:lifeArea:Onderwijs
+COLLEGE:hasPurpose:om hoger onderwijs te bieden
+COLLEGE:hasSize:9
+COLLEGE:hasSyllables:2
+COLLEGE:isa:School
+COLLEGE:lifeArea:Onderwijs
+KLEUR:hasPurpose: om de golflengte van licht waar te nemen
+KLEUR:hasSize: 0
+KLEUR:hasSyllables: 2
+KLEUR:isa: Fysieke meting
+KLEUR:lifeArea: Fysiek
+COLORADO:hasPurpose:een staat vormen
+COLORADO:hasSize: 11
+COLORADO:hasSyllables:4
+COLORADO:isa:Geografische locatie
+COLORADO:isa:Staat
+COLORADO:lifeArea:Onderwijs
+COLUMBUS:hasPurpose:om Amerika te ontdekken
+COLUMBUS:hasSize:7
+COLUMBUS:hasSyllables:3
+COLUMBUS:isa:Ontdekkingsreiziger
+COLUMBUS:isa:Persoon
+COLUMBUS:lifeArea:Onderwijs
+COMEBACK:hasPurpose:herstellen van een tegenslag
+COMEBACK:hasSize:0
+COMEBACK:hasSyllables:2
+COMEBACK:isa:Concept
+COMEBACK:lifeArea:Sociaal
+KOMEDIE:hasPurpose:om ons aan het lachen te maken
+KOMEDIE:hasSize:0
+KOMEDIE:hasSyllables:3
+Komedie:isa:TV Show
+KOMEDIE:lifeArea:Recreatie
+OPMERKING:hasPurpose:een opmerking plaatsen
+OPMERKING:hasSize:0
+OPMERKING:hasSyllables:2
+OPMERKING:isa:Uiting
+OPMERKING:lifeArea:Sociaal
+Communicatieapparaat:isa: Machine
+BEDRIJF:hasPurpose:om een bedrijf te organiseren
+BEDRIJF:hasSize:0
+BEDRIJF:hasSyllables:3
+BEDRIJF:isa:Organization
+BEDRIJF:lifeArea:Business
+Computer programma:isa: technologie
+COMPUTER:hasPurpose:om u van dienst te zijn
+COMPUTER:hasSize: 4
+COMPUTER:hasSyllables:3
+COMPUTER:isa: Machine
+COMPUTER:lifeArea:Business
+CONNECTICUT:hasPurpose:een staat vormen
+CONNECTICUT:hasSize:11
+CONNECTICUT:hasSyllables:5
+CONNECTICUT:isa:Geografische locatie
+CONNECTICUT:isa:Staat
+CONNECTICUT:lifeArea:Onderwijs
+GRONDWET:hasPurpose:om rechten te documenteren
+GRONDWET:hasSize:4
+GRONDWET:hasSyllables:4
+GRONDWET:isa:Wet
+GRONDWET:lifeArea:Sociaal
+CONTACT:hasPurpose:om iemand te identificeren
+CONTACT:hasSize:7
+CONTACT:hasSyllables:2
+CONTACT:isa:Persoon
+CONTACT:lifeArea:Sociaal
+Continent:isa:Geografische locatie
+COOK:hasPurpose:om voedsel te bereiden
+KOK:hasSize:7
+COOK:hasSyllables:1
+KOK:isa:Persoon
+COOK:lifeArea:Business
+COOKIE:hasPurpose:om voeding te bieden
+COOKIE:hasSize:3
+COOKIE:hasSyllables:2
+COOKIE:isa:Bakkerij item
+COOKIE:isa:Dessert
+COOKIE:lifeArea:Dieet
+KOKEN:hasPurpose:om voedsel te bereiden
+KOKEN:hasSize:0
+KOKEN:hasSyllables:2
+KOKEN:isa:Activiteit
+KOKEN:lifeArea:Dieet
+KOPIËREN:hasPurpose:een duplicaat maken
+KOPIËREN:hasSize:0
+KOPIE:hasSyllables:2
+KOPIE:lifeArea:Onderwijs
+KOPIËREN:hasPurpose:om duplicaten te maken
+KOPIËREN:hasSize:0
+KOPIËREN:hasSyllables:3
+KOPIËREN:lifeArea:Onderwijs
+KORINTHISCH:hasPurpose:inspiratie bieden
+KORINTHISCHE:hasSize:0
+KORINTHISCHE:hasSyllables:4
+KORINTHIËRS:isa:Bijbelboek
+KORINTHISCHIËRS:lifeArea:Spiritueel
+MAÏS:hasPurpose:om voeding te bieden
+MAÏS:hasSize:4
+MAÏS:hasSyllables:1
+MAÏS:isa:Plantaardig
+MAÏS:lifeArea:Dieet
+HOEK:hasPurpose:om twee grenzen samen te voegen
+HOEK:hasSize:0
+HOEK:hasSyllables:1
+HOEK:lifeArea:Onderwijs
+CORRECTIE:hasPurpose:een fout herstellen
+CORRECTIE:hasSize:0
+CORRECTIE:hasSyllables:3
+CORRECTIE:lifeArea:Onderwijs
+COST:hasPurpose:om een prijs op te geven
+KOSTEN:hasSize:0
+KOSTEN:hasSyllables:1
+KOSTEN:isa:Geldbedrag
+KOSTEN:lifeArea:Zakelijk
+COSTCO:hasPurpose:om huishoudelijke producten te verkopen
+COSTCO:hasSize:0
+COSTCO:hasSyllables:2
+COSTCO:isa:Bedrijf
+COSTCO:lifeArea:Fysiek
+KATOEN:hasPurpose: om materiaal voor kleding te leveren
+KATOEN:hasSize:0
+KATOEN:hasSyllables:2
+KATOEN:isa:Textiel
+KATOEN:lifeArea:Fysiek
+AANTAL:hasPurpose:associëren met getallen
+AANTAL:hasSize:0
+AANTAL:hasSyllables:1
+AANTAL:lifeArea:Onderwijs
+LAND:hasPurpose:om een natie te vormen
+LAND:hasSize:11
+LAND:hasSyllables:2
+Land:isa:Geografische locatie
+LAND:isa:Politieke eenheid
+LAND:lifeArea:Social
+CURSUS:hasPurpose:om een onderwerp te onderwijzen
+CURSUS:hasSize:0
+CURSUS:hasSyllables:1
+CURSUS:lifeArea:Onderwijs
+NEEF:hasPurpose:de zoon of dochter van een tante zijn
+NEEF:hasSize:7
+NEEF:hasSyllables:2
+NEEF:isa:Persoon
+NEEF:lifeArea:Familie
+COW:hasPurpose:om melk te leveren
+KOE:hasSize:8
+KOE:hasSyllables:1
+KOE:isa:Dier
+KOE:isa:Boerderijdier
+KOE:lifeArea:Fysiek
+CRAB:hasPurpose:zijwaarts lopen
+KRAB:hasSize:4
+KRAB:hasSyllables:1
+KRAB:isa:Dier
+KRAB:isa:Schelpdieren
+KRAB:lifeArea:Fysiek
+CRÈME:hasPurpose: om in koffie te doen
+CRÈME:hasSize: 4
+CRÈME:hasSyllables:1
+CRÈME:isa:Zuivelproduct
+CRÈME:isa:Eten
+CRÈME:lifeArea:Dieet
+CREATOR:hasPurpose:om het universum te creëren
+MAKER:hasSize:15
+MAKER:hasSyllables:3
+SCHEPPER:isa:Godheid
+SCHEPPER:isa:God
+SCHEPPER:lifeArea:Spiritueel
+Crimineel:isa:Persoon
+Gewas:isa:Plant
+KRUIS:hasPurpose:Jezus kruisigen
+KRUIS:hasSize:7
+KRUIS:hasSyllables:1
+KRUIS:isa:Symbool
+KRUIS:lifeArea:Spiritueel
+CRUSH:hasPurpose:leiden tot liefde
+CRUSH:hasSize:0
+CRUSH:hasSyllables:1
+CRUSH:isa:Attractie
+CRUSH:lifeArea:Sociaal
+HUILEN:hasPurpose:om verdriet uit te drukken
+HUILEN:hasSize:0
+HUILEN:hasSyllables:1
+HUILEN:isa: Lichaamsfunctie
+HUILEN:lifeArea:Fysiek
+KRISTAL:hasPurpose:om er mooi uit te zien
+KRISTAL:hasSize: 0
+KRISTAL:hasSyllables:2
+KRISTAL:isa:Chemie
+CRYSTAL:lifeArea:Onderwijs
+CUP:hasPurpose: om vloeistof te bevatten
+CUP:hasSize: 0
+CUP:hasSyllables:1
+KOP:isa:Servies
+CUP:isa:Gereedschap
+CUP:lifeArea:Fysiek
+Valuta:isa:Geld
+CURRENT:hasPurpose:om elektriciteit te meten
+HUIDIG:hasSize:0
+HUIDIG:hasSyllables:2
+STROOM:isa:Meting
+CURRENT:isa:Fysieke eenheid
+CURRENT:lifeArea:Onderwijs
+CUT:hasPurpose:verdelen
+CUT:hasSize:0
+CUT:hasSyllables:1
+CUT:lifeArea:Onderwijs
+CYCLUS:hasPurpose:een patroon herhalen
+CYCLUS:hasSize: 0
+CYCLUS:hasSyllables:2
+CYCLUS:lifeArea:Onderwijs
+DAD:hasPurpose:een kind opvoeden
+DAD:hasSize:7
+DAD:hasSyllables:1
+DAD:isa:Mannelijke ouder
+DAD:isa:Ouder
+DAD:lifeArea:Familie
+Zuivelproduct:isa:Food
+DAISY:hasPurpose:om de lente aan te geven
+DAISY:hasSize:3
+DAISY:hasSyllables:2
+DAISY:isa:Bloem
+DAISY:lifeArea:Fysiek
+DALLAS:hasPurpose:om een stad te vormen
+DALLAS:hasSize:10
+DALLAS:hasSyllables:2
+DALLAS:isa:Stad
+DALLAS:isa:Geografische locatie
+DALLAS:lifeArea:Onderwijs
+DANS:hasPurpose:om ons lichaam sierlijk te bewegen
+DANS:hasSize:0
+DANS:hasSyllables:1
+DANS:isa:Activiteit
+DANS:lifeArea:Recreatie
+DARLING:hasPurpose:om genegenheid aan te geven
+DARLING:hasSize:7
+DARLING:hasSyllables:2
+DARLING:isa: Aanbeden persoon
+DARLING:isa:Persoon
+DARLING:lifeArea:Sociaal
+DASH:hasPurpose:om snel te werken
+DASH:hasSize:0
+DASH:hasSyllables:1
+DASH:lifeArea:Recreatie
+DATUM:hasPurpose:om de tijd te meten
+DATUM:hasSize:0
+DATUM:hasSyllables:1
+DATUM:isa:Event
+DATUM:isa:Tijd hoeveelheid
+DATUM:lifeArea:Fysiek
+DATING:hasPurpose:spelen op romantiek
+DATING:hasSize:0
+DATERING:hasSyllables:3
+DATING:lifeArea:Sociaal
+DAVENPORT:hasPurpose:een stad vormen
+DAVENPORT:hasSize: 10
+DAVENPORT:hasSyllables:3
+DAVENPORT:isa:Stad
+DAVENPORT:isa:Geografische locatie
+DAVENPORT:lifeArea:Onderwijs
+DAG:hasPurpose:om de tijd te meten
+DAG:hasSize:0
+DAG:hasSyllables:1
+DAG:isa:Duur
+Dag:isa: Tijd hoeveelheid
+DAG:isa: Tijd Hoeveelheid
+DAG:lifeArea:Fysiek
+DOOD:hasPurpose:om het leven te beëindigen
+OVERLIJDEN:hasSize:0
+DOOD:hasSyllables:1
+DOOD:isa:Geestelijke Staat
+DOOD:lifeArea:Spiritueel
+DECEMBER:hasPurpose:om de tijd te meten
+DECEMBER:hasSize:0
+DECEMBER:hasSyllables:3
+DECEMBER:isa:Maand
+DECEMBER:isa:Tijd Hoeveelheid
+DECEMBER:lifeArea:Fysiek
+DELAWARE:hasPurpose:een staat vormen
+DELAWARE:hasSize:11
+DELAWARE:hasSyllables:3
+DELAWARE:isa:Geografische locatie
+DELAWARE:isa:Staat
+DELAWARE:lifeArea:Onderwijs
+DELHI:hasPurpose:om een stad te vormen
+DELHI:hasSize:10
+DELHI:hasSyllables:2
+DELHI:isa:Stad
+DELHI:isa:Geografische locatie
+DELHI:lifeArea:Onderwijs
+Warenhuis:isa:Retail Business
+DEPOT:hasPurpose:wachten op een trein
+DEPOT:hasSize:9
+DEPOT:hasSyllables:2
+DEPOT:isa:Gebouw
+DEPOT:isa:Treinstation
+DEPOT:lifeArea:Fysiek
+DETAIL:hasPurpose:om specifieke informatie te geven
+DETAIL:hasSize:0
+DETAIL:hasSyllables:2
+DETAIL:lifeArea:Onderwijs
+ONTWIKKELAAR:hasPurpose:to create software
+ONTWIKKELAAR:hasSize:7
+ONTWIKKELAAR:hasSyllables:4
+ONTWIKKELAAR:isa:Person
+ONTWIKKELAAR:lifeArea:Business
+DUIVEL:hasPurpose:om ons te verleiden met het kwaad
+DUIVEL:hasSize:14
+DUIVEL:hasSyllables:2
+DUIVEL:isa:Entiteit
+DUIVEL:lifeArea:Spiritueel
+DIAL:hasPurpose:om een schakelaar te draaien
+WIJZERPLAAT:hasSize: 0
+WIJZERPLAAT:hasSyllables:2
+DIAL:isa:Tool
+DIAL:lifeArea:Fysiek
+DIAMANT:hasPurpose:om het hardste materiaal te zijn
+DIAMANT:hasSize: 0
+DIAMANT:hasSyllables:3
+DIAMANT:isa:Rots
+DIAMANT:lifeArea:Fysiek
+WOORDENBOEK:hasPurpose:woorden definiëren
+WOORDENBOEK:hasSize:4
+WOORDENBOEK:hasSyllables:4
+WOORDENBOEK:isa:Engels
+WOORDENBOEK:lifeArea:Onderwijs
+DINOSAURUS:hasPurpose:evolueren tot vogels
+DINOSAURUS:hasSize:9
+DINOSAURUS:hasSpeed:8
+DINOSAURUS:hasSyllables:3
+DINOSAURUS:isa:Dier
+DINOSAURUS:isa:Uitgestorven soorten
+DINOSAURUS:lifeArea:Onderwijs
+RICHTING:hasPurpose:een cursus opgeven
+RICHTING:hasSize: 0
+RICHTING:hasSyllables:3
+Richting:isa: Kompaspunt
+RICHTING:lifeArea:Onderwijs
+DIRECTIVE:hasPurpose:een plan specificeren
+RICHTLIJN:hasSize:0
+RICHTLIJN:hasSyllables:3
+RICHTLIJN:lifeArea:Onderwijs
+ZIEKTE:hasPurpose:om ons ziek te maken
+ZIEKTE:hasSize:0
+ZIEKTE:hasSyllables:2
+ZIEKTE:isa:Fysieke conditie
+ZIEKTE:lifeArea:Physical
+Serviesgoed:isa:Gereedschap
+DISNEY:hasPurpose: om entertainment te bieden
+DISNEY:hasSize:0
+DISNEY:hasSyllables:2
+DISNEY:lifeArea:Recreatie
+AFSTAND:hasPurpose:om de lengte tussen locaties te meten
+AFSTAND:hasSize: 0
+AFSTAND:hasSyllables:2
+AFSTAND:isa: Fysieke meting
+AFSTAND:lifeArea:Fysiek
+DNA:hasPurpose:om genetische informatie te coderen
+DNA:hasSize:1
+DNA:hasSyllables:3
+DNA:isa:Lichaamsdeel
+DNA:lifeArea:Fysiek
+ARTS:hasPurpose:om de zieken te genezen
+DOKTER:hasSize:7
+DOKTER:hasSyllables:2
+ARTS:isa:Zorgverlener
+DOKTER:isa:Persoon
+ARTS:lifeArea:Fysiek
+DOCUMENT:hasPurpose:een boodschap overbrengen
+DOCUMENT:hasSize:4
+DOCUMENT:hasSyllables:3
+DOCUMENT:lifeArea:Fysiek
+DODGE:hasPurpose:om ons rond te vervoeren
+DODGE:hasPurpose:om ons op de grond te vervoeren
+DODGE:hasSize:8
+DODGE:hasSyllables:1
+DODGE:isa:Automobiel
+DODGE:isa:Vervoer
+DODGE:lifeArea:Fysiek
+HOND:hasPurpose: om ons gezelschap te houden
+HOND:hasSize:6
+HOND:hasSyllables:1
+HOND:isa:Dier
+HOND:isa:Huisdier
+HOND:lifeArea:Fysiek
+DOLL:hasPurpose:om mee te spelen
+POP:hasSize:4
+POP:hasSyllables:1
+POP:isa:Speelgoed
+POP:lifeArea:Recreatie
+DOLLAR:hasPurpose:om dingen te betalen
+DOLLAR:hasSize:4
+DOLLAR:hasSyllables:2
+DOLLAR:isa:Valuta
+DOLLAR:isa:Geld
+DOLLAR:lifeArea:Fysiek
+DOMINO:hasPurpose:een spel spelen
+DOMINO:hasSize:3
+DOMINO:hasSyllables:3
+DOMINO:lifeArea:Recreatie
+DOOR:hasPurpose:om de ingang van een kamer of gebouw te bedekken
+DOOR:hasSize:7
+DOOR:hasSyllables:1
+DEUR:isa:In- of uitgang
+DOOR:lifeArea:Fysiek
+DRAGON:hasPurpose:om vuur te spuwen
+DRAGON:hasSize:9
+DRAGON:hasSyllables:2
+DRAGON:isa:Fictief personage
+DRAAK:isa:Vliegende Hagedis
+DRAGON:lifeArea:Recreatie
+TEKENING:hasPurpose:weergeven in een afbeelding
+TEKENING:hasSize:5
+TEKENING:hasSyllables:2
+TEKENING:isa:Afbeelding
+TEKENING:lifeArea:Creatief
+DROOM:hasPurpose:om mysteries van het onbewuste te onthullen
+DROOM:hasSize:0
+DROOM:hasSyllables:1
+DROOM:isa:Activiteit
+DROOM:isa:Onbewust Mentaal Proces
+DROOM:lifeArea:Spiritueel
+DRESS:hasPurpose:om het lichaam te bedekken
+JURK:hasSize:4
+JURK:hasSyllables:1
+JURK:isa:Kleding
+JURK:lifeArea:Fysiek
+RIJDEN:hasPurpose:om ons in een auto te vervoeren
+RIJDEN:hasSize:0
+RIJDEN:hasSyllables:2
+RIJDEN:isa:Activiteit
+RIJDEN:lifeArea:Fysiek
+DROP:hasPurpose:vallen met de zwaartekracht
+DROP:hasSize: 0
+DROP:hasSyllables:1
+DROP:lifeArea:Onderwijs
+DRUG:hasPurpose:om ons te genezen
+DRUG:hasSize: 4
+DRUG:hasSyllables:1
+DRUG:isa: Geneeskunde
+DRUG:lifeArea:Dieet
+DRONKEN:hasPurpose:bedwelmd zijn
+DRONKEN:hasSize:7
+DRONKEN:hasSyllables:1
+DRONKEN:isa:Bedwelmde Persoon
+DRONKEN:isa:Persoon
+DRONKEN:lifeArea:Sociaal
+DUCK:hasPurpose:migreren
+EEND:hasSize:4
+EEND:hasSyllables:1
+EEND:isa:Dier
+EEND:isa:Vogel
+EEND:lifeArea:Fysiek
+DUMBO:hasPurpose:vliegen met zijn oren
+DUMBO:hasSize:0
+DUMBO:hasSyllables:2
+DUMBO:isa:Fictief personage
+DUMBO:isa:Vliegende Olifant
+DUMBO:lifeArea:Recreatie
+Duur:isa: Hoeveelheid tijd
+PLICHT:hasPurpose:om verplichtingen na te komen
+PLICHT:hasSize: 0
+PLICHT:hasSyllables:2
+PLICHT:lifeArea:Sociaal
+DVD:hasPurpose:om video's af te spelen
+DVD:hasSize: 4
+DVD:hasSyllables: 3
+DVD:isa:Entertainment
+DVD:lifeArea:Recreatie
+Woning:isa:Gebouw
+STERVEN:hasPurpose:om het leven te beëindigen
+STERVEN:hasSize:0
+STERVEN:hasSyllables:2
+STERVEN:isa:Activiteit
+STERVEN:lifeArea:Spiritueel
+AARDE:hasPurpose:om ons een plek te geven om te leven
+AARDE:hasSize:12
+AARDE:hasSyllables:1
+AARDE:isa:Astronomisch Lichaam
+AARDE:isa:Planeet
+AARDE:lifeArea:Fysiek
+EAST:hasPurpose:een richting opgeven
+OOST:hasSize:0
+OOST:hasSyllables:1
+OOST:isa:Kompaspunt
+OOST:isa:Richting
+OOST:lifeArea:Fysiek
+Eetgerei:isa:Gereedschap
+ETEN:hasPurpose:om het lichaam te voeden
+ETEN:hasSize:0
+ETEN:hasSyllables:2
+ETEN:isa:Activiteit
+ETEN:lifeArea:Dieet
+ECHO:hasPurpose:een geluid herhalen
+ECHO:hasSize: 0
+ECHO:hasSyllables:2
+ECHO:lifeArea:Onderwijs
+EDEN:hasPurpose:een thuis bieden aan Adam en Eva
+EDEN:hasSize:10
+EDEN:hasSyllables:2
+EDEN:isa:Locatie
+EDEN:lifeArea:Spiritueel
+EGG:hasPurpose:om voeding te bieden
+EGG:hasSize:3
+EI:hasSyllables:1
+EI:isa:Zuivel
+EGG:lifeArea:Dieet
+EGYPTE:hasPurpose:om een natie te vormen
+EGYPTE:hasSize:11
+EGYPTE:hasSyllables:2
+EGYPTE:isa:Land
+EGYPTE:isa:Geografische locatie
+EGYPTE:lifeArea:Onderwijs
+Elektrische meting:isa: fysieke eenheid
+ELEKTRICITEIT:hasPurpose: om stroom te leveren
+ELEKTRICITEIT:hasSize: 0
+ELEKTRICITEIT:hasSyllables:5
+ELEKTRICITEIT:lifeArea:Fysiek
+ELECTRON:hasPurpose:om een atoom te vormen
+ELEKTRON:hasSize: 1
+ELEKTRON:hasSyllables:3
+ELECTRON:isa:Entiteit
+ELECTRON:lifeArea:Fysisch
+OLIFANT:hasPurpose:om babyolifanten te maken
+OLIFANT:hasSize:9
+OLIFANT:hasSyllables:3
+OLIFANT:isa:Dier
+OLIFANT:isa:Wild Dier
+OLIFANT:lifeArea:Fysiek
+END:hasPurpose:to be the last
+EINDE:hasSize:0
+EINDE:hasSyllables:2
+EINDE:isa:Concept
+EINDE:lifeArea:Fysiek
+ENGELAND:hasPurpose:om een natie te vormen
+ENGELAND:hasSize:11
+ENGELAND:hasSyllables:2
+ENGELAND:isa:Land
+ENGELAND:isa:Geografische locatie
+ENGELAND:lifeArea:Onderwijs
+ENGELS:hasPurpose:een burger van Engeland zijn
+ENGELS:hasSize:0
+ENGELS:hasSyllables:2
+NEDERLANDS:isa:Nationaliteit
+NEDERLANDS:lifeArea:Social
+ENTERPRISE:hasPurpose:een bedrijf organiseren
+ENTERPRISE:hasSize:0
+BEDRIJF:hasSyllables:3
+ENTERPRISE:isa:Organisatie
+ONDERNEMING:lifeArea:Business
+Entertainer:isa:Persoon
+Entertainment Faciliteit:isa: Gebouw
+ENTERTAINMENT:hasPurpose:om ons te laten genieten van recreatie
+ENTERTAINMENT:hasSize:0
+ENTERTAINMENT:hasSyllables:4
+ENTERTAINMENT:lifeArea:Recreatie
+ESPN:hasPurpose:om sport uit te zenden
+ESPN:hasSize:0
+ESPN:hasSyllables:4
+ESPN:isa:TV-netwerk
+ESPN:lifeArea:Recreatie
+ESSEX:hasPurpose:een stad vormen
+ESSEX:hasSize:10
+ESSEX:hasSyllables:2
+ESSEX:isa:Stad
+ESSEX:isa:Geografische locatie
+ESSEX:lifeArea:Onderwijs
+EUROPA:hasPurpose:een continent vormen
+EUROPA:hasSize:11
+EUROPA:isa:Continent
+EUROPA:isa:Geografische locatie
+EUROPA:lifeArea:Onderwijs
+AVOND:hasPurpose:om de dag af te sluiten
+AVOND:hasSize:0
+AVOND:hasSyllables:2
+AVOND:isa:Tijdmeting
+Avond:isa: Tijd hoeveelheid
+AVOND:lifeArea:Fysiek
+Gebeurtenis:isa:Hoeveelheid tijd
+EVER:hasPurpose:altijd zijn
+OOIT:hasSize:0
+OOIT:hasSyllables:2
+OOIT:isa:Concept
+OOIT:lifeArea:Fysiek
+EVEREST:hasPurpose:om ons uit te dagen om te klimmen
+EVEREST:hasSize:9
+EVEREST:hasSyllables:3
+EVEREST:isa:Geografische locatie
+EVEREST:isa:Berg
+EVEREST:lifeArea:Onderwijs
+Groenblijvende Boom:isa:Boom
+IEDEREEN:hasPurpose:om elke persoon op te nemen
+IEDEREEN:hasSize:0
+IEDEREEN:hasSyllables:5
+IEDEREEN:isa:Concept
+IEDEREEN:lifeArea:Fysiek
+IEDEREEN:hasPurpose:om elke persoon op te nemen
+IEDEREEN:hasSize:0
+IEDEREEN:hasSyllables:4
+IEDEREEN:isa:Concept
+IEDEREEN:lifeArea:Fysiek
+ALLES:hasPurpose:om alle dingen op te nemen
+ALLES:hasSize:0
+ALLES:hasSyllables:4
+ALLES:isa:Concept
+ALLES:lifeArea:Fysiek
+Kwaadaardige Entiteit:isa:Godheid
+KWAAD:hasPurpose:om ons te verleiden met slecht leven
+KWAAD:hasSize:0
+KWAAD:hasSyllables:2
+KWAAD:isa:Concept
+KWAAD:lifeArea:Spiritueel
+BESTAAN:hasPurpose:leven
+BESTAAN:hasSize:0
+BESTAAN:hasSyllables:2
+BESTAAN:isa:Concept
+BESTAAN:lifeArea:Spiritueel
+Explorer:isa:Persoon
+Uitgestorven soorten:isa:Dier
+Oogdeel:isa: lichaamsdeel
+OOG:hasPurpose:om dingen te zien
+OOG:hasSize: 3
+OOG:hasSyllables:1
+OOG:isa: Lichaamsdeel
+OOG:isa: Face Part
+OOG:lifeArea:Fysiek
+Gezichtsdeel:isa: lichaamsdeel
+GEZICHT:hasPurpose: om ons uiterlijk te laten zien
+GEZICHT:hasSize: 4
+GEZICHT:hasSyllables:1
+GEZICHT:isa: Lichaamsdeel
+GEZICHT:isa: Hoofddeel
+GEZICHT:lifeArea:Fysiek
+FEIT:hasPurpose:waarheidsgetrouwe informatie verstrekken
+FEIT:hasSize:0
+FEIT:hasSyllables:1
+FEIT:lifeArea:Onderwijs
+FABRIEK:hasPurpose: om dingen te vervaardigen
+FABRIEK:hasSize: 9
+FABRIEK:hasSyllables:3
+FABRIEK:isa:Gebouw
+FABRIEK:lifeArea:Business
+GELOOF:hasPurpose:in God geloven
+GELOOF:hasSize:0
+GELOOF:hasSyllables:1
+GELOOF:isa:Concept
+GELOOF:lifeArea:Geestelijk
+VAL:hasPurpose:om bladeren te laten vallen
+VAL:hasSize:0
+VAL:hasSyllables:1
+HERFST:isa:Seizoen
+VAL:lifeArea:Fysiek
+ONWAARHEID:hasPurpose:om uit te drukken wat niet ture is
+ONWAARHEID:hasSize:0
+ONWAARHEID:hasSyllables:2
+ONWAARHEID:isa:Concept
+ONWAAR:isa:Logisch concept
+ONWAARHEID:lifeArea:Onderwijs
+FAMILIE:hasPurpose:om ons naaste familieleden te geven
+FAMILIE:hasSize:8
+FAMILIE:hasSyllables:3
+FAMILIE:lifeArea:Familie
+Boerderijdier:isa:Dier
+MODE:hasPurpose: om je aantrekkelijk te kleden
+MODE:hasSize: 4
+MODE:hasSyllables:2
+MODE:isa:Kleding
+MODE:lifeArea:Fysiek
+FAT:hasPurpose:te zwaar zijn
+FAT:hasSize:0
+VET:hasSyllables:3
+FAT:isa:Fysische toestand
+VET:lifeArea:Fysiek
+VADER:hasPurpose:een kind opvoeden
+VADER:hasSize:7
+VADER:hasSyllables:1
+VADER:isa:Mannelijke ouder
+VADER:isa:Ouder
+VADER:lifeArea:Familie
+FEBRUARI:hasPurpose:om de tijd te meten
+FEBRUARI:hasSize:0
+FEBRUARI:hasSyllables:4
+FEBRUARI:isa:Maand
+FEBRUARI:isa: Tijd hoeveelheid
+FEBRUARI:lifeArea:Fysiek
+Vrouwelijke ouder:isa:Ouder
+Vrouwelijke ouder:isa:Persoon
+Vrouwelijke persoon:isa: persoon
+Vrouwelijke persoon:isa: broer of zus
+VROUW:hasPurpose:het XX-chromosoom dragen
+VROUW:hasSize:0
+VROUW:hasSyllables:2
+VROUW:isa:Geslacht
+VROUW:lifeArea:Fysiek
+FERRARI:hasPurpose: om ons op de grond te vervoeren
+FERRARI:hasSize:8
+FERRARI:hasSyllables:3
+FERRARI:isa:Automobiel
+FERRARI:isa:Vervoer
+FERRARI:lifeArea:Fysiek
+Fictief Persoon:isa:Fictief Personage
+VECHTEN:hasPurpose:fysiek conflicteren
+VECHTEN:hasSize:0
+VECHTEN:hasSyllables:1
+VECHTEN:lifeArea:Sociaal
+VECHTEN:hasPurpose:fysiek conflicteren
+VECHTEN:hasSize:0
+VECHTEN:hasSyllables:2
+VECHTEN:lifeArea:Sociaal
+FIGUUR:hasPurpose:illustreren met een diagram
+FIGUUR:hasSize:0
+FIGUUR:hasSyllables:2
+FIGUUR:lifeArea:Onderwijs
+FILM:hasPurpose:om entertainment te bieden
+FILM:hasSize: 0
+FILM:hasSyllables:1
+FILM:lifeArea:Recreatie
+VINGER:hasPurpose:naar punt
+VINGER:hasSize: 3
+VINGER:hasSyllables:2
+VINGER:isa: Lichaamsdeel
+VINGER:isa: Handdeel
+VINGER:lifeArea:Fysiek
+FINLAND:hasPurpose:een natie vormen
+FINLAND:hasSize:11
+FINLAND:hasSyllables:2
+FINLAND:isa:Land
+FINLAND:isa:Geografische locatie
+FINLAND:lifeArea:Onderwijs
+VUUR:hasPurpose:om dingen te verbranden
+VUUR:hasSize: 0
+VUUR:hasSyllables:1
+VUUR:isa:Fysische toestand
+VUUR:lifeArea:Fysiek
+FIRST:hasPurpose:om de oorsprong te zijn
+EERSTE:hasSize:0
+EERSTE:hasSyllables:1
+EERSTE:isa:Concept
+EERSTE:lifeArea:Fysiek
+FISH:hasPurpose:om voeding te bieden
+VIS:hasSize:4
+VIS:hasSyllables:1
+VIS:isa:Dier
+VIS:isa:Waterdier
+VIS:lifeArea:Fysiek
+VISSEN:hasPurpose:jagen op vis
+VISSEN:hasSize:0
+VISSEN:hasSyllables:2
+VISSEN:isa:Activiteit
+VISSEN:lifeArea:Recreatie
+VLUCHT:hasPurpose: om ons een lange afstand te vervoeren
+VLUCHT:hasSize:0
+VLUCHT:hasSyllables:2
+VLUCHT:isa:Activiteit
+VLUCHT:lifeArea:Business
+FLORIDA:hasPurpose:om een staat te vormen
+FLORIDA:hasSize:11
+FLORIDA:hasSyllables:3
+FLORIDA:isa:Geografische locatie
+FLORIDA:isa:Staat
+FLORIDA:lifeArea:Onderwijs
+FLOW:hasPurpose:om soepel te bewegen
+FLOW:hasSize: 0
+FLOW:hasSyllables:1
+STROOM:isa:Concept
+FLOW:lifeArea:Spiritueel
+BLOEM:hasPurpose:om ons schoonheid te geven
+BLOEM:hasSize:4
+BLOEM:hasSyllables:1
+BLOEM:isa:Plant
+BLOEM:lifeArea:Fysiek
+Vliegende olifant:isa:Fictief personage
+Vliegende hagedis:isa:Fictief personage
+VOEDSEL:hasPurpose:om voeding te bieden
+ETEN:hasSize:0
+VOEDSEL:hasSyllables:2
+VOEDSEL:lifeArea:Dieet
+Voetdeel:isa: lichaamsdeel
+VOETBAL:hasPurpose:om touchdowns te scoren
+VOETBAL:hasSize:0
+VOETBAL:hasSyllables:2
+VOETBAL:isa:Sport
+VOETBAL:lifeArea:Recreatie
+FORD:hasPurpose:om ons op de grond te vervoeren
+FORD:hasSize:8
+FORD:hasSyllables:1
+FORD:isa:Automobiel
+FORD:isa:Vervoer
+FORD:lifeArea:Fysiek
+PROGNOSE:hasPurpose:om de toekomst te voorspellen
+PROGNOSE:hasSize:0
+VOORSPELLING:hasSyllables:2
+PROGNOSE:isa:Concept
+PROGNOSE:lifeArea:Fysiek
+FOREVER:hasPurpose:to never end
+FOREVER:hasSize:0
+FOREVER:hasSyllables:3
+FOREVER:isa:Concept
+FOREVER:lifeArea:Fysiek
+VORK:hasPurpose: om ons te helpen vast voedsel te eten
+VORK:hasSize: 3
+VORK:hasSyllables:1
+VORK:isa:Eetgerei
+VORK:isa:Gereedschap
+VORK:lifeArea:Dieet
+FOX:hasPurpose:om op wilde dieren te jagen
+FOX:hasSize:6
+FOX:hasSyllables:1
+VOS:isa:Roofdier
+FOX:isa:Wild Animal
+FOX:lifeArea:Fysiek
+FRANKRIJK:hasPurpose:een natie vormen
+FRANKRIJK:hasSize:11
+FRANKRIJK:hasSyllables:1
+FRANKRIJK:isa:Land
+FRANKRIJK:isa:Geografische locatie
+FRANKRIJK:lifeArea:Onderwijs
+VRIJHEID:hasPurpose:individuele keuzes maken
+VRIJHEID:hasSize:0
+VRIJHEID:hasSyllables:1
+VRIJHEID:isa:Concept
+VRIJHEID:lifeArea:Spiritueel
+FRANS:hasPurpose:een burger van Frankrijk zijn
+FRANS:hasSize:0
+FRANS:hasSyllables:1
+FRANS:isa:Nationaliteit
+FRANS:lifeArea:Social
+VRIJDAG:hasPurpose:om de tijd te meten
+VRIJDAG:hasSize:0
+VRIJDAG:hasSyllables:2
+VRIJDAG:isa:Dag
+VRIJDAG:isa: Tijd hoeveelheid
+VRIJDAG:lifeArea:Fysiek
+VRIEND:hasPurpose:om gezelschap te bieden
+VRIEND:hasSize:7
+VRIEND:hasSyllables:1
+VRIEND:isa:Persoon
+VRIEND:lifeArea:Sociaal
+FRONT:hasPurpose:om een voorwaarts gezicht te laten zien
+VOORKANT:hasSize:0
+VOORZIJDE:hasSyllables:1
+VOORZIJDE:isa:Concept
+VOORZIJDE:lifeArea:Fysiek
+Bevroren waterkristallen:isa:Weereffect
+Bevroren water:isa: water
+FRUIT:hasPurpose:om voeding te bieden
+FRUIT:hasSize:4
+FRUIT:hasSyllables:1
+FRUIT:isa:Food Group
+FRUIT:lifeArea:Dieet
+FUNCTIE:hasPurpose:to map from domain to range
+FUNCTIE:hasSize: 0
+FUNCTIE:hasSyllables: 2
+FUNCTIE:lifeArea:Onderwijs
+SCHIMMEL:hasPurpose:om voeding te bieden
+SCHIMMEL:hasSize:4
+SCHIMMEL:hasSyllables:2
+SCHIMMEL:isa:Levend Wezen
+SCHIMMEL:lifeArea:Dieet
+FUNK:hasPurpose:om het leven moeilijk te maken
+FUNK:hasSize:0
+FUNK:hasSyllables:1
+FUNK:isa:Spirituele Staat
+FUNK:lifeArea:Spiritueel
+TOEKOMST:hasPurpose:ontvouwen
+TOEKOMST:hasSize:0
+TOEKOMST:hasSyllables:2
+TOEKOMST:isa:Tijdmeting
+TOEKOMST:lifeArea:Fysiek
+GALERIJ:hasPurpose:om kunst weer te geven
+GALERIJ:hasSize:9
+GALERIJ:hasSyllables:3
+GALERIJ:isa:Gebouw
+GALERIJ:lifeArea:Creative
+GALLON:hasPurpose:om vloeistof te meten
+GALLON:hasSize: 5
+GALLON:hasSyllables:2
+GALLON:isa:Fysische meting
+GALLON:lifeArea:Fysiek
+SPEL:hasPurpose:om te concurreren
+SPEL:hasSize:0
+SPEL:hasSyllables:1
+SPEL:isa:Activiteit
+SPEL:lifeArea:Recreatie
+GAS:hasPurpose: om interne cumbustiemotoren aan te drijven
+GAS:hasSize: 0
+GAS:hasSyllables:1
+GAS:isa:Vloeistof
+GAS:isa:Vloeibare brandstof
+GAS:lifeArea:Fysiek
+GATE:hasPurpose:toegang verlenen of weigeren
+GATE:hasSize:0
+GATE:hasSyllables:1
+POORT:isa:Concept
+GATE:lifeArea:Fysiek
+GATEWAY:hasPurpose:toegang toestaan of weigeren
+GATEWAY:hasSize: 0
+GATEWAY:hasSyllables:2
+GATEWAY:isa:Concept
+GATEWAY:lifeArea:Fysiek
+TWEELINGEN:hasPurpose:om ons persoonlijkheid te geven op basis van geboorte
+TWEELINGEN:hasSize:0
+TWEELINGEN:hasSyllables:3
+TWEELINGEN:isa:Sterrenbeeld
+TWEELINGEN:lifeArea:spiritueel
+ALGEMEEN:hasPurpose:een leger leiden
+ALGEMEEN:hasSize:0
+ALGEMEEN:hasSyllables:3
+ALGEMEEN:isa:Militair
+ALGEMEEN:isa:Persoon
+ALGEMEEN:lifeArea:Social
+GENIE:hasPurpose:wensen inwilligen
+GENIE:hasSize:7
+GENIE:hasSyllables:1
+GENIE:isa:Fictief personage
+GENIE:isa:Fictieve persoon
+GENIE:lifeArea:Recreatie
+GEOGRAFISCHE LOCATIE:hasPurpose:te identificeren op een kaart
+GEOGRAFISCHE LOCATIE:hasSize:0
+GEOGRAFISCHE LOCATIE:isa:Locatie
+GEOGRAFISCHE LOCATIE:lifeArea:Onderwijs
+GEORGIË:hasPurpose:een staat vormen
+GEORGIË:hasSize:11
+GEORGIË:hasSyllables:2
+GEORGIË:isa:Geografische locatie
+GEORGIË:isa:Staat
+GEORGIË:lifeArea:Onderwijs
+DUITS:hasPurpose:een burger van Duitsland zijn
+DUITS:hasSize:0
+DUITS:hasSyllables:2
+DUITS:isa:Nationaliteit
+DUITS:lifeArea:Social
+DUITSLAND:hasPurpose:een land vormen
+DUITSLAND:hasSize:10
+DUITSLAND:hasSyllables:3
+DUITSLAND:isa:Land
+DUITSLAND:isa:Geografische locatie
+DUITSLAND:lifeArea:Onderwijs
+GHOST:hasPurpose:om ons te achtervolgen
+GHOST:hasSize:7
+GHOST:hasSyllables:1
+GHOST:isa:Entiteit
+GHOST:lifeArea:Spiritueel
+GIANT:hasPurpose:een zeer groot persoon zijn
+GIANT:hasSize: 8
+GIANT:hasSyllables:2
+GIANT:isa:Fictief personage
+GIANT:isa: Oversized Persoon
+GIANT:lifeArea:Recreatie
+GIN:hasPurpose:om ons bedwelmd te maken
+GIN:hasSize:3
+GIN:hasSyllables:1
+GIN:isa:Alcohol
+GIN:isa:Drank
+GIN:lifeArea:Dieet
+MEISJE:hasPurpose:om uit te groeien tot een vrouw
+MEISJE:hasSize:7
+MEISJE:hasSyllables:1
+MEISJE:isa:Persoon
+MEISJE:lifeArea:Sociaal
+VRIENDIN:hasPurpose:gezelschap bieden in een relatie
+VRIENDIN:hasSize:7
+VRIENDIN:hasSyllables:2
+VRIENDIN:isa:Persoon
+VRIENDIN:lifeArea:Sociaal
+DOEL:hasPurpose:een uitkomst definiëren
+DOEL:hasSize:0
+DOEL:hasSyllables:1
+DOEL:lifeArea:Business
+GOD:hasPurpose:om het universum te scheppen
+GOD:hasSize:15
+GOD:hasSyllables:1
+God:isa:Godheid
+GOD:isa:Godheid
+GOD:lifeArea:Spiritueel
+GOUD:hasPurpose: om waardevolle sieraden en munten te maken
+GOUD:hasSize:0
+GOUD:hasSyllables:1
+GOUD:isa:Metaal
+GOUD:lifeArea:Fysiek
+GOLF:hasPurpose:om ballen in holes te slaan
+GOLF:hasSize:0
+GOLF:hasSyllables:1
+GOLF:isa:Spel
+Golfen:isa:Sport
+GOLF:lifeArea:Recreatie
+GENADE:hasPurpose:één zijn met God
+GRACE:hasSize:0
+GENADE:hasSyllables:1
+GENADE:isa:Geestelijke Staat
+GENADE:lifeArea:Spiritueel
+GRADE:hasPurpose:om feedback te geven over prestaties
+GRADE:hasSize:0
+GRADE:hasSyllables:1
+GRADE:lifeArea:Education
+GRAAN:hasPurpose:een ingrediënt zijn in gebakken goederen
+GRAAN:hasSize:2
+GRAAN:hasSyllables:1
+GRAAN:lifeArea:Dieet
+GRAMMATICA:hasPurpose:woorden structureren in zinnen
+GRAMMATICA:hasSize:0
+GRAMMATICA:hasSyllables:2
+GRAMMATICA:lifeArea:Onderwijs
+Kleinkind:isa:Persoon
+GROOTVADER:hasPurpose:wijsheid bieden
+OPA:hasSize:7
+GROOTVADER:hasSyllables:3
+OPA:isa:Grootouder
+OPA:isa:Persoon
+OPA:lifeArea:Familie
+GROOTMOEDER:hasPurpose:om wijsheid en ervaring te bieden
+GROOTMOEDER:hasSize:7
+GROOTMOEDER:hasSyllables:3
+GROOTMOEDER:isa:Grootouder
+GROOTMOEDER:isa:Persoon
+GROOTMOEDER:lifeArea:Familie
+Grootouder:isa:Persoon
+KLEINZOON:hasPurpose:om ons jong te houden als we oud zijn
+KLEINZOON:hasSize:7
+KLEINZOON:hasSyllables:2
+KLEINZOON:isa:Kleinkind
+KLEINZOON:isa:Persoon
+KLEINZOON:lifeArea:Familie
+DRUIF:hasPurpose:om voeding te bieden
+DRUIF:hasSize:3
+DRUIF:hasSyllables:1
+DRUIF:isa:Fruit
+DRUIF:isa:Wijnstok Fruit
+DRUIF:lifeArea:Dieet
+GRAPEFRUIT:hasPurpose:om voeding te bieden
+GRAPEFRUIT:hasSize:4
+GRAPEFRUIT:hasSyllables:2
+GRAPEFRUIT:isa:Citrus
+GRAPEFRUIT:isa:Fruit
+GRAPEFRUIT:lifeArea:Dieet
+GROEN:hasPurpose:om te kleuren als bladeren
+GROEN:hasSize:0
+GROEN:hasSyllables:1
+GROEN:isa:Kleur
+GROEN:lifeArea:Fysiek
+BEGROETING:hasPurpose:om te ontmoeten
+BEGROETING:hasSize:0
+GROET:hasSyllables:2
+BEGROETING:lifeArea:Sociaal
+GROND:hasPurpose:om ons iets te geven om op te staan
+GROND:hasSize:0
+GROND:hasSyllables:1
+GROND:lifeArea:Fysiek
+Groepsactiviteit:isa:Activiteit
+GUCCI:hasPurpose: om handtassen van hoge kwaliteit te maken
+GUCCI:hasSize:0
+GUCCI:hasSyllables:2
+GUCCI:isa:Fabrikant
+GUCCI:lifeArea:Zakelijk
+GUESS:hasPurpose:om het resultaat te schatten
+GOK:hasSize:0
+GOK:hasSyllables:1
+GUESS:isa:Locatie
+GUESS:lifeArea:Spiritueel
+GAST:hasPurpose:om ons te bezoeken
+GAST:hasSize:7
+GAST:hasSyllables:1
+GAST:isa:Persoon
+GAST:isa:Visiting Person
+GAST:lifeArea:Sociaal
+GUN:hasPurpose:om te doden
+GUN:hasSize: 4
+GUN:hasSyllables:1
+GUN:isa:Gereedschap
+GUN:lifeArea:Fysiek
+GUY:hasPurpose:een mannelijk persoon zijn
+GUY:hasSize: 7
+GUY:hasSyllables:1
+GUY:isa:Mannelijke Persoon
+GUY:isa:Persoon
+GUY:lifeArea:Sociaal
+Gewoonte:isa:Activiteit
+HALLIBURTON:hasPurpose:to service oilfields
+HALLIBURTON:hasSize:0
+HALLIBURTON:hasSyllables:4
+HALLIBURTON:isa:Zakelijk
+HALLIBURTON:lifeArea:Fysiek
+HALO:hasPurpose:om een engel aan te duiden
+HALO:hasSize:0
+HALO:hasSyllables:2
+HALO:isa:Concept
+HALO:lifeArea:Spiritueel
+HAMER:hasPurpose:om spijkers te slaan
+HAMER:hasSize:4
+HAMER:hasSyllables:2
+HAMER:isa:Handje, gereedschap
+HAMER:isa:Gereedschap
+HAMER:lifeArea:Fysiek
+HAMPSTER:hasPurpose:om op een wiel te lopen
+HAMPSTER:hasSize:4
+HAMPSTER:hasSyllables:2
+HAMPSTER:isa:Dier
+HAMPSTER:isa:Knaagdier
+HAMPSTER:lifeArea:Fysiek
+Handdeel:isa: lichaamsdeel
+Handje, gereedschap:isa:Gereedschap
+HAND:hasPurpose:om dingen te begrijpen
+HAND:hasSize: 4
+HAND:hasSyllables:1
+HAND:isa: Arm Deel
+HAND:isa: Lichaamsdeel
+HAND:lifeArea:Fysiek
+GELUK:hasPurpose:om ons te laten glimlachen
+GELUK:hasSize:0
+GELUK:hasSyllables:3
+GELUK:isa:Spirituele Staat
+GELUK:lifeArea:Spiritueel
+HAWAII:hasPurpose:een staat vormen
+HAWAII:hasSize:11
+HAWAII:hasSyllables:3
+HAWAII:isa:Geografische locatie
+HAWAII:isa:Staat
+HAWAII:lifeArea:Onderwijs
+HAY:hasPurpose:om paarden te voeren
+HAY:hasSize:0
+HAY:hasSyllables:1
+HAY:isa:Gewas
+HAY:lifeArea:Fysiek
+Hoofddeel:isa: lichaamsdeel
+HOOFD:hasPurpose: om onze hersenen en gezicht te bevatten
+HOOFD:hasSize:5
+HOOFD:hasSyllables:1
+HOOFD:isa: Lichaamsdeel
+HOOFD:lifeArea:Fysiek
+Gezondheidszorg Facilty:isa:Gebouw
+Zorgverlener:isa:Persoon
+GEZONDHEID:hasPurpose:om ons in leven te houden
+GEZONDHEID:hasSize:0
+GEZONDHEID:hasSyllables:1
+GEZONDHEID:isa:Fysieke toestand
+GEZONDHEID:lifeArea:Fysiek
+HART:hasPurpose: om bloed te pompen
+HART:hasSize: 4
+HART:hasSyllables:1
+HART:isa: Lichaamsdeel
+HART:isa:Orgel
+HART:lifeArea:Fysiek
+HEMEL:hasPurpose:om eeuwig leven te geven aan gelovigen
+HEMEL:hasSize:14
+HEMEL:hasSyllables:2
+HEAVEN:isa:Locatie
+HEMEL:lifeArea:Spiritueel
+HEL:hasPurpose:om zondaren eeuwig te kwellen
+HEL:hasSize:14
+HEL:hasSyllables:1
+HELL:isa:Locatie
+HEL:lifeArea:Spiritueel
+HILL:hasPurpose:klimmen
+HEUVEL:hasSize:9
+HILL:hasSyllables:1
+HILL:isa:Geografische functie
+HILL:lifeArea:Onderwijs
+GESCHIEDENIS:hasPurpose:om het verleden te beschrijven
+GESCHIEDENIS:hasSize:0
+GESCHIEDENIS:hasSyllables:3
+GESCHIEDENIS:isa:Onderwerp
+GESCHIEDENIS:lifeArea:Onderwijs
+HOLE:hasPurpose:een holte zijn
+GAT:hasSize:0
+HOLE:hasSyllables:1
+HOLE:lifeArea:Fysiek
+VAKANTIE:hasPurpose:om ons een pauze te geven van het werk
+VAKANTIE:hasPurpose:om ons de tijd te geven om te herdenken en te vieren
+VAKANTIE:hasSize:0
+VAKANTIE:hasSyllables:3
+VAKANTIE:isa:Jaarlijks evenement
+VAKANTIE:isa: Tijd hoeveelheid
+VAKANTIE:lifeArea:Sociaal
+HOLLAND:hasPurpose:een natie vormen
+HOLLAND:hasSize:11
+HOLLAND:hasSyllables:2
+HOLLAND:isa:Land
+HOLLAND:isa:Geografische locatie
+HOLLAND:lifeArea:Onderwijs
+HEILIG:hasPurpose:geestelijk zijn
+HEILIG:hasSize:0
+HEILIG:hasSyllables:2
+HEILIG:isa:Concept
+HEILIG:lifeArea:Spiritueel
+HOME:hasPurpose:om een plek te bieden om te wonen
+HOME:hasSize:9
+HOME:hasSyllables:1
+HOME:lifeArea:Familie
+HONDA:hasPurpose: om ons op de grond te vervoeren
+HONDA:hasSize: 8
+HONDA:hasSyllables:2
+HONDA:isa: Automobiel
+HONDA:isa:Transport
+HONDA:lifeArea:Fysiek
+HONING:hasPurpose:om een zoete smaak te geven
+HONING:hasSize:3
+HONING:hasSyllables:2
+HONING:isa:Ingrediënt
+HONING:lifeArea:Dieet
+HOOKER:hasPurpose:om seks te verkopen
+HOOKER:hasSize:7
+HOOKER:hasSyllables:2
+HOOKER:isa:Persoon
+HOOKER:lifeArea:Sociaal
+HOOP:hasPurpose:betere tijden wensen
+HOOP:hasSize:0
+HOOP:hasSyllables:1
+HOOP:isa:Concept
+HOOP:lifeArea:Spiritueel
+PAARD:hasPurpose:om te rijden
+PAARD:hasSize:8
+PAARD:hasSyllables:1
+Paard:isa:Dier
+PAARD:isa:Dier
+PAARD:isa:Boerderijdier
+PAARD:lifeArea:Fysiek
+ZIEKENHUIS:hasPurpose:om de zieken te genezen
+ZIEKENHUIS:hasSize:9
+ZIEKENHUIS:hasSyllables:3
+ZIEKENHUIS:isa:Gebouw
+ZIEKENHUIS:isa:Health Care Facilty
+ZIEKENHUIS:lifeArea:Fysiek
+HETE SAUS:hasPurpose:om smaak toe te voegen
+HETE SAUS:hasSize:2
+HETE SAUS:hasSyllables:2
+HETE SAUS:isa:Kruiderij
+HETE SAUS:lifeArea:Dieet
+HOTEL:hasPurpose:om onderdak te bieden tijdens het reizen
+HOTEL:hasSize:9
+HOTEL:hasSyllables:2
+HOTEL:isa:Gebouw
+HOTEL:lifeArea:Recreatie
+HOTLINE:hasPurpose:om noodoproepen te doen
+HOTLINE:hasSize:0
+HOTLINE:hasSyllables:2
+HOTLINE:isa:Tool
+HOTLINE:lifeArea:Business
+HUIS:hasPurpose:om in te wonen
+HUIS:hasSize:8
+HUIS:hasSyllables:1
+HUIS:isa:Gebouw
+HUIS:isa:Woning
+HUIS:lifeArea:Fysiek
+HUDSON:hasPurpose:om water te verplaatsen
+HUDSON:hasSize:9
+HUDSON:hasSyllables:2
+HUDSON:isa:Geografische locatie
+HUDSON:isa:Rivier
+HUDSON:lifeArea:Onderwijs
+MENS:hasPurpose:een zinvol leven leiden
+MENS:hasSize:7
+MENS:hasSyllables:2
+MENS:isa:Persoon
+MENS:lifeArea:Fysiek
+HUT:hasPurpose:om een thuis te bieden
+HUT:hasSize:9
+HUT:hasSyllables:1
+HUT:isa:Woning
+HUT:lifeArea:Fysiek
+HYUNDAI:hasPurpose:om ons op de grond te vervoeren
+HYUNDAI:hasSize:8
+HYUNDAI:hasSyllables:3
+HYUNDAI:isa:Automobiel
+HYUNDAI:isa:Vervoer
+HYUNDAI:lifeArea:Fysiek
+IBM:hasPurpose:een computer verkopen
+IBM:hasSize:0
+IBM:hasSyllables:3
+IBM:isa:Computer Business
+IBM:lifeArea:Business
+ICE:hasPurpose:een vaste vorm van water zijn
+IJS:hasSize: 0
+IJS:hasSyllables:1
+IJS:isa:Bevroren Water
+IJS:isa:Water
+ICE:lifeArea:Fysiek
+IDAHO:hasPurpose:een staat vormen
+IDAHO:hasSize:11
+IDAHO:hasSyllables:3
+IDAHO:isa:Geografische locatie
+IDAHO:isa:Staat
+IDAHO:lifeArea:Onderwijs
+ILLINOIS:hasPurpose:een staat vormen
+ILLINOIS:hasSize:11
+ILLINOIS:hasSyllables:3
+ILLINOIS:isa:Geografische locatie
+ILLINOIS:isa:Staat
+ILLINOIS:lifeArea:Onderwijs
+INDIA:hasPurpose:een land vormen
+INDIA:hasSize:10
+INDIA:hasSyllables:3
+INDIA:isa:Land
+INDIA:isa:Geografische locatie
+INDIA:lifeArea:Onderwijs
+INDIAN:hasPurpose:een burger van India zijn
+INDIAN:hasSize:0
+INDISCH:hasSyllables:3
+INDIAN:isa:Nationaliteit
+INDIAN:lifeArea:Sociaal
+INDIANA:hasPurpose:een staat vormen
+INDIANA:hasSize:11
+INDIANA:hasSyllables:4
+INDIANA:isa:Geografische locatie
+INDIANA:isa:Staat
+INDIANA:lifeArea:Onderwijs
+INDIANAPOLIS:hasPurpose:om een stad te vormen
+INDIANAPOLIS:hasSize:10
+INDIANAPOLIS:hasSyllables:6
+INDIANAPOLIS:isa:Stad
+INDIANAPOLIS:isa:Geografische locatie
+INDIANAPOLIS:lifeArea:Onderwijs
+INFORMATIE:hasPurpose:om gegevens te verstrekken
+INFORMATIE:hasSize:0
+INFORMATIE:hasSyllables:4
+INFORMATIE:lifeArea:Onderwijs
+Ingrediënt:isa:Smaakstof
+Initiële activiteit:isa:Activiteit
+INN:hasPurpose:om onderdak te bieden tijdens het reizen
+INN:hasSize:9
+INN:hasSyllables:1
+INN:isa:Gebouw
+INN:lifeArea:Recreatie
+Insect:isa:Dier
+BINNEN:hasPurpose:om het onzichtbare deel te zijn
+BINNEN:hasSize: 0
+BINNENKANT:hasSyllables:2
+BINNEN:lifeArea:Onderwijs
+INTELLIGENTIE:hasPurpose:om ons slim te maken
+INTELLIGENTIE:hasSize:0
+INTELLIGENTIE:hasSyllables:4
+INTELLIGENTIE:isa:Concept
+INTELLIGENTIE:lifeArea:Onderwijs
+INTEREST:hasPurpose:om een percentage in rekening te brengen 
+BELANGEN:hasSize:0
+BELANGEN:hasSyllables:3
+RENTE:lifeArea:Financiën
+INTERNET:hasPurpose:om alle computers aan te sluiten
+INTERNET:hasSize: 12
+INTERNET:hasSyllables:3
+INTERNET:isa:Gereedschap
+INTERNET:lifeArea:Zakelijk
+Bedwelmend middel:isa:Plant
+Bedwelmde persoon:isa:Persoon
+IOS:hasPurpose: om software op de iPhone uit te voeren
+IOS:hasSize:0
+IOS:hasSyllables:3
+IOS:isa:Software
+IOS:lifeArea:Zakelijk
+IOWA:hasPurpose:een staat vormen
+IOWA:hasSize:11
+IOWA:hasSyllables:3
+IOWA:isa:Geografische locatie
+IOWA:isa:Staat
+IOWA:lifeArea:Onderwijs
+IQ:hasPurpose:om intelligentie te meten
+IQ:hasSize:0
+IQ:hasSyllables:2
+IQ:lifeArea:Onderwijs
+IRAN:hasPurpose:om een natie te vormen
+IRAN:hasSize:11
+IRAN:hasSyllables:2
+IRAN:isa:Land
+IRAN:isa:Geografische locatie
+IRAN:lifeArea:Onderwijs
+IERLAND:hasPurpose:een natie vormen
+IERLAND:hasSize:11
+IERLAND:hasSyllables:3
+IERLAND:isa:Land
+IERLAND:isa:Geografische locatie
+IERLAND:lifeArea:Onderwijs
+IRIS:hasPurpose:visuele informatie waarnemen
+IRIS:hasSize:3
+IRIS:hasSyllables:2
+IRIS:isa:Lichaamsdeel
+IRIS:isa:Oogdeel
+IRIS:lifeArea:Fysiek
+IRISH:hasPurpose:een burger van Ierland zijn
+IRISH:hasSize:0
+IRISCH:hasSyllables:2
+IRISH:isa:Nationaliteit
+IRISH:lifeArea:Social
+IJZER:hasPurpose:om staal te maken
+IJZER:hasSize:0
+IJZER:hasSyllables:2
+IJZER:isa:Metaal
+IJZER:lifeArea:Fysiek
+ISLAM:hasPurpose:god aanbidden
+ISLAM:hasSize:0
+ISLAM:hasSyllables:2
+ISLAM:isa:Religie
+ISLAM:lifeArea:Spiritueel
+EILAND:hasPurpose:omringd worden door water
+EILAND:hasSize:10
+EILAND:hasSyllables:2
+EILAND:isa:Geografische locatie
+EILAND:isa:Landoppervlakte
+EILAND:lifeArea:Onderwijs
+ISTANBUL:hasPurpose:om een stad te vormen
+ISTANBUL:hasSize:10
+ISTANBUL:hasSyllables:3
+ISTANBUL:isa:Stad
+ISTANBUL:isa:Geografische locatie
+ISTANBUL:lifeArea:Onderwijs
+ITALIAANS:hasPurpose:een burger van Italië zijn
+ITALIAANS:hasSize:0
+ITALIAANS:hasSyllables:3
+ITALIAANS:isa:Nationaliteit
+ITALIAANS:lifeArea:Sociaal
+ITALIË:hasPurpose:een natie vormen
+ITALIË:hasSize:11
+ITALIË:hasSyllables:2
+ITALIË:isa:Land
+ITALIË:isa:Geografische locatie
+ITALIË:lifeArea:Onderwijs
+JACKSON:hasPurpose:een stad vormen
+JACKSON:hasSize:10
+JACKSON:hasSyllables:2
+JACKSON:isa:Stad
+JACKSON:isa:Geografische locatie
+JACKSON:lifeArea:Onderwijs
+JACKSONVILLE:hasPurpose:om een stad te vormen
+JACKSONVILLE:hasSize:10
+JACKSONVILLE:hasSyllables:3
+JACKSONVILLE:isa:Stad
+JACKSONVILLE:isa:Geografische locatie
+JACKSONVILLE:lifeArea:Onderwijs
+JAKARTA:hasPurpose:een stad vormen
+JAKARTA:hasSize:10
+JAKARTA:hasSyllables:3
+JAKARTA:isa:Stad
+JAKARTA:isa:Geografische locatie
+JAKARTA:lifeArea:Onderwijs
+JANUARI:hasPurpose:om de tijd te meten
+JANUARI:hasSize:0
+JANUARI:hasSyllables:4
+JANUARI:isa:Maand
+JANUARI:isa: Tijd hoeveelheid
+JANUARI:lifeArea:Fysiek
+JAPAN:hasPurpose:een natie vormen
+JAPAN:hasSize:11
+JAPAN:hasSyllables:2
+JAPAN:isa:Land
+JAPAN:isa:Geografische locatie
+JAPAN:lifeArea:Onderwijs
+JAPANS:hasPurpose:een burger van Japan zijn
+JAPANS:hasSize:0
+JAPANS:hasSyllables:3
+JAPANS:isa:Nationaliteit
+JAPANS:lifeArea:Social
+JAVA:hasPurpose:computerprogramma's schrijven
+JAVA:hasSize:0
+JAVA:hasSyllables:2
+JAVA:isa:Programmeertaal
+JAVA:isa:Software
+JAVA:lifeArea:Onderwijs
+JAZZ:hasPurpose:een muziekstijl definiëren
+JAZZ:hasSize:0
+JAZZ:hasSyllables:2
+JAZZ:isa:Muziekgenre
+JAZZ:lifeArea:Recreatie
+JEEP:hasPurpose:om ons op de grond te vervoeren
+JEEP:hasSize: 8
+JEEP:hasSyllables:1
+JEEP:isa:Automobiel
+JEEP:isa:Vervoer
+JEEP:lifeArea:Fysiek
+JEZUS:hasPurpose:zichzelf sacraferen voor onze zonden
+JEZUS:hasSize:7
+JEZUS:hasSyllables:2
+JEZUS:isa:Godheid
+JEZUS:isa:God
+JEZUS:lifeArea:Geestelijk
+JET:hasPurpose: om ons met hoge snelheid in de lucht te vervoeren
+JET:hasSize:9
+JET:hasSpeed:12
+JET:hasSyllables:1
+JET:isa:Vliegtuigen
+JET:isa:Vervoer
+JET:lifeArea:Fysiek
+JOB:hasPurpose:om ons werk te geven
+JOB:hasSize:0
+JOB:hasSyllables:1
+JOB:isa:Activiteit
+JOB:lifeArea:Business
+JOINT:hasPurpose: om te flexen
+JOINT:hasSize: 3
+JOINT:hasSyllables:1
+GEWRICHT:isa:Lichaamsdeel
+GEWRICHT:lifeArea:Fysiek
+JORDANIË:hasPurpose:een natie vormen
+JORDANIË:hasSize:11
+JORDANIË:hasSyllables:2
+JORDANIË:isa:Land
+JORDANIË:isa:Geografische locatie
+JORDANIË:lifeArea:Onderwijs
+JUDAÏSME:hasPurpose:god aanbidden
+JUDAÏSME:hasSize:0
+JUDAÏSME:hasSyllables:3
+JUDAÏSME:isa:Religie
+JUDAÏSME:lifeArea:Spiritueel
+RECHTER:hasPurpose:om schuld of onschuld te bepalen
+RECHTER:hasSize:7
+RECHTER:hasSyllables:1
+KEURMEESTER:isa:Person
+RECHTER:lifeArea:Sociaal
+JULI:hasPurpose:om de tijd te meten
+JULI:hasSize:0
+JULI:hasSyllables:2
+JULI:isa:Maand
+JULI:isa:Tijd hoeveelheid
+JULI:lifeArea:Fysiek
+JUNI:hasPurpose:om de tijd te meten
+JUNI:hasSize:0
+JUNI:hasSyllables:1
+JUNI:isa:Maand
+JUNI:isa:Tijd hoeveelheid
+JUNI:lifeArea:Fysiek
+JUPITER:hasPurpose:om ons iets te geven om te verkennen
+JUPITER:hasSize:12
+JUPITER:hasSyllables:3
+JUPITER:isa:Astronomisch Lichaam
+JUPITER:isa:Planeet
+JUPITER:lifeArea:Fysiek
+GERECHTIGHEID:hasPurpose:straffen voor misdaad
+RECHTVAARDIGHEID:hasSize:0
+RECHTVAARDIGHEID:hasSyllables:2
+RECHTVAARDIGHEID:lifeArea:Sociaal
+Juveniel dier:isa:Dier
+KANSAS:hasPurpose:een staat vormen
+KANSAS:hasSize:11
+KANSAS:hasSyllables:2
+KANSAS:isa:Geografische locatie
+KANSAS:isa:Staat
+KANSAS:lifeArea:Onderwijs
+KAPPA:hasPurpose:een Griekse letter zijn
+KAPPA:hasSize:0
+KAPPA:hasSyllables:2
+KAPPA:isa:Symbool
+KAPPA:lifeArea:Onderwijs
+KENTUCKY:hasPurpose:een staat vormen
+KENTUCKY:hasSize:11
+KENTUCKY:hasSyllables:3
+KENTUCKY:isa:Geografische locatie
+KENTUCKY:isa:Staat
+KENTUCKY:lifeArea:Onderwijs
+KETCHUP:hasPurpose:om smaak toe te voegen
+KETCHUP:hasSize:2
+KETCHUP:hasSyllables:2
+KETCHUP:isa:Kruiderij
+KETCHUP:lifeArea:Dieet
+KFC:hasPurpose:om gefrituurde kip te verkopen
+KFC:hasSize:0
+KFC:hasSyllables:3
+KFC:lifeArea:Zakelijk
+KID:hasPurpose:een kind zijn
+KID:hasSize:7
+KID:hasSyllables:1
+KID:lifeArea:Familie
+MOORDENAAR:hasPurpose:om te moorden
+KILLER:hasSize:7
+KILLER:hasSyllables:2
+MOORDENAAR:isa:Crimineel
+KILLER:isa:Persoon
+KILLER:lifeArea:Sociaal
+DODEN:hasPurpose:om te moorden
+DODEN:hasSize:0
+DODEN:hasSyllables:2
+DODEN:lifeArea:Sociaal
+KING:hasPurpose:de leider van een land zijn
+KING:hasSize:7
+KING:hasSyllables:1
+KING:isa:Persoon
+KING:isa:Politicus
+KING:lifeArea:Sociaal
+KITTY:hasPurpose:om ons gezelschap te bieden
+KITTY:hasSize:5
+KITTY:hasSyllables:2
+KITTY:isa:Kat
+KITTY:isa:Huisdier
+KITTY:lifeArea:Fysiek
+MES:hasPurpose:om dingen te snijden
+MES:hasSize:0
+MES:hasSyllables:1
+MES:isa:Gereedschap
+MES:lifeArea:Fysiek
+KOREAANS:hasPurpose:om een burger van Korea te zijn
+Koreaans:hasSize: 0
+KOREAANS:hasSyllables:3
+KOREAANS:isa:Nationaliteit
+KOREAANS:lifeArea:Sociaal
+LADY:hasPurpose:een vrouwelijk persoon zijn
+DAME:hasSize:7
+DAME:hasSyllables:2
+LADY:isa:Female Person
+DAME:isa:Persoon
+LADY:lifeArea:Sociaal
+MEER:hasPurpose: om te zwemmen en boot in
+MEER:hasSize:10
+MEER:hasSyllables:1
+MEER:isa:Geografische locatie
+MEER:lifeArea:Onderwijs
+LAKERS:hasPurpose:een basketbalteam zijn
+LAKERS:hasSize:0
+LAKERS:hasSyllables:1
+LAKERS:isa:Basketbalteam
+LAKERS:isa:Sportteam
+LAKERS:lifeArea:Recreatie
+Landoppervlakte:isa:Geografische ligging
+LAND:hasPurpose:om op te leven
+LAND:hasSize:0
+LAND:hasSyllables:1
+LAND:isa:Geografische locatie
+LAND:lifeArea:Onderwijs
+TAAL:hasPurpose:om communicatie te bieden
+TAAL:hasSize: 0
+TAAL:hasSyllables:2
+TAAL:isa:Onderwerp
+TAAL:lifeArea:Onderwijs
+LAS VEGAS:hasPurpose:een stad vormen
+LAS VEGAS:hasSize: 10
+LAS VEGAS:hasSyllables:3
+LAS VEGAS:isa:Stad
+LAS VEGAS:isa:Georgaphical Feature
+LAS VEGAS:lifeArea:Onderwijs
+LAST:hasPurpose:to be the final
+LAST:hasSize:0
+LAATSTE:hasSyllables:1
+LAST:lifeArea:Onderwijs
+LAUGH:hasPurpose:om ons een goed gevoel te geven
+LACH:hasSize:0
+LACH:hasSyllables:1
+LAUGH:lifeArea:Sociaal
+LACHEN:hasPurpose:om ons een goed gevoel te geven
+LACHEN:hasSize:0
+LACHEN:hasSyllables:2
+LACHEN:lifeArea:Sociaal
+LAW:hasPurpose:een regel opschrijven
+WET:hasSize:0
+WET:hasSyllables:1
+WET:lifeArea:Sociaal
+GAZON:hasPurpose:om gras te laten groeien
+GAZON:hasSize:0
+GAZON:hasSyllables:1
+GAZON:lifeArea:Fysiek
+LEIDER:hasPurpose:de baas zijn
+LEIDER:hasSize:7
+LEIDER:hasSyllables:2
+LEIDER:isa:Persoon
+LEADER:lifeArea:Sociaal
+LEREN:hasPurpose:om ons dingen te leren
+LEREN:hasSize:0
+LEREN:hasSyllables:2
+LEREN:lifeArea:Onderwijs
+LEEDS:hasPurpose:een stad vormen
+LEEDS:hasSize:10
+LEEDS:hasSyllables:1
+LEEDS:isa:Stad
+LEEDS:isa:Geografische locatie
+LEEDS:lifeArea:Onderwijs
+LINKS:hasPurpose:om een zijde te specificeren
+LINKS:hasSize:0
+LINKS:hasSyllables:1
+LINKS:isa:Richting
+LINKS:lifeArea:Onderwijs
+BEEN:hasPurpose:om op te staan
+POOT:hasSize:4
+POOT:hasSyllables:1
+BEEN:isa:Lichaamsdeel
+BEEN:lifeArea:Fysiek
+LEGO:hasPurpose:speelgoed bouwen
+LEGO:hasSize:3
+LEGO:hasSyllables:2
+LEGO:isa:Speelgoed
+LEGO:lifeArea:Recreatie
+CITROEN:hasPurpose:om voeding te bieden
+CITROEN:hasSize:4
+CITROEN:isa:Citrus
+CITROEN:isa:Fruit
+CITROEN:lifeArea:Dieet
+LEEUW:hasPurpose:om ons persoonlijkheid te geven op basis van geboorte
+LEO:hasSize:0
+LEO:hasSyllables:2
+LEEUW:isa:Sterrenbeeld
+LEEUW:lifeArea:Spiritueel
+LESBISCH:hasPurpose:een vrouw zijn die van een vrouw houdt
+LESBISCH:hasSize:7
+LESBISCH:hasSyllables:3
+LESBISCH:isa:Vrouwelijke persoon
+LESBISCH:isa:Persoon
+LESBISCH:lifeArea:Sociaal
+LETTER:hasPurpose:om een bericht te verzenden
+LETTER:hasSize:4
+LETTER:hasSyllables:2
+BRIEF:isa:Document
+BRIEF:lifeArea:Onderwijs
+LEVEL:hasPurpose:om horizontaliteit te meten
+NIVEAU:hasSize:0
+NIVEAU:hasSyllables:2
+NIVEAU:isa:Gereedschap
+NIVEAU:lifeArea:Fysiek
+LEXINGTON:hasPurpose:een stad vormen
+Lexington:hasSize:10
+LEXINGTON:hasSyllables:3
+LEXINGTON:isa:Stad
+LEXINGTON:isa:Geografische locatie
+LEXINGTON:lifeArea:Onderwijs
+VRIJHEID:hasPurpose:vrij zijn
+LIBERTY:hasSize:0
+VRIJHEID:hasSyllables:3
+VRIJHEID:lifeArea:Sociaal
+WEEGSCHAAL:hasPurpose:om ons persoonlijkheid te geven op basis van geboorte
+WEEGSCHAAL:hasSize:0
+WEEGSCHAAL:hasSyllables:2
+WEEGSCHAAL:isa:Sterrenbeeld
+WEEGSCHAAL:lifeArea:Spiritueel
+BIBLIOTHEEK:hasPurpose:boeken laden
+BIBLIOTHEEK:hasSize:9
+BIBLIOTHEEK:hasSyllables:3
+BIBLIOTHEEK:isa:Gebouw
+BIBLIOTHEEK:lifeArea:Onderwijs
+LIE:hasPurpose:om een onwaarheid te vertellen
+LIE:hasSize:0
+LIE:hasSyllables:1
+LIE:lifeArea:Sociaal
+LEVEN:hasPurpose:om ons het bestaan in de wereld te geven
+LEVEN:hasPurpose:om ons levend te maken
+LEVEN:hasSize:0
+LEVEN:hasSyllables:1
+LEVEN:isa:Concept
+LEVEN:isa:Spirituele Staat
+LEVEN:lifeArea:Spiritueel
+lichteffect:isa:fysiek effect
+LICHT:hasPurpose: om verlichting te bieden
+LICHT:hasSize: 0
+LICHT:hasSyllables:1
+LICHT:lifeArea:Fysiek
+LINE:hasPurpose:om de kortste afstand tussen twee punten te zijn
+LIJN:hasSize:0
+LIJN:hasSyllables:1
+LINE:lifeArea:Onderwijs
+LEEUW:hasPurpose:om op wilde dieren te jagen
+LEEUW:hasSize:8
+LEEUW:hasSyllables:2
+LEEUW:isa:Predator
+LEEUW:isa:Wild Dier
+LEEUW:lifeArea:Fysiek
+Vloeibare brandstof:isa: vloeistof
+VLOEISTOF:hasPurpose:een toestand van materie zijn
+VLOEISTOF:hasSize: 0
+VLOEISTOF:hasSyllables:2
+VLOEISTOF:isa:Materietoestand
+VLOEISTOF:lifeArea:Fysiek
+DRANK:hasPurpose:om ons bedwelmd te maken
+LIKEUR:hasSize:5
+LIKEUR:hasSyllables:1
+LIKEUR:isa:Alcohol
+LIKEUR:isa:Drank
+LIQUOR:lifeArea:Dieet
+LIST:hasPurpose:items opsommen
+LIJST:hasSize:0
+LIJST:hasSyllables:1
+LIJST:lifeArea:Onderwijs
+Living Dead:isa:Fictief personage
+LEVEN:hasPurpose:om ons levend te maken
+WONEN:hasSize:0
+LEVEN:hasSyllables:2
+LEVEN:isa:Spirituele Staat
+LEVEN:lifeArea:Spiritueel
+LOCATIE:hasPurpose:om een plaats te identificeren
+LOCATIE:hasSize:0
+LOCATIE:hasSyllables:3
+LOCATIE:lifeArea:Fysiek
+Logisch concept:isa:Concept
+LONDEN:hasPurpose:een stad vormen
+LONDEN:hasSize:10
+LONDEN:hasSyllables:2
+LONDEN:isa:City
+LONDEN:isa:Geografische locatie
+LONDEN:lifeArea:Onderwijs
+LOOP:hasPurpose:herhalen
+LOOP:hasSize: 0
+LOOP:hasSyllables:1
+LOOP:lifeArea:Onderwijs
+LOTERIJ:hasPurpose:om te gokken
+LOTERIJ:hasSize: 0
+LOTERIJ:hasSyllables:3
+LOTERIJ:lifeArea:Social
+LOUISIANA:hasPurpose:een staat vormen
+LOUISIANA:hasSize:11
+LOUISIANA:hasSyllables:5
+LOUISIANA:isa:Geografische locatie
+LOUISIANA:isa:Staat
+LOUISIANA:lifeArea:Onderwijs
+LOUNGE:hasPurpose: om een plek voor rust te bieden
+LOUNGE:hasSize: 8
+LOUNGE:hasSyllables: 1
+LOUNGE:lifeArea:Sociaal
+LIEFDE:hasPurpose:onvoorwaardelijk aanbidden
+LIEFDE:hasSize:0
+LIEFDE:hasSyllables:1
+LIEFDE:lifeArea:Sociaal
+LOVER:hasPurpose:een vriend of vriendin zijn
+MINNAAR:hasSize:7
+MINNAAR:hasSyllables:2
+MINNAAR:isa:Persoon
+LOVER:lifeArea:Sociaal
+LUCIFER:hasPurpose:om ons te verleiden met het kwaad
+LUCIFER:hasSize:14
+LUCIFER:hasSyllables:3
+LUCIFER:isa:Godheid
+LUCIFER:lifeArea:Spiritueel
+GELUK:hasPurpose:om geluk te hebben
+GELUK:hasSize:0
+GELUK:hasSyllables:1
+GELUK:isa:Concept
+GELUK:lifeArea:Spiritueel
+LUNCH:hasPurpose:om halverwege de dag een maaltijd te zijn
+LUNCH:hasSize:4
+LUNCH:hasSyllables:1
+LUNCH:isa:Maaltijd
+LUNCH:lifeArea:Dieet
+MAC:hasPurpose:een personal computer zijn
+MAC:hasSize:6
+MAC:hasSyllables:1
+MAC:isa:Machine
+MAC:isa:Gereedschap
+MAC:lifeArea:Zakelijk
+MACHINE:hasPurpose:om een functie automatisch uit te voeren
+MACHINE:hasSize: 0
+MACHINE:hasSyllables:2
+machine:isa: tool
+MACHINE:lifeArea:Fysiek
+MADRID:hasPurpose:een stad vormen
+MADRID:hasSize:10
+MADRID:hasSyllables:2
+MADRID:isa:Stad
+MADRID:isa:Geografische locatie
+MADRID:lifeArea:Onderwijs
+MADEN:hasPurpose:een vliegenlarve zijn
+MADEN:hasSize:3
+MADEN:hasSyllables:2
+MADEN:isa:Dier
+MADEN:isa:Juveniel dier
+MADEN:lifeArea:Fysiek
+MAGIC:hasPurpose:om het onmogelijke te laten gebeuren
+MAGIE:hasSize:0
+MAGIE:hasSyllables:2
+MAGIC:lifeArea:Recreatie
+MAIDEN:hasPurpose:een jonge vrouw zijn
+MAIDEN:hasSize:7
+MAAGD:hasSyllables:2
+MAIDEN:isa:Vrouwelijke Persoon
+MAIDEN:isa:Persoon
+MAIDEN:lifeArea:Sociaal
+MAIL:hasPurpose:om berichten en pakketten af te leveren
+E-mail:hasSize:4
+MAIL:hasSyllables:1
+MAIL:lifeArea:Sociaal
+MAINE:hasPurpose:een staat vormen
+MAINE:hasSize:11
+MAINE:hasSyllables:1
+MAINE:isa:Geografische locatie
+MAINE:isa:Staat
+MAINE:lifeArea:Onderwijs
+MAJOR:hasPurpose:zich specialiseren in een vakgebied
+MAJOR:hasSize:0
+MAJOOR:hasSyllables:2
+MAJOR:lifeArea:Onderwijs
+MALEISIË:hasPurpose:om een natie te vormen
+MALEISIË:hasSize:11
+MALEISIË:hasSyllables:3
+MALEISIË:isa:Land
+MALEISIË:isa:Geografische locatie
+MALEISIË:lifeArea:Onderwijs
+Mannelijke ouder:isa:Ouder
+Mannelijke persoon:isa: persoon
+MALE:hasPurpose:om het XY-chromosoom te dragen
+MAN:hasSize:0
+MAN:hasSyllables:1
+MAN:isa:Geslacht
+MAN:lifeArea:Fysiek
+MALL:hasPurpose:om shoppers en winkels te verzamelen
+WINKELCENTRUM:hasSize:9
+WINKELCENTRUM:hasSyllables:1
+MALL:isa:Gebouw
+WINKELCENTRUM:lifeArea:Zakelijk
+MAMA:hasPurpose:moeder zijn
+MAMA:hasSize:7
+MAMA:hasSyllables:2
+MAMA:lifeArea:Familie
+Zoogdier:isa:Dier
+MAN:hasPurpose:een mannelijk persoon zijn
+MAN:hasSize:7
+MAN:hasSyllables:1
+MAN:isa:Mannelijke Persoon
+Man:isa:Persoon
+MAN:isa:Persoon
+MAN:lifeArea:Sociaal
+MANAGER:hasPurpose:een baas zijn
+MANAGER:hasSize:7
+MANAGER:hasSyllables:3
+MANAGER:isa:Persoon
+MANAGER:lifeArea:Business
+MANDARIJN:hasPurpose:een dialect van het Chinees zijn
+MANDARIJN:hasSize:0
+MANDARIJN:hasSyllables:3
+MANDARIJN:isa:Taal
+MANDARIJN:lifeArea:Sociaal
+MANHATTAN:hasPurpose:het centrum van New York City
+MANHATTAN:hasSize:10
+MANHATTAN:hasSyllables:3
+MANHATTAN:isa:Stadsdeel
+MANHATTAN:isa:Geografische locatie
+MANHATTAN:lifeArea:Onderwijs
+MAP:hasPurpose:om een routebeschrijving te vinden
+KAART:hasSize:4
+KAART:hasSyllables:1
+KAART:isa:Document
+KAART:lifeArea:Onderwijs
+MAART:hasPurpose:om de tijd te meten
+MAART:hasSize:0
+MAART:hasSyllables:1
+MAART:isa:Maand
+MAART:isa:Tijd Hoeveelheid
+MAART:lifeArea:Fysiek
+HUWELIJK:hasPurpose:om geloften van liefde te delen
+HUWELIJK:hasSize:0
+HUWELIJK:hasSyllables:2
+HUWELIJK:isa:Contract
+HUWELIJK:isa:Partership
+HUWELIJK:lifeArea:Familie
+MARS:hasPurpose:om ons iets te geven om te verkennen
+MARS:hasSize:12
+MARS:hasSyllables:1
+MARS:isa:Astronomisch lichaam
+MARS:isa:Planeet
+MARS:lifeArea:Fysiek
+MARYLAND:hasPurpose:om een staat te vormen
+MARYLAND:hasSize:11
+MARYLAND:hasSyllables:3
+MARYLAND:isa:Geografische locatie
+MARYLAND:isa:Staat
+MARYLAND:lifeArea:Onderwijs
+MASS:hasPurpose:om materie te meten
+MASSA:hasSize: 0
+MASSA:hasSyllables:1
+MASSA:isa:Fysische meting
+MASSA:lifeArea:Fysiek
+MASSACHUSETTS:hasPurpose:om een staat te vormen
+MASSACHUSETTS:hasSize:11
+MASSACHUSETTS:hasSyllables:4
+MASSACHUSETTS:isa:Geografische locatie
+MASSACHUSETTS:isa:Staat
+MASSACHUSETTS:lifeArea:Onderwijs
+MASTER:hasPurpose:de baas zijn
+MEESTER:hasSize:7
+MASTER:hasSyllables:1
+MASTER:isa:Persoon
+MASTER:lifeArea:Sociaal
+MATCH:hasPurpose:om brand te stichten
+MATCH:hasSize:0
+MATCH:hasSyllables:1
+MATCH:isa:Tool
+MATCH:lifeArea:Fysiek
+Wiskundige Concept:isa:Concept
+MATERIE:hasPurpose:fysieke dingen verzinnen
+MATERIE:hasSize:0
+MATERIE:hasSyllables:2
+MATERIE:lifeArea:Fysiek
+MAY:hasPurpose:om de tijd te meten
+MEI:hasSize:0
+MEI:hasSyllables:1
+MEI:isa:Maand
+MEI:isa:Tijd Hoeveelheid
+MEI:lifeArea:Fysiek
+MCDONALDS:hasPurpose:om fastfood te verkopen
+MCDONALDS:hasSize:0
+MCDONALDS:hasSyllables:3
+MCDONALDS:isa:Zakelijk
+MCDONALDS:lifeArea:Fysiek
+BETEKENIS:hasPurpose:om semantische structuur te bieden
+BETEKENIS:hasSize:0
+BETEKENIS:hasSyllables:2
+BETEKENIS:lifeArea:Onderwijs
+Meting:isa: Aantal
+Meting:isa: Fysieke eenheid
+Vlees:isa:Bewerkt Voedsel
+MEDIA:hasPurpose:informatie verstrekken
+MEDIA:hasSize: 0
+MEDIA:hasSyllables:3
+MEDIA:lifeArea:Recreatie
+GENEESKUNDE:hasPurpose:om ons te genezen
+GENEESKUNDE:hasSize:0
+GENEESKUNDE:hasSyllables:2
+GENEESKUNDE:lifeArea:Fysiek
+VERGADERING:hasPurpose:om zaken met andere mensen te bespreken
+VERGADERING:hasSize:0
+VERGADERING:hasSyllables:2
+VERGADERING:isa:Activiteit
+VERGADERING:lifeArea:Business
+MELBOURNE:hasPurpose:een stad vormen
+MELBOURNE:hasSize:10
+MELBOURNE:hasSyllables:2
+MELBOURNE:isa:Stad
+MELBOURNE:isa:Geografische locatie
+MELBOURNE:lifeArea:Onderwijs
+GEHEUGEN:hasPurpose:om dingen te onthouden
+GEHEUGEN:hasSize:0
+GEHEUGEN:hasSyllables:3
+GEHEUGEN:isa:Concept
+GEHEUGEN:lifeArea:Spiritueel
+MENU:hasPurpose:om voedsel te vermelden dat beschikbaar is in een restaurant
+MENU:hasSize:4
+MENU:hasSyllables:2
+MENU:isa:Document
+MENU:lifeArea:Dieet
+MERCURIUS:hasPurpose:om ons iets te geven om te verkennen
+MERCURIUS:hasSize:12
+MERCURIUS:hasSyllables:3
+MERCURIUS:isa:Astronomisch Lichaam
+MERCURIUS:isa:Planeet
+MERCURIUS:lifeArea:Fysiek
+BERICHT:hasPurpose:om de spieren te ontspannen
+BERICHT:hasSize:0
+BERICHT:hasSyllables:2
+BERICHT:isa:Activiteit
+BERICHT:lifeArea:Recreatie
+MESSENGER:hasPurpose:om informatie te leveren
+MESSENGER:hasSize: 7
+MESSENGER:hasSyllables:3
+MESSENGER:isa:Persoon
+MESSENGER:lifeArea:Zakelijk
+MEXICAANS:hasPurpose:een burger van Mexico zijn
+MEXICAANS:hasSize:0
+MEXICAANS:hasSyllables:3
+MEXICAANS:isa:Nationaliteit
+MEXICAANS:lifeArea:Sociaal
+MEXICO:hasPurpose:om een natie te vormen
+MEXICO:hasSize:11
+MEXICO:hasSyllables:3
+MEXICO:isa:Land
+MEXICO:isa:Geografische locatie
+MEXICO:lifeArea:Onderwijs
+MIAMI:hasPurpose:een stad vormen
+MIAMI:hasSize:10
+MIAMI:hasSyllables:3
+MIAMI:isa:Stad
+MIAMI:isa:Geografische locatie
+MIAMI:lifeArea:Onderwijs
+MICHIGAN:hasPurpose:een staat vormen
+MICHIGAN:hasSize:11
+MICHIGAN:hasSyllables:3
+MICHIGAN:isa:Geografische locatie
+MICHIGAN:isa:Staat
+MICHIGAN:lifeArea:Onderwijs
+Micro-organisme:isa:Lichaamsdeel
+MIDDEN:hasPurpose:het centrum zijn
+MIDDEN:hasSize:0
+MIDDEN:hasSyllables:2
+MIDDEN:lifeArea:Fysiek
+MIDDLESEX:hasPurpose:een stad vormen
+MIDDLESEX:hasSize:10
+MIDDLESEX:hasSyllables:3
+MIDDLESEX:isa:Stad
+MIDDLESEX:isa:Geografische locatie
+MIDDLESEX:lifeArea:Onderwijs
+MIJL:hasPurpose:om afstand te meten
+MIJL:hasSize: 9
+MIJL:hasSyllables:1
+MIJL:lifeArea:Fysiek
+Militaire actie:isa:Conflict
+Militaire officier:isa:Persoon
+MELK:hasPurpose:om voeding te bieden
+MELK:hasSize:3
+MELK:hasSyllables:1
+MELK:isa:Drank
+MELK:lifeArea:Dieet
+MILWAUKEE:hasPurpose:om een stad te vormen
+MILWAUKEE:hasSize:10
+MILWAUKEE:hasSyllables:3
+MILWAUKEE:isa:Stad
+MILWAUKEE:isa:Geografische locatie
+MILWAUKEE:lifeArea:Onderwijs
+MIND:hasPurpose:denken
+MIND:hasSize:0
+MIND:hasSyllables:1
+MIND:isa:Concept
+MIND:lifeArea:Spiritueel
+MINE:hasPurpose: graven naar metaal
+MIJNE:hasSize: 10
+MIJN:hasSyllables:1
+MIJN:lifeArea:Fysiek
+MINISTER:hasPurpose:prediken in de kerk
+MINISTER:hasSize:7
+MINISTER:hasSyllables:3
+MINISTER:isa:Persoon
+MINISTER:lifeArea:Spiritueel
+MINNESOTA:hasPurpose:een staat vormen
+MINNESOTA:hasSize:11
+MINNESOTA:hasSyllables:4
+MINNESOTA:isa:Geografische locatie
+MINNESOTA:isa:Staat
+MINNESOTA:lifeArea:Onderwijs
+MINUUT:hasPurpose:om de tijd te meten
+MINUUT:hasSize:0
+MINUUT:hasSyllables:2
+MINUUT:isa:Tijdsinterval
+MINUUT:lifeArea:Fysiek
+MISSIE:hasPurpose:een doel voor werk bieden
+MISSIE:hasSize:0
+MISSIE:hasSyllables:2
+MISSIE:isa:Activiteit
+MISSIE:lifeArea:Business
+MISSISSIPPI:hasPurpose:een staat vormen
+MISSISSIPPI:hasSize:11
+MISSISSIPPI:hasSyllables:3
+MISSISSIPPI:isa:Geografische locatie
+MISSISSIPPI:isa:Staat
+MISSISSIPPI:lifeArea:Onderwijs
+MISSOURI:hasPurpose:een staat vormen
+MISSOURI:hasSize:11
+MISSOURI:hasSyllables:3
+MISSOURI:isa:Geografische locatie
+MISSOURI:isa:Staat
+MISSOURI:lifeArea:Onderwijs
+FOUT:hasPurpose:een fout maken
+FOUT:hasSize:0
+FOUT:hasSyllables:2
+FOUT:isa:Concept
+FOUT:lifeArea:Spiritueel
+MODE:hasPurpose:een staat of stijl zijn
+MODUS:hasSize: 0
+MODUS:hasSyllables:1
+MODE:lifeArea:Onderwijs
+MODEL:hasPurpose:naar prototype op kleine schaal
+MODEL:hasSize:0
+MODEL:hasSyllables:2
+MODEL:lifeArea:Fysiek
+MOM:hasPurpose:een kind opvoeden
+MOM:hasSize: 7
+MOM:hasSyllables:2
+MOM:isa:Vrouwelijke ouder
+MOM:isa:Ouder
+MOM:lifeArea:Familie
+MOMMA:hasPurpose:een kind opvoeden
+MOMMA:hasSize:7
+MOMMA:hasSyllables:2
+MOMMA:isa:Vrouwelijke ouder
+MOMMA:isa:Ouder
+MOMMA:lifeArea:Familie
+MOMMY:hasPurpose:een kind opvoeden
+MAMA:hasSize:7
+MAMA:hasSyllables:2
+MOMMY:isa:Vrouwelijke ouder
+MAMA:isa:Ouder
+MOMMY:lifeArea:Familie
+MAANDAG:hasPurpose:om de tijd te meten
+MAANDAG:hasSize:0
+MAANDAG:hasSyllables:2
+MAANDAG:isa:Dag
+MAANDAG:isa:Tijd Hoeveelheid
+MAANDAG:lifeArea:Fysiek
+GELD:hasPurpose:om dingen te betalen
+GELD:hasSize:0
+GELD:hasSyllables:2
+Geld:isa:Valuta
+GELD:lifeArea:Financiën
+MONKEY:hasPurpose:om bananen te eten
+MONKEY:hasSize:6
+AAP:hasSyllables:2
+MONKEY:isa:Wild Animal
+MONKEY:lifeArea:Fysiek
+MONSTER:hasPurpose:om mensen bang te maken
+MONSTER:hasSize:9
+MONSTER:hasSyllables:1
+MONSTER:isa:Fictief personage
+MONSTER:lifeArea:Recreatie
+MONTANA:hasPurpose:een staat vormen
+MONTANA:hasSize:11
+MONTANA:hasSyllables:3
+MONTANA:isa:Geografische locatie
+MONTANA:isa:Staat
+MONTANA:lifeArea:Onderwijs
+Maand:isa: Tijd hoeveelheid
+MONUMENT:hasPurpose:om het verleden te herinneren
+MONUMENT:hasSize:9
+MONUMENT:hasSyllables:3
+MONUMENT:lifeArea:Fysiek
+MAAN:hasPurpose:om getijden te maken
+MAAN:hasSize:12
+MAAN:hasSyllables:1
+MAAN:isa:Astronomisch Lichaam
+MAAN:lifeArea:Fysiek
+OCHTEND:hasPurpose:om de dag te beginnen
+OCHTEND:hasSize:0
+OCHTEND:hasSyllables:2
+OCHTEND:lifeArea:Fysiek
+MOEDER:hasPurpose:een kind opvoeden
+MOEDER:hasSize:7
+MOEDER:hasSyllables:2
+MOEDER:isa:Vrouwelijke ouder
+MOEDER:isa:Persoon
+MOEDER:lifeArea:Familie
+BERG:hasPurpose:klimmen
+BERG:hasSize:10
+BERG:hasSyllables:2
+Berg:isa:Geografische locatie
+BERG:lifeArea:Fysiek
+MUIS:hasPurpose:achtervolgd worden door katten
+MUIS:hasSize:3
+MUIS:hasSyllables:1
+MUIS:isa:Wild Animal
+MUIS:lifeArea:Fysiek
+MOND:hasPurpose: om te proeven spreken en te kussen
+MOND:hasSize: 3
+MOND:hasSyllables:1
+MOND:isa:Lichaamsdeel
+MOND:isa: Gezichtsdeel
+MOND:lifeArea:Fysiek
+FILM:hasPurpose:om vleeskaas en sla in een schaal te doen
+FILM:hasSize:0
+FILM:hasSyllables:2
+FILM:isa:Creatief werk
+FILM:lifeArea:Recreatie
+MRI:hasPurpose:om in het lichaam te kijken
+MRI:hasSize:0
+MRI:hasSyllables:3
+MRI:lifeArea:Fysiek
+MUFFIN:hasPurpose:om voeding te bieden
+MUFFIN:hasSize:4
+MUFFIN:hasSyllables:2
+MUFFIN:isa:Bakkerij item
+MUFFIN:lifeArea:Dieet
+MOORD:hasPurpose:om iemand te doden
+MOORD:hasSize:0
+MOORD:hasSyllables:2
+MOORD:lifeArea:Sociaal
+MUZIEK:hasPurpose:om onze muzikale stem naar voren te brengen
+MUZIEK:hasSize: 0
+MUZIEK:hasSyllables:2
+MUZIEK:isa:Geluid
+MUZIEK:lifeArea:Creative
+MOSLIM:hasPurpose:om God te aanbidden
+MOSLIM:hasSize:0
+MOSLIM:hasSyllables:2
+MOSLIM:isa:Religie
+MOSLIM:lifeArea:Spiritueel
+MOSTERD:hasPurpose:om smaak toe te voegen
+MOSTERD:hasSize:2
+MOSTERD:hasSyllables:2
+MOSTERD:isa:Kruiderij
+MOSTERD:lifeArea:Dieet
+NAGEL:hasPurpose:om dingen aan hout te bevestigen
+NAGEL:hasSize:3
+NAGEL:hasSyllables:1
+NAGEL:isa:Bevestigingsmiddel
+NAGEL:lifeArea:Fysiek
+NAAM:hasPurpose:om iemand te identificeren
+NAAM:hasSize:0
+NAAM:hasSyllables:1
+NAAM:lifeArea:Social
+NAP:hasPurpose:overdag slapen
+NAP:hasSize:0
+NAP:hasSyllables:1
+NAP:lifeArea:Fysiek
+Natuurlijke eigenschap:isa:Geografische locatie
+NAVAJO:hasPurpose:een groep indianen zijn
+NAVAJO:hasSize:0
+NAVAJO:hasSyllables:3
+NAVAJO:isa:Stam
+NAVAJO:lifeArea:Sociaal
+NAVIGATIE:hasPurpose:om aanwijzingen te volgen
+NAVIGATIE:hasSize:0
+NAVIGATIE:hasSyllables:4
+NAVIGATIE:isa:Activiteit
+NAVIGATIE:lifeArea:Onderwijs
+MARINE:hasPurpose:om de zeeën te beschermen
+MARINE:hasSize: 10
+MARINE:hasSyllables:2
+MARINE:isa:Militaire Organisatie
+MARINE:lifeArea:Sociaal
+NBA:hasPurpose:een basketbalcompetitie zijn
+NBA:hasSize:0
+NBA:hasSyllables:3
+NBA:isa:Organisatie
+NBA:lifeArea:Recreatie
+NEBRASKA:hasPurpose:een staat vormen
+NEBRASKA:hasSize:11
+NEBRASKA:hasSyllables:3
+NEBRASKA:isa:Geografische locatie
+NEBRASKA:isa:Staat
+NEBRASKA:lifeArea:Onderwijs
+BEHOEFTE:hasPurpose:iets hebben om naar te streven
+BEHOEFTE:hasSize: 0
+BEHOEFTE:hasSyllables:1
+BEHOEFTE:isa:Concept
+BEHOEFTE:lifeArea:Spiritueel
+NEPTUNUS:hasPurpose:om ons iets te geven om te verkennen
+NEPTUNUS:hasSize:12
+NEPTUNUS:hasSyllables:2
+NEPTUNUS:isa:Astronomisch lichaam
+NEPTUNUS:isa:Planeet
+NEPTUNE:lifeArea:Fysiek
+NET:hasPurpose:computers verbinden
+NET:hasSize:0
+NET:hasSyllables:1
+NET:lifeArea:Zakelijk
+NETWERK:hasPurpose:om computers te verbinden
+NETWERK:hasSize: 0
+NETWERK:hasSyllables:2
+NETWERK:lifeArea:Business
+NEVADA:hasPurpose:om een staat te vormen
+NEVADA:hasSize:11
+NEVADA:hasSyllables:3
+NEVADA:isa:Geografische locatie
+NEVADA:isa:Staat
+NEVADA:lifeArea:Onderwijs
+NOOIT:hasPurpose:om op geen enkel moment voor te komen
+NOOIT:hasSize:0
+NOOIT:hasSyllables:2
+NOOIT:lifeArea:Fysiek
+NEW HAMPSHIRE:hasPurpose:een staat vormen
+NEW HAMPSHIRE:hasSize:11
+NEW HAMPSHIRE:hasSyllables:3
+NEW HAMPSHIRE:isa:Geografische locatie
+NEW HAMPSHIRE:isa:Staat
+NEW HAMPSHIRE:lifeArea:Onderwijs
+NEW JERSEY:hasPurpose:om een staat te vormen
+NEW JERSEY:hasSize:11
+NEW JERSEY:hasSyllables:3
+NEW JERSEY:isa:Geografische locatie
+NEW JERSEY:isa:Staat
+NEW JERSEY:lifeArea:Onderwijs
+NEW MEXICO:hasPurpose:een staat vormen
+NEW MEXICO:hasSize:11
+NEW MEXICO:hasSyllables:4
+NEW MEXICO:isa:Geografische locatie
+NEW MEXICO:isa:Staat
+NEW MEXICO:lifeArea:Onderwijs
+NEW YORK:hasPurpose:een staat vormen
+NEW YORK:hasSize:11
+NEW YORK:hasSyllables:2
+NEW YORK:isa:Geografische locatie
+NEW YORK:isa:Staat
+NEW YORK:lifeArea:Onderwijs
+NIEUW-ZEELAND:hasPurpose:een land vormen
+NIEUW ZEELAND:hasSize:11
+NIEUW-ZEELAND:hasSyllables:3
+NIEUW-ZEELAND:isa:Land
+NIEUW-ZEELAND:isa:Geografische locatie
+NIEUW-ZEELAND:lifeArea:Onderwijs
+NIEUWS:hasPurpose:om actuele informatie te verstrekken
+NIEUWS:hasSize:0
+NIEUWS:hasSyllables:1
+NIEUWS:lifeArea:Social
+NEWTON:hasPurpose:om kracht te meten
+NEWTON:hasSize:0
+NEWTON:hasSyllables:2
+NEWTON:isa:Meting
+NEWTON:isa:Fysieke eenheid
+NEWTON:lifeArea:Onderwijs
+NFL:hasPurpose:een voetbalcompetitie zijn
+NFL:hasSize:0
+NFL:hasSyllables:3
+NFL:isa:Organisatie
+NFL:lifeArea:Recreatie
+NGO:hasPurpose:om diensten te verlenen buiten de overheid
+NGO:hasSize:0
+NGO:hasSyllables:3
+NGO:lifeArea:Sociaal
+NIGERIA:hasPurpose:een land vormen
+NIGERIA:hasSize:11
+NIGERIA:hasSyllables:3
+NIGERIA:isa:Land
+NIGERIA:isa:Geografische locatie
+NIGERIA:lifeArea:Onderwijs
+NACHT:hasPurpose:om de dag af te sluiten
+NACHT:hasSize:0
+NACHT:hasSyllables:1
+NACHT:lifeArea:Fysiek
+NIKE:hasPurpose: om schoenen te vervaardigen
+NIKE:hasSize:0
+NIKE:hasSyllables:1
+NIKE:lifeArea:Zakelijk
+NISSAN:hasPurpose:om ons op de grond te vervoeren
+NISSAN:hasSize:8
+NISSAN:hasSyllables:2
+NISSAN:isa:Automobiel
+NISSAN:isa:Transport
+NISSAN:lifeArea:Fysiek
+NIEMAND:hasPurpose:niemand zijn
+NIEMAND:hasSize:0
+NIEMAND:hasSyllables:3
+NIEMAND:lifeArea:Fysiek
+NOON:hasPurpose:om het midden van de dag te markeren
+NOON:hasSize:0
+NOON:hasSyllables:1
+NOON:lifeArea:Fysiek
+NOORD-AMERIKA:hasPurpose:een continent vormen
+NOORD-AMERIKA:hasSize:11
+NOORD-AMERIKA:isa:Continent
+NOORD-AMERIKA:isa:Geografische locatie
+NOORD-AMERIKA:lifeArea:Education
+NORTH CAROLINA:hasPurpose:een staat vormen
+NORTH CAROLINA:hasSize:11
+NORTH CAROLINA:hasSyllables:5
+NORTH CAROLINA:isa:Geografische locatie
+NORTH CAROLINA:isa:Staat
+NORTH CAROLINA:lifeArea:Onderwijs
+NORTH DAKOTA:hasPurpose:een staat vormen
+NORTH DAKOTA:hasSize:11
+NORTH DAKOTA:hasSyllables:4
+NORTH DAKOTA:isa:Geografische locatie
+NORTH DAKOTA:isa:Staat
+NORTH DAKOTA:lifeArea:Onderwijs
+NORTH:hasPurpose:een richting opgeven
+NOORD:hasSize:0
+NOORD:hasSyllables:1
+NOORD:isa:Kompaspunt
+NOORD:isa:Richting
+NOORD:lifeArea:Fysiek
+OPMERKING:hasPurpose:om informatie vast te leggen
+OPMERKING:hasSize:0
+OPMERKING:hasSyllables:1
+OPMERKING:lifeArea:Fysiek
+NIETS:hasPurpose:om niets te zijn
+NIETS:hasSize:0
+NIETS:hasSyllables:2
+NIETS:lifeArea:Fysiek
+NOVEMBER:hasPurpose:om de tijd te meten
+NOVEMBER:hasSize:0
+NOVEMBER:hasSyllables:3
+NOVEMBER:isa:Maand
+NOVEMBER:isa:Tijd hoeveelheid
+NOVEMBER:lifeArea:Fysiek
+NU:hasPurpose:om in dit moment te zijn
+NU:hasSize:0
+NU:hasSyllables:1
+NU:lifeArea:Fysiek
+AANTAL:hasPurpose:een staat vormen
+AANTAL:hasSize:0
+AANTAL:hasSyllables:2
+AANTAL:isa:Wiskundige Concept
+AANTAL:isa:Symbool
+AANTAL:lifeArea:Onderwijs
+VERPLEEGKUNDIGE:hasPurpose:om de zieken te genezen
+VERPLEEGKUNDIGE:hasSize:7
+VERPLEEGSTER:hasSyllables:1
+VERPLEEGKUNDIGE:isa:Zorgverlener
+VERPLEEGKUNDIGE:isa:Persoon
+VERPLEEGKUNDIGE:lifeArea:Fysiek
+OAKLAND:hasPurpose:een stad vormen
+OAKLAND:hasSize:10
+OAKLAND:hasSyllables:2
+OAKLAND:isa:Stad
+OAKLAND:isa:Geografische locatie
+OAKLAND:lifeArea:Onderwijs
+OKTOBER:hasPurpose:om de tijd te meten
+OKTOBER:hasSize:0
+OKTOBER:hasSyllables:3
+OKTOBER:isa:Maand
+OKTOBER:isa:Tijd hoeveelheid
+OKTOBER:lifeArea:Fysiek
+OFFICE:hasPurpose:om een werkplek te bieden
+KANTOOR:hasSize:9
+KANTOOR:hasSyllables:2
+KANTOOR:isa:Kamer
+OFFICE:lifeArea:Business
+Officier:isa:Persoon
+OHIO:hasPurpose:een staat vormen
+OHIO:hasSize:11
+OHIO:hasSyllables:3
+OHIO:isa:Geografische locatie
+OHIO:isa:Staat
+OHIO:lifeArea:Onderwijs
+OLIE:hasPurpose: om brandstof te leveren
+OLIE:hasSize: 0
+OLIE:hasSyllables:1
+OLIE:lifeArea:Fysiek
+OKLAHOMA:hasPurpose:om een staat te vormen
+OKLAHOMA:hasSize:11
+OKLAHOMA:hasSyllables:4
+OKLAHOMA:isa:Geografische locatie
+OKLAHOMA:isa:Staat
+OKLAHOMA:lifeArea:Onderwijs
+OLDS:hasPurpose:om ons op de grond te vervoeren
+OUDS:hasSize:8
+OUDS:hasSyllables:1
+OUDS:isa:Automobiel
+OLDS:isa:Transport
+OLDS:lifeArea:Fysiek
+OLYMPISCHE SPELEN:hasPurpose:topsporters belonen
+OLYMPISCHE SPELEN:hasSize:0
+OLYMPISCHE SPELEN:hasSyllables:3
+OLYMPISCHE Spelen:isa:Evenement
+OLYMPISCHE SPELEN:lifeArea:Recreatie
+OMAHA:hasPurpose:een stad vormen
+OMAHA:hasSize: 10
+OMAHA:hasSyllables:3
+OMAHA:isa:Stad
+OMAHA:isa:Geografische locatie
+OMAHA:lifeArea:Onderwijs
+OPINIE:hasPurpose:een overtuiging uitdrukken
+OPINIE:hasSize:0
+OPINIE:hasSyllables:3
+ADVIES:isa:Concept
+OPINIE:lifeArea:Spiritueel
+ORANGE:hasPurpose:om voeding te bieden
+ORANJE:hasSize:4
+ORANJE:hasSyllables:2
+ORANJE:isa:Citrus
+ORANJE:isa:Fruit
+ORANJE:lifeArea:Fysiek
+OREGON:hasPurpose:om een staat te vormen
+OREGON:hasSize:11
+OREGON:hasSyllables:3
+OREGON:isa:Geografische locatie
+OREGON:isa:Staat
+OREGON:lifeArea:Onderwijs
+Orgaan:isa: Lichaamsdeel
+ORLANDO:hasPurpose:om een stad te vormen
+ORLANDO:hasSize:10
+ORLANDO:hasSyllables:3
+ORLANDO:isa:Stad
+ORLANDO:isa:Geografische locatie
+ORLANDO:lifeArea:Onderwijs
+Oversized Persoon:isa:Fictief personage
+p:hasPurpose:om ons bedwelmd te maken
+p:hasSize:4
+p:hasSyllables:3
+p:isa:Alcohol
+p:isa:Drank
+p:lifeArea:Dieet
+PAC:hasPurpose:om een doel of kandidaat te promoten
+PAC:hasSize:0
+PAC:hasSyllables:1
+PAC:isa:Fractie
+PAC:lifeArea:Sociaal
+PAGINA:hasPurpose:een boek vullen
+PAGINA:hasSize:3
+PAGINA:hasSyllables:1
+PAGINA:lifeArea:Fysiek
+PAKISTAN:hasPurpose:om een natie te vormen
+PAKISTAN:hasSize:11
+PAKISTAN:hasSyllables:3
+PAKISTAN:isa:Land
+PAKISTAN:isa:Geografische locatie
+PAKISTAN:lifeArea:Onderwijs
+PANDORA:hasPurpose:om haar doos te openen
+PANDORA:hasSize:7
+PANDORA:hasSyllables:3
+PANDORA:isa:Mythologie
+PANDORA:lifeArea:Onderwijs
+PAPA:hasPurpose:een kind opvoeden
+PAPA:hasSize:7
+PAPA:hasSyllables:2
+PAPA:isa:Mannelijke ouder
+PAPA:isa:Ouder
+PAPA:lifeArea:Familie
+PAPER:hasPurpose:om dingen op te schrijven
+PAPIER:hasSize:3
+PAPIER:hasSyllables:2
+Papier:isa:Gereedschap
+PAPIER:lifeArea:Fysiek
+OUDER:hasPurpose:een kind opvoeden
+OUDER:hasSize:7
+OUDER:hasSyllables:2
+OUDER:isa:Persoon
+OUDER:lifeArea:Familie
+PARIJS:hasPurpose:een stad vormen
+PARIJS:hasSize:10
+PARIJS:hasSyllables:2
+PARIJS:isa:Stad
+PARIJS:isa:Geografische locatie
+PARIJS:lifeArea:Onderwijs
+PARK:hasPurpose:om een recreatieve ruimte te bieden
+PARK:hasSize:9
+PARK:hasSyllables:1
+PARK:lifeArea:Fysiek
+PAPEGAAI:hasPurpose:om te herhalen wat we zeggen
+PAPEGAAI:hasSize:4
+PAPEGAAI:hasSyllables:2
+PAPEGAAI:isa:Dier
+PAPEGAAI:isa:Vogel
+PAPEGAAI:lifeArea:Fysiek
+DEEL:hasPurpose:een stukje van iets zijn
+ONDERDEEL:hasSize: 0
+DEEL:hasSyllables:1
+ONDERDEEL:lifeArea:Fysiek
+Partership:isa:Contract
+Deeltje:isa:Fysieke eenheid
+PARTY:hasPurpose:om plezier te hebben met een groep
+PARTIJ:hasSize:0
+PARTIJ:hasSyllables:2
+PARTIJ:isa:Activiteit
+PARTIJ:lifeArea:Recreatie
+PASADENA:hasPurpose:een stad vormen
+PASADENA:hasSize:10
+PASADENA:hasSyllables:4
+PASADENA:isa:Stad
+PASADENA:isa:Geografische locatie
+PASADENA:lifeArea:Onderwijs
+PASS:hasPurpose:om tussen bergen te reizen
+PASS:hasSize:0
+PASS:hasSyllables:1
+PASS:lifeArea:Fysiek
+PASSIE:hasPurpose:enthousiast zijn
+PASSIE:hasSize:0
+PASSIE:hasSyllables:2
+PASSIE:isa:Concept
+PASSIE:lifeArea:Spiritueel
+VERLEDEN:hasPurpose:geschiedenis zijn
+VERLEDEN:hasSize:0
+VERLEDEN:hasSyllables:1
+VERLEDEN:lifeArea:Fysiek
+PASTA:hasPurpose:om voeding te bieden
+PASTA:hasSize: 4
+PASTA:hasSyllables:2
+PASTA:isa:Graanproduct
+Pasta:isa:Italiaans eten
+PASTA:isa:Spaghetti ingrediënt
+PASTA:lifeArea:Dieet
+Betaalinstrument:isa: Contract
+Betaling:isa: Geldbedrag
+VREDE:hasPurpose:om ons kalm te maken
+VREDE:hasSize:0
+VREDE:hasSyllables:1
+VREDE:isa:Geestelijke Staat
+VREDE:lifeArea:Spiritueel
+PEE:hasPurpose:om de blaas te legen
+PEE:hasSize:0
+PEE:hasSyllables:1
+PEE:isa:Lichaamsfunctie
+PEE:lifeArea:Fysiek
+PEEING:hasPurpose:om de blaas te legen
+PEEING:hasSize:0
+PEEING:hasSyllables:1
+PEEING:isa:Lichaamsfunctie
+PEEING:lifeArea:Fysiek
+PEN:hasPurpose:woorden schrijven en afbeeldingen tekenen
+PEN:hasSize:3
+PEN:hasSyllables:1
+PEN:isa:Gereedschap
+PEN:isa:Schrijfinstrument
+PEN:lifeArea:Fysiek
+POTLOOD:hasPurpose:woorden schrijven en afbeeldingen tekenen
+POTLOOD:hasSize:3
+POTLOOD:hasSyllables:2
+POTLOOD:isa:Gereedschap
+POTLOOD:isa:Schrijfinstrument
+POTLOOD:lifeArea:Fysiek
+PENNSYLVANIA:hasPurpose:een staat vormen
+PENNSYLVANIA:hasSize:11
+PENNSYLVANIA:hasSyllables:5
+PENNSYLVANIA:isa:Geografische locatie
+PENNSYLVANIA:isa:Staat
+PENNSYLVANIA:lifeArea:Onderwijs
+PEPPER:hasPurpose:om smaak toe te voegen
+PEPER:hasSize:2
+PEPER:hasSyllables:2
+PEPER:isa:Kruiderij
+PEPPER:lifeArea:Dieet
+PERFECTIE:hasPurpose:om ons vrij van fouten te maken
+PERFECTIE:hasSize: 0
+PERFECTIE:hasSyllables:2
+PERFECTIE:isa:Spirituele Staat
+PERFECTIE:lifeArea:Spiritueel
+PERSOON:hasPurpose:een zinvol leven leiden
+PERSOON:hasSize:7
+PERSOON:hasSyllables:2
+PERSOON:isa:Dier
+PERSOON:isa:Zoogdier
+PERSOON:lifeArea:Fysiek
+PERSOONLIJKHEID:hasPurpose:om gedragspatronen uit te drukken
+PERSOONLIJKHEID:hasSize:0
+PERSOONLIJKHEID:hasSyllables:5
+PERSOONLIJKHEID:isa:Concept
+PERSOONLIJKHEID:lifeArea:Spiritueel
+PET:hasPurpose:om ons gezelschap te houden
+HUISDIER:hasSize:0
+PET:hasSyllables:1
+Huisdier:isa:Dier
+PET:isa:Dier
+PET:lifeArea:Fysiek
+PETCO:hasPurpose:om producten voor huisdieren te verkopen
+PETCO:hasSize:0
+PETCO:hasSyllables:2
+PETCO:lifeArea:Zakelijk
+PHILADELPHIA:hasPurpose:een stad vormen
+PHILADELPHIA:hasSize:10
+PHILADELPHIA:hasSyllables:5
+PHILADELPHIA:isa:Stad
+PHILADELPHIA:isa:Geografische locatie
+PHILADELPHIA:lifeArea:Onderwijs
+FILIPPIJNEN:hasPurpose:om een natie te vormen
+FILIPPIJNEN:hasSize:11
+FILIPPIJNEN:hasSyllables:3
+FILIPPIJNEN:isa:Land
+FILIPPIJNEN:isa:Geografische locatie
+FILIPPIJNEN:lifeArea:Onderwijs
+Filosoof:isa:Persoon
+PHOENIX:hasPurpose:om een stad te vormen
+PHOENIX:hasSize:10
+PHOENIX:hasSyllables:2
+PHOENIX:isa:Stad
+PHOENIX:isa:Geografische locatie
+PHOENIX:lifeArea:Onderwijs
+TELEFOON:hasPurpose: om te bellen
+TELEFOON:hasSize:4
+TELEFOON:hasSyllables:1
+TELEFOON:isa: Communicatieapparaat
+TELEFOON:isa:Machine
+TELEFOON:lifeArea:Fysiek
+FOTO:hasPurpose:om een scène te onthouden
+FOTO:hasSize:3
+FOTO:hasSyllables:2
+FOTO:isa:Foto
+FOTO:lifeArea:Fysiek
+NATUURKUNDE:hasPurpose:om de fysieke wereld te bestuderen
+FYSICA:hasSize:0
+NATUURKUNDE:hasSyllables:2
+NATUURKUNDE:isa:Vakgebied
+NATUURKUNDE:lifeArea:Onderwijs
+PI:hasPurpose:om de oppervlakte van een cirkel te vinden
+PI:hasSize: 0
+PI:hasSyllables:1
+PI:isa:Getal
+PI:lifeArea:Onderwijs
+PIC:hasPurpose:een scène onthouden
+PIC:hasSize:3
+PIC:hasSyllables:1
+PIC:isa:Afbeelding
+PIC:lifeArea:Fysiek
+PICK:hasPurpose:om iets te selecteren
+PICK:hasSize:0
+PICK:hasSyllables:1
+PICK:isa:Keuze
+PICK:isa:Beslissing
+PICK:lifeArea:Spiritueel
+PICKUP:hasPurpose: om ons op de grond te vervoeren
+PICKUP:hasSize: 8
+PICKUP:hasSyllables:2
+PICKUP:isa: Auto
+PICKUP:isa: Transport
+PICKUP:lifeArea:Fysiek
+PICTURE:hasPurpose:om een scène te onthouden
+FOTO:hasSize:5
+PICTURE:hasSyllables:2
+PICTURE:isa:Geheugenopslag
+PICTURE:lifeArea:Fysiek
+PIE:hasPurpose:om voeding te bieden
+PIE:hasSize:4
+PIE:hasSyllables:1
+TAART:isa:Dessert
+PIE:lifeArea:Dieet
+PINE TREE:hasPurpose:om de hele winter groen te blijven
+PINE TREE:hasSize:9
+DENNENBOOM:hasSyllables:2
+DENNENBOOM:isa:Groenblijvende Boom
+DENNENBOOM:isa:Boom
+DENNENBOOM:lifeArea:Fysiek
+ANANANAS:hasPurpose:om voeding te bieden
+ANANANAS:hasSize:5
+ANANANAS:hasSyllables:3
+ANANANAS:isa:Fruit
+ANNAS:isa:Tropisch fruit
+ANANANAS:lifeArea:Dieet
+ROZE:hasPurpose: om te kleuren als de huid
+ROZE:hasSize: 0
+ROZE:hasSyllables:1
+ROZE:isa:Kleur
+ROZE:lifeArea:Fysiek
+PIRAAT:hasPurpose:plunderen
+PIRAAT:hasSize:7
+PIRAAT:hasSyllables:2
+PIRAAT:isa:Fictief personage
+PIRAAT:lifeArea:Recreatie
+VISSEN:hasPurpose:om ons persoonlijkheid te geven op basis van geboorte
+VISSEN:hasSize:0
+VISSEN:hasSyllables:2
+VISSEN:isa:Sterrenbeeld
+VISSEN:lifeArea:Spiritueel
+PIZZA:hasPurpose:om voeding te bieden
+PIZZA:hasSize:4
+PIZZA:hasSyllables:2
+PIZZA:isa:Gebakken schotel
+PIZZA:isa:Italiaans eten
+PIZZA:lifeArea:Dieet
+PLAATS:hasPurpose:een locatie zijn
+PLAATS:hasSize:0
+PLAATS:hasSyllables:1
+PLAATS:lifeArea:Fysiek
+PLAN:hasPurpose:om begeleiding te bieden
+PLAN:hasSize:0
+PLAN:hasSyllables:1
+PLAN:lifeArea:Business
+VLIEGTUIG:hasPurpose:om ons door de lucht te vervoeren
+VLAK:hasSize:9
+VLIEGTUIG:hasSpeed:12
+VLAK:hasSyllables:1
+VLIEGTUIG:isa:Vliegtuig
+VLIEGTUIG:isa:Vervoer
+VLAK:lifeArea:Fysiek
+PLANEET:hasPurpose:om rond een ster te draaien
+PLANEET:hasSize:12
+PLANEET:hasSyllables:2
+Planeet:isa:Astronomisch Lichaam
+PLANEET:isa:Astronomisch Lichaam
+PLANET:lifeArea:Onderwijs
+PLAY:hasPurpose:om plezier te hebben
+PLAY:hasSize:0
+SPELEN:hasSyllables:1
+PLAY:isa:Activiteit
+SPELEN:lifeArea:Recreatie
+PLAYBOY:hasPurpose:to date veel vrouwen
+PLAYBOY:hasSize:7
+PLAYBOY:hasSyllables:2
+PLAYBOY:isa:Mannelijke persoon
+PLAYBOY:isa:Persoon
+PLAYBOY:lifeArea:Sociaal
+SPELER:hasPurpose:om deel te nemen aan een spel of sport
+SPELER:hasSize:7
+SPELER:hasSyllables:2
+SPELER:isa:Persoon
+SPELER:isa:Teamlid
+SPELER:lifeArea:Recreatie
+PLUTO:hasPurpose:om ons iets te geven om te verkennen
+PLUTO:hasSize: 12
+PLUTO:hasSyllables:2
+PLUTO:isa:Astronomisch lichaam
+PLUTO:isa:Planeet
+PLUTO:lifeArea:Fysiek
+POD:hasPurpose:iets bevatten
+POD:hasSize:0
+POD:hasSyllables:1
+POD:lifeArea:Fysiek
+POINT:hasPurpose:een locatie opgeven
+PUNT:hasSize:0
+PUNT:hasSyllables:1
+PUNT:lifeArea:Onderwijs
+POKER:hasPurpose:gokken
+POKER:hasSize:0
+POKER:hasSyllables:2
+POKER:isa:Spel
+POKER:lifeArea:Recreatie
+POLEN:hasPurpose:een stad vormen
+POLEN:hasSize:11
+POLEN:hasSyllables:2
+POLEN:isa:Land
+POLEN:isa:Geografische locatie
+POLEN:lifeArea:Onderwijs
+POLITIE:hasPurpose:om misdaad te stoppen
+POLITIE:hasSize:7
+POLITIE:hasSyllables:2
+POLITIE:isa:Persoon
+POLITIE:lifeArea:Social
+Politieke eenheid:isa:Geografische locatie
+Politicus:isa:Persoon
+POLITIEK:hasPurpose:concurreren
+POLITIEK:hasSize:0
+POLITIEK:hasSyllables:3
+POLITIEK:isa:Activiteit
+POLITIEK:lifeArea:Sociaal
+PONTIAC:hasPurpose:om ons op de grond te vervoeren
+PONTIAC:hasSize:8
+PONTIAC:hasSyllables:3
+PONTIAC:isa:Automobiel
+PONTIAC:isa:Transport
+PONTIAC:lifeArea:Fysiek
+PONY:hasPurpose:een jong paard zijn
+PONY:hasSize:6
+PONY:hasSyllables:2
+PONY:isa:Dier
+PONY:isa:Paard
+PONY:lifeArea:Fysiek
+BEVOLKING:hasPurpose:om mensen te tellen
+BEVOLKING:hasSize:4
+BEVOLKING:hasSyllables:4
+BEVOLKING:isa:Meting
+BEVOLKING:isa:Aantal
+BEVOLKING:lifeArea:Onderwijs
+PORTLAND:hasPurpose:een stad vormen
+PORTLAND:hasSize:10
+PORTLAND:hasSyllables:2
+PORTLAND:isa:Stad
+PORTLAND:isa:Geografische locatie
+PORTLAND:lifeArea:Onderwijs
+PORTUGAL:hasPurpose:een land vormen
+PORTUGAL:hasSize:11
+PORTUGAL:hasSyllables:3
+PORTUGAL:isa:Land
+PORTUGAL:isa:Geografische ligging
+PORTUGAL:lifeArea:Onderwijs
+PORTUGEES:hasPurpose:een burger van Portugees zijn
+PORTUGEES:hasSize:0
+PORTUGEES:hasSyllables:3
+PORTUGEES:isa:Nationaliteit
+PORTUGEES:lifeArea:Social
+POT:hasPurpose:om ons high te maken
+POT:hasSize:0
+POT:hasSyllables:1
+POT:isa:Bedwelmend middel
+POT:isa:Plant
+POT:lifeArea:Dieet
+POUND:hasPurpose: om gewicht te meten
+POND:hasSize: 0
+POND:hasSyllables:1
+POUND:lifeArea:Onderwijs
+Stroomopslag:isa: Elektrisch apparaat
+GEBED:hasPurpose:god om hulp vragen
+GEBED:hasSize:0
+GEBED:hasSyllables:2
+GEBED:isa:Activiteit
+GEBED:lifeArea:Spiritueel
+Roofdier:isa:Wild Dier
+PRESIDENT:hasPurpose:dienen als staatshoofd
+VOORZITTER:hasSize:7
+VOORZITTER:hasSyllables:3
+PRESIDENT:isa:Persoon
+PRESIDENT:isa:Politicus
+PRESIDENT:lifeArea:Social
+PRIJS:hasPurpose:om kosten te maken
+PRIJS:hasSize:0
+PRIJS:hasSyllables:1
+PRIJS:isa:Geldbedrag
+PRIJS:lifeArea:Business
+PROBLEEM:hasPurpose:oplossen
+PROBLEEM:hasSize:0
+PROBLEEM:hasSyllables:2
+PROBLEEM:lifeArea:Onderwijs
+PROFESSIONAL:hasPurpose:werken voor geld
+PROFESSIONAL:hasSize: 7
+PROFESSIONAL:hasSyllables:4
+PROFESSIONAL:isa:Persoon
+PROFESSIONAL:lifeArea:Business
+PROFESSOR:hasPurpose:to teach college
+PROFESSOR:hasSize:7
+PROFESSOR:hasSyllables:3
+PROFESSOR:isa:Persoon
+PROFESSOR:isa:Docent
+PROFESSOR:lifeArea:Onderwijs
+PROGRAMMA:hasPurpose:om een computer te besturen
+PROGRAMMA:hasSize:0
+PROGRAMMA:hasSyllables:2
+PROGRAMMA:isa:Software
+PROGRAMMA:lifeArea:Onderwijs
+PROMISE:hasPurpose:een verbintenis aangaan
+BELOFTE:hasSize:0
+BELOFTE:hasSyllables:2
+BELOFTE:lifeArea:Sociaal
+PROTOCOL:hasPurpose:standaardprocedures bieden
+PROTOCOL:hasSize:0
+PROTOCOL:hasSyllables:3
+PROTOCOL:lifeArea:Sociaal
+VOORZIENIGHEID:hasPurpose:een stad vormen
+VOORZIENIGHEID:hasSize:10
+VOORZIENIGHEID:hasSyllables:3
+VOORZIENIGHEID:isa:Stad
+PROVIDENCE:isa:Geografische locatie
+PROVIDENCE:lifeArea:Onderwijs
+PUPPY:hasPurpose:een jonge hond zijn
+PUPPY:hasSize:5
+PUPPY:hasSyllables:2
+PUPPY:isa:Dier
+PUPPY:isa:Huisdier
+PUPPY:lifeArea:Fysiek
+PAARS:hasPurpose:kleuren als een aubergine
+PAARS:hasSize:0
+PAARS:hasSyllables:2
+PAARS:isa:Kleur
+PAARS:lifeArea:Fysiek
+DOEL:hasPurpose:om het leven zin te geven
+DOEL:hasSize:0
+DOEL:hasSyllables:2
+DOEL:lifeArea:Spiritueel
+PYTHON:hasPurpose:glibberen
+PYTHON:hasSize:5
+PYTHON:hasSyllables:2
+PYTHON:isa:Dier
+PYTHON:isa:Slang
+PYTHON:lifeArea:Fysiek
+QUANTUM:hasPurpose:om subatomaire deeltjes te vormen
+QUANTUM:hasSize: 1
+KWANTUM:hasSyllables:2
+QUANTUM:isa:Deeltje
+QUANTUM:isa:Fysieke eenheid
+QUANTUM:lifeArea:Onderwijs
+QUEEN:hasPurpose:om als monarch te dienen
+KONINGIN:hasSize:7
+KONINGIN:hasSyllables:1
+KONINGIN:isa:Persoon
+KONINGIN:isa:Politicus
+KONINGIN:lifeArea:Sociaal
+VRAAG:hasPurpose:om een antwoord te vragen
+VRAAG:hasSize:0
+VRAAG:hasSyllables:2
+VRAAG:lifeArea:Onderwijs
+Konijn:isa:Dier
+RACE:hasPurpose:om te strijden voor snelheid
+RACE:hasSize: 0
+RAS:hasSyllables:1
+RAS:lifeArea:Recreatie
+RADAR:hasPurpose:om de afstand tot objecten te meten
+RADAR:hasSize: 0
+RADAR:hasSyllables:2
+RADAR:lifeArea:Fysiek
+RADIO:hasPurpose: om muziek en stem draadloos te verzenden
+RADIO:hasSize: 3
+RADIO:hasSyllables:3
+RADIO:lifeArea:Fysiek
+SPOORWEG:hasPurpose: om ons op rails te vervoeren
+SPOORWEG:hasSize:8
+SPOORWEG:hasSpeed:11
+SPOORWEG:hasSyllables:1
+Spoorweg:isa:Transport
+SPOORWEG:isa:Transport
+SPOORWEG:lifeArea:Fysiek
+RAIN:hasPurpose:om de aarde water te geven
+REGEN:hasSize:0
+REGEN:hasSyllables:1
+RAIN:isa:Waterdruppels
+RAIN:isa:Weather Effect
+REGEN:lifeArea:Fysiek
+RAINBOW:hasPurpose:om een prachtig spectrum in de lucht weer te geven
+REGENBOOG:hasSize: 9
+REGENBOOG:hasSyllables:2
+REGENBOOG:isa:Lichteffect
+REGENBOOG:isa:Fysiek effect
+REGENBOOG:lifeArea:Fysiek
+RAT:hasPurpose:kaas eten
+RAT:hasSize: 4
+RAT:hasSyllables:1
+RAT:isa:Dier
+RAT:isa:Ongedierte
+RAT:lifeArea:Fysiek
+TARIEF:hasPurpose:om een percentage in betaling op te geven
+TARIEF:hasSize: 0
+TARIEF:hasSyllables:1
+TARIEF:isa:Geldbedrag
+TARIEF:lifeArea:Business
+LEZEN:hasPurpose:informatie verzamelen door middel van woorden
+LEZEN:hasSize:0
+LEZEN:hasSyllables:2
+LEZEN:lifeArea:Onderwijs
+REDEN:hasPurpose:goed en logisch nadenken
+REDEN:hasSize:0
+REDEN:hasSyllables:2
+REDEN:lifeArea:Onderwijs
+ROOD:hasPurpose:kleuren als een rijpe tomaat
+ROOD:hasSize:0
+ROOD:hasSyllables:1
+ROOD:isa:Kleur
+ROOD:lifeArea:Fysiek
+RELATIE:hasPurpose:om een band van twee mensen te vormen
+RELATIE:hasSize:0
+RELATIE:hasSyllables:4
+RELATIE:isa:Activiteit
+RELATIE:lifeArea:Sociaal
+RELIGIE:hasPurpose:god of andere goden aanbidden of verlichting vinden
+RELIGIE:hasSize:0
+RELIGIE:hasSyllables:3
+RELIGIE:isa:Organisatie
+RELIGIE:lifeArea:Spiritueel
+RELISH:hasPurpose:om smaak toe te voegen
+RELISH:hasSize:2
+RELISH:hasSyllables:2
+RELISH:isa:Kruiderij
+RELISH:lifeArea:Dieet
+RENO:hasPurpose:een stad vormen
+RENO:hasSize:10
+RENO:hasSyllables:2
+RENO:isa:Stad
+RENO:isa:Geografische locatie
+RENO:lifeArea:Onderwijs
+ANTWOORD:hasPurpose:reageren
+ANTWOORD:hasSize:0
+ANTWOORD:hasSyllables:2
+ANTWOORD:lifeArea:Onderwijs
+ANTWOORD:hasPurpose:om een antwoord te geven
+ANTWOORD:hasSize:0
+ANTWOORD:hasSyllables:2
+ANTWOORD:lifeArea:Onderwijs
+RESTAURANT:hasPurpose:om eten te serveren
+RESTAURANT:hasSize:9
+RESTAURANT:hasSyllables:4
+RESTAURANT:isa:Zakelijk
+RESTAURANT:lifeArea:Dieet
+RHODE ISLAND:hasPurpose:om een staat te vormen
+RHODE ISLAND:hasSize:11
+RHODE ISLAND:hasSyllables:3
+RHODE ISLAND:isa:Geografische locatie
+RHODE ISLAND:isa:Staat
+RHODE ISLAND:lifeArea:Onderwijs
+RICE:hasPurpose:om voeding te bieden
+RIJST:hasSize:4
+RIJST:hasSyllables:1
+RIJST:isa:Graanproduct
+RIJST:lifeArea:Dieet
+RECHTS:hasPurpose:om begeleiding te bieden
+RECHTS:hasSize:0
+RECHTS:hasSyllables:1
+RECHTS:isa:Richting
+RECHTS:lifeArea:Fysiek
+RING:hasPurpose:om een toon te maken
+RING:hasSize:0
+RING:hasSyllables:1
+RING:isa:Fysiek effect
+RING:isa:Geluid
+RING:lifeArea:Fysiek
+RIVIER:hasPurpose:om water te verplaatsen
+RIVIER:hasSize:10
+RIVIER:hasSyllables:2
+RIVER:isa:Geografische functie
+Rivier:isa:Geografische locatie
+RIVER:lifeArea:Onderwijs
+ROAD:hasPurpose:om een route te bieden
+WEG:hasSize:0
+WEG:hasSyllables:1
+WEG:lifeArea:Fysiek
+ROBIN:hasPurpose:nesten maken
+ROBIN:hasSize:4
+ROBIN:hasSyllables:2
+ROBIN:isa:Dier
+ROBIN:isa:Vogel
+ROBIN:lifeArea:Fysiek
+ROBOT:hasPurpose:om mensen te dienen
+ROBOT:hasSize: 7
+ROBOT:hasSyllables:2
+Robot:isa:Fictief personage
+ROBOT:isa: Machine
+ROBOT:isa:Gereedschap
+ROBOT:lifeArea:Fysiek
+Rock Band:isa:Band
+ROCK:hasPurpose:om een hard vast materiaal te vormen
+ROCK:hasSize: 0
+ROCK:hasSyllables:1
+ROCK:lifeArea:Fysiek
+Knaagdier:isa:Dier
+ROLL:hasPurpose:om voeding te bieden
+ROLL:hasSize: 4
+ROLL:hasSyllables:1
+ROLL:isa:Bakkerij item
+ROLL:lifeArea:Dieet
+ROEMENIË:hasPurpose:een land vormen
+ROEMENIË:hasSize:11
+ROEMENIË:hasSyllables:4
+ROEMENIË:isa:Geografische locatie
+ROEMENIË:lifeArea:Onderwijs
+ROME:hasPurpose:een stad vormen
+ROME:hasSize:10
+ROME:hasSyllables:1
+ROME:isa:Stad
+ROME:isa:Geografische locatie
+ROME:lifeArea:Onderwijs
+KAMER:hasPurpose:om een huis of gebouw te verdelen
+KAMER:hasSize:8
+KAMER:hasSyllables:1
+KAMER:lifeArea:Fysiek
+ROOT:hasPurpose:om een plant met de grond te verbinden
+ROOT:hasSize:0
+ROOT:hasSyllables:1
+WORTEL:isa:Plant Deel
+ROOT:lifeArea:Onderwijs
+ROSE:hasPurpose:om een boodschap van liefde te sturen
+ROOS:hasSize:3
+ROOS:hasSyllables:1
+ROOS:isa:Bloem
+ROSE:lifeArea:Fysiek
+RUBY:hasPurpose:om slippers te maken
+RUBY:hasSize: 0
+RUBY:hasSyllables:2
+ROBIJN:isa:Rots
+RUBY:lifeArea:Fysiek
+HARDLOPEN:hasPurpose:om oefening te bieden
+LOPEN:hasSize:0
+LOPEN:hasSyllables:2
+HARDLOPEN:lifeArea:Fysiek
+RUSH:hasPurpose:om haast te hebben
+RUSH:hasSize:0
+RUSH:hasSyllables:1
+RUSH:lifeArea:Fysiek
+RUSLAND:hasPurpose:om een natie te vormen
+RUSLAND:hasSize:11
+RUSLAND:hasSyllables:2
+RUSLAND:isa:Land
+RUSLAND:isa:Geografische locatie
+RUSLAND:lifeArea:Education
+RUSSISCH:hasPurpose:om een burger van Rusland te zijn
+RUSSISCH:hasSize:0
+RUSSISCH:hasSyllables:2
+RUSSISCH:isa:Nationaliteit
+RUSSISCH:lifeArea:Social
+SACRAMENTO:hasPurpose:een stad vormen
+SACRAMENTO:hasSize:10
+SACRAMENTO:hasSyllables:4
+SACRAMENTO:isa:Stad
+SACRAMENTO:isa:Geografische locatie
+SACRAMENTO:lifeArea:Onderwijs
+SAGGITARIUS:hasPurpose:om ons persoonlijkheid te geven op basis van geboorte
+SAGGITARIUS:hasSize:0
+SAGGITARIUS:hasSyllables:2
+SAGGITARIUS:isa:Sterrenbeeld
+SAGGITARIUS:lifeArea:Spiritueel
+SAINT:hasPurpose:om een wonder te verrichten
+SAINT:hasSize:7
+HEILIGE:hasSyllables:1
+SAINT:isa:Persoon
+SAINT:lifeArea:Spiritueel
+SALT:hasPurpose:om smaak toe te voegen
+ZOUT:hasSize:2
+SALT:hasSyllables:1
+ZOUT:isa:Kruiderij
+ZOUT:lifeArea:Dieet
+SAMSUNG:hasPurpose:om consumentenproducten te maken
+SAMSUNG:hasSize:0
+SAMSUNG:hasSyllables:2
+SAMSUNG:isa:Corporatie
+SAMSUNG:lifeArea:Zakelijk
+ZAND:hasPurpose:om stranden te maken
+ZAND:hasSize:2
+ZAND:hasSyllables:1
+ZAND:isa:Rots
+ZAND:lifeArea:Fysiek
+SANDWICH:hasPurpose:om voeding te bieden
+SANDWICH:hasSize:4
+SANDWICH:hasSyllables:2
+SANDWICH:isa:Lunch item
+SANDWICH:lifeArea:Dieet
+SATAN:hasPurpose:om ons te verleiden met het kwaad
+SATAN:hasSize:14
+SATAN:hasSyllables:2
+SATAN:isa:Godheid
+SATAN:isa:Kwaadaardige Entiteit
+SATAN:lifeArea:Spiritueel
+ZATERDAG:hasPurpose:om de tijd te meten
+ZATERDAG:hasSize:0
+ZATERDAG:hasSyllables:3
+ZATERDAG:isa:Dag
+ZATERDAG:isa:Tijd Hoeveelheid
+ZATERDAG:lifeArea:Fysiek
+SATURNUS:hasPurpose:om ons iets te geven om te verkennen
+SATURNUS:hasSize:12
+SATURNUS:hasSyllables:2
+SATURNUS:isa:Astronomisch lichaam
+SATURNUS:isa:Planeet
+SATURNUS:lifeArea:Fysiek
+SAOEDI-ARABIË:hasPurpose:om een natie te vormen
+SAOEDI-ARABIË:hasSize:11
+SAOEDI-ARABIË:hasSyllables:6
+SAOEDI-ARABIË:isa:Land
+SAOEDI-ARABIË:isa:Geografische locatie
+SAOEDI-ARABIË:lifeArea:Onderwijs
+SAUSAGE:hasPurpose:om voeding te bieden
+WORST:hasSize:4
+WORST:hasSyllables:2
+WORST:isa:Vlees
+WORST:isa:Bewerkt Voedsel
+WORST:lifeArea:Dieet
+SCANNER:hasPurpose:zoeken naar radiosignalen
+SCANNER:hasSize: 0
+SCANNER:hasSyllables:1
+SCANNER:lifeArea:Fysiek
+PLANNING:hasPurpose:om gebeurtenissen in een agenda te rangschikken
+SCHEMA:hasSize:0
+SCHEMA:hasSyllables:2
+SCHEMA:isa:Document
+SCHEMA:lifeArea:Business
+SCHOOL:hasPurpose:om onderwijs te geven
+SCHOOL:hasSize:9
+SCHOOL:hasSyllables:1
+SCHOOL:isa:Organisatie
+SCHOOL:lifeArea:Onderwijs
+WETENSCHAP:hasPurpose:de natuurwetten bestuderen
+WETENSCHAP:hasSize:0
+WETENSCHAP:hasSyllables:2
+WETENSCHAP:isa:Veld
+WETENSCHAP:lifeArea:Onderwijs
+SCORE:hasPurpose:punten tellen
+SCORE:hasSize:0
+SCORE:hasSyllables:1
+SCORE:isa:Meting
+SCORE:isa:Getal
+SCORE:lifeArea:Recreatie
+SCHORPIOEN:hasPurpose:om ons persoonlijkheid te geven op basis van geboorte
+SCHORPIOEN:hasSize:0
+SCHORPIOEN:hasSyllables:3
+SCHORPIOEN:isa:Sterrenbeeld
+SCHORPIOEN:lifeArea:Spiritueel
+SCHOTLAND:hasPurpose:een land vormen
+SCHOTLAND:hasSize:11
+SCHOTLAND:hasSyllables:2
+SCHOTLAND:isa:Land
+SCHOTLAND:isa:Geografische locatie
+SCHOTLAND:lifeArea:Onderwijs
+SCHROEF:hasPurpose: om dingen te verbinden
+SCHROEF:hasSize: 3
+SCHROEF:hasSyllables:1
+SCHROEF:lifeArea:Fysiek
+SCHROEVENDRAAIER:hasPurpose:om schroeven aan te draaien
+SCHROEVENDRAAIER:hasSize: 4
+SCHROEVENDRAAIER:hasSyllables:3
+SCHROEVENDRAAIER:isa: Handgereedschap
+SCHROEVENDRAAIER:isa:Tool
+SCHROEVENDRAAIER:lifeArea:Fysiek
+Seizoen:isa: Tijd hoeveelheid
+TWEEDE:hasPurpose:om de tijd te meten
+TWEEDE:hasSize:0
+TWEEDE:hasSyllables:2
+TWEEDE:isa: Tijd hoeveelheid
+TWEEDE:lifeArea:Fysiek
+GEHEIM:hasPurpose:om feiten vertrouwelijk te houden
+GEHEIM:hasSize:0
+GEHEIM:hasSyllables:2
+GEHEIM:isa:Concept
+GEHEIM:lifeArea:Spiritueel
+ZELF:hasPurpose:een uniek individu zijn
+ZELF:hasSize:7
+ZELF:hasSyllables:1
+ZELF:isa:Concept
+ZELF:lifeArea:Spiritueel
+SENSE:hasPurpose:om ons de fysieke wereld te laten ervaren
+SENSE:hasSize:0
+ZIN:hasSyllables:1
+SENSE:isa:Informatie
+SENSE:lifeArea:Fysiek
+SEPTEMBER:hasPurpose:om de tijd te meten
+SEPTEMBER:hasSize:0
+SEPTEMBER:hasSyllables:3
+SEPTEMBER:isa:Maand
+SEPTEMBER:isa:Tijd hoeveelheid
+SEPTEMBER:lifeArea:Fysiek
+SERIE:hasPurpose:to provide enetrtainment
+SERIE:hasSize:0
+SERIE:hasSyllables:2
+SERIE:lifeArea:Recreatie
+SET:hasPurpose:om items te verzamelen
+SET:hasSize:0
+SET:hasSyllables:1
+SET:isa:Concept
+SET:isa:Wiskundige concept
+SET:lifeArea:Onderwijs
+SEKS:hasPurpose:om plezier te krijgen reproduceren
+GESLACHT:hasSize:0
+GESLACHT:hasSyllables:1
+GESLACHT:isa:Activiteit
+GESLACHT:isa:Initimate Activiteit
+GESLACHT:lifeArea:Fysiek
+SHACK:hasPurpose:om onderdak te bieden
+SHACK:hasSize:9
+SHACK:hasSyllables:1
+SHACK:isa:Woning
+SHACK:lifeArea:Fysiek
+SHADOW:hasPurpose:om te laten zien wat wordt geblokkeerd door licht
+SCHADUW:hasSize:7
+SCHADUW:hasSyllables:2
+SCHADUW:isa:lichteffect
+SCHADUW:isa:Fysiek effect
+SCHADUW:lifeArea:Fysiek
+SHAKESPEARE:hasPurpose:toneelstukken schrijven
+SHAKESPEARE:hasSize:7
+SHAKESPEARE:hasSyllables:2
+SHAKESPEARE:isa:Auteur
+SHAKESPEARE:isa:Persoon
+SHAKESPEARE:lifeArea:Onderwijs
+SCHAAMTE:hasPurpose:om ons schuldig te laten voelen
+SCHAAMTE:hasSize:0
+SCHAAMTE:hasSyllables:1
+SCHAAMTE:isa:Concept
+SCHAAMTE:lifeArea:Spiritueel
+SHANGHAI:hasPurpose:om een stad te vormen
+SHANGHAI:hasSize:10
+SHANGHAI:hasSyllables:2
+SHANGHAI:isa:Stad
+SHANGHAI:isa:Geografische locatie
+SHANGHAI:lifeArea:Onderwijs
+SHARE:hasPurpose:om aandelen van eigendom te verstrekken
+DELEN:hasSize:0
+DELEN:hasSyllables:1
+DELEN:isa:Contract
+DELEN:lifeArea:Business
+LAKEN:hasPurpose:om een bed te maken
+BLAD:hasSize:0
+BLAD:hasSyllables:1
+BLAD:lifeArea:Fysiek
+Schelpdieren:isa:Dier
+SHIRT:hasPurpose: om het bovenlichaam te bedekken
+SHIRT:hasSize:4
+SHIRT:hasSyllables:1
+SHIRT:isa:Kleding
+SHIRT:lifeArea:Fysiek
+SCHOEN:hasPurpose:om de voeten te bedekken
+SCHOEN:hasSize:4
+SCHOEN:hasSyllables:1
+SCHOEN:isa:Kleding
+SCHOEN:lifeArea:Fysiek
+SHOP:hasPurpose:om dingen te verkopen
+WINKEL:hasSize:9
+WINKEL:hasSyllables:1
+WINKEL:isa:Detailhandel
+SHOP:lifeArea:Business
+WINKELEN:hasPurpose:om dingen te kopen
+WINKELEN:hasSize:0
+WINKELEN:hasSyllables:2
+WINKELEN:isa:Activiteit
+WINKELEN:lifeArea:Recreatie
+SHORE:hasPurpose:om land en water te scheiden
+SHORE:hasSize: 9
+SHORE:hasSyllables:1
+SHORE:isa:Geografische locatie
+SHORE:isa: Natuurlijke functie
+SHORE:lifeArea:Onderwijs
+SHOW:hasPurpose:to display
+SHOW:hasSize:0
+SHOW:hasSyllables:1
+SHOW:lifeArea:Recreatie
+SHUTTLE:hasPurpose: om transport te bieden
+SHUTTLE:hasSize: 9
+SHUTTLE:hasSyllables: 2
+SHUTTLE:isa: Vliegtuigen
+SHUTTLE:isa:Vervoer
+SHUTTLE:lifeArea:Fysiek
+ZIEKTE:hasPurpose:om ons ziek te maken
+ZIEKTE:hasSize:0
+ZIEKTE:hasSyllables:2
+ZIEKTE:isa:Ziekte
+ZIEKTE:lifeArea:Fysiek
+SIDE:hasPurpose:een grens zijn
+SIDE:hasSize: 0
+KANT:hasSyllables:1
+SIDE:lifeArea:Onderwijs
+SIGN:hasPurpose:om informatie te onthullen
+TEKEN:hasSize:0
+TEKEN:hasSyllables:1
+TEKEN:isa:Concept
+TEKEN:lifeArea:Spiritueel
+SIGNAL:hasPurpose:om een bericht te verzenden
+SIGNAAL:hasSize: 0
+SIGNAAL:hasSyllables:2
+SIGNAAL:lifeArea:Fysiek
+STILTE:hasPurpose:stil zijn
+STILTE:hasSize:0
+STILTE:hasSyllables:2
+STILTE:lifeArea:Fysiek
+SILICIUM:hasPurpose:om microchips te maken
+SILICIUM:hasSize:0
+SILICIUM:hasSyllables:3
+SILICIUM:lifeArea:Fysiek
+ZILVER:hasPurpose:kleuren als een spiegel
+ZILVER:hasSize:0
+ZILVER:hasSyllables:2
+ZILVER:isa:Kleur
+ZILVER:lifeArea:Fysiek
+SIMPSONS:hasPurpose:om het moderne leven te bespotten
+SIMPSONS:hasSize:0
+SIMPSONS:hasSyllables:2
+SIMPSONS:isa:Komedie
+SIMPSONS:isa:TV Show
+SIMPSONS:lifeArea:Recreatie
+SINGER:hasPurpose:om op te treden met haar stem
+ZANGER:hasSize:7
+ZANGER:hasSyllables:2
+ZANGER:isa:Entertainer
+ZANGER:isa:Persoon
+ZANGER:lifeArea:Recreatie
+ZINGEN:hasPurpose:om emotie uit te drukken
+ZINGEN:hasSize:0
+ZINGEN:hasSyllables:2
+ZINGEN:isa:Activiteit
+ZINGEN:lifeArea:Creatief
+ZUS:hasPurpose:een vrouwelijke broer of zus zijn
+ZUS:hasSize:7
+ZUSTER:hasSyllables:2
+ZUSTER:isa:Vrouwelijke Persoon
+ZUS:isa:Broer of zus
+ZUSTER:lifeArea:Familie
+SITE:hasPurpose:een locatie zijn
+SITE:hasSize:0
+SITE:hasSyllables:1
+SITE:lifeArea:Fysiek
+SKY:hasPurpose:om ons van lucht te voorzien
+HEMEL:hasSize:11
+HEMEL:hasSyllables:1
+HEMEL:isa:Astronomisch Lichaam
+HEMEL:isa:Sfeer
+SKY:lifeArea:Fysiek
+SLEEP:hasPurpose:om rust te bieden
+SLAAP:hasSize:0
+SLAAP:hasSyllables:1
+SLAAP:lifeArea:Fysiek
+ROOK:hasPurpose:om brandresten te verdrijven
+ROOK:hasSize:0
+ROOK:hasSyllables:1
+ROOK:isa:Chemisch
+ROOK:isa:Damp
+ROOK:lifeArea:Fysiek
+ROKEN:hasPurpose:om je gezondheid te ruïneren
+ROKEN:hasSize:0
+ROKEN:hasSyllables:2
+ROKEN:isa:Activiteit
+ROKEN:isa:Habit
+ROKEN:lifeArea:Dieet
+SLAK:hasPurpose:langzaam kruipen
+SLAK:hasSize:3
+SLAK:hasSpeed:4
+SLAK:hasSyllables:1
+SLAK:isa:Dier
+SLAK:isa:Schelpdieren
+SLAK:lifeArea:Fysiek
+Slang:isa:Dier
+SNEEUW:hasPurpose:om de grond in het wit te bedekken
+SNEEUW:hasSize:0
+SNEEUW:hasSyllables:1
+SNEEUW:isa:Bevroren Waterkristallen
+SNEEUW:isa:Weereffect
+SNEEUW:lifeArea:Fysiek
+SOAP:hasPurpose:om ons schoon te maken
+ZEEP:hasSize: 4
+SOAP:hasSyllables:1
+ZEEP:lifeArea:Fysiek
+VOETBAL:hasPurpose:om doelpunten te scoren
+VOETBAL:hasSize:0
+VOETBAL:hasSyllables:2
+VOETBAL:lifeArea:Recreatie
+SOCRATES:hasPurpose:logica uitvinden
+SOCRATES:hasSize:7
+SOCRATES:hasSyllables:3
+SOCRATES:isa:Persoon
+SOCRATES:isa:Filosoof
+SOCRATES:lifeArea:Onderwijs
+Frisdrank:isa: Drank
+SOFTWARE:hasPurpose:om computertoepassingen uit te voeren
+SOFTWARE:hasSize: 0
+SOFTWARE:hasSyllables:2
+SOFTWARE:isa: Computer programma
+Software:isa:Programmeertaal
+SOFTWARE:isa: Technologie
+SOFTWARE:lifeArea:Business
+ZOON:hasPurpose:een mannelijk kind zijn
+ZOON:hasSize:7
+ZOON:hasSyllables:1
+ZOON:isa:Mannelijke Persoon
+ZOON:isa:Persoon
+ZOON:lifeArea:Familie
+SONATA:hasPurpose:om het oor te behagen
+SONATA:hasSize:0
+SONATE:hasSyllables:3
+SONATA:lifeArea:Recreatie
+LIED:hasPurpose:om ons te vermaken
+LIED:hasSize:0
+LIED:hasSyllables:1
+SONG:isa:Creative Work
+SONG:lifeArea:Creative
+SONY:hasPurpose:om elektronocs te vervaardigen
+SONY:hasSize:0
+SONY:hasSyllables:2
+SONY:lifeArea:Zakelijk
+ZIEL:hasPurpose:om onze geest een leven te geven
+ZIEL:hasSize:0
+ZIEL:hasSyllables:1
+ZIEL:isa:Concept
+ZIEL:lifeArea:Spiritueel
+GELUID:hasPurpose:auditief zijn
+GELUID:hasSize: 0
+GELUID:hasSyllables:1
+geluid:isa: fysiek effect
+GELUID:isa:Fysiek effect
+GELUID:lifeArea:Fysiek
+SOUP:hasPurpose:om een vloeibare maaltijd te bieden
+SOEP:hasSize:3
+SOEP:hasSyllables:1
+SOEP:lifeArea:Dieet
+BRON:hasPurpose:een oorsprong zijn
+BRON:hasSize:0
+BRON:hasSyllables:1
+BRON:lifeArea:Education
+ZUID-AMERIKA:hasPurpose:een continent vormen
+ZUID-AMERIKA:hasSize:11
+ZUID-AMERIKA:isa:Continent
+ZUID-AMERIKA:isa:Geografische locatie
+ZUID-AMERIKA:lifeArea:Onderwijs
+SOUTH CAROLINA:hasPurpose:om een staat te vormen
+SOUTH CAROLINA:hasSize:11
+SOUTH CAROLINA:hasSyllables:5
+SOUTH CAROLINA:isa:Geografische locatie
+SOUTH CAROLINA:isa:Staat
+SOUTH CAROLINA:lifeArea:Onderwijs
+SOUTH DAKOTA:hasPurpose:een staat vormen
+SOUTH DAKOTA:hasSize:11
+SOUTH DAKOTA:hasSyllables:4
+SOUTH DAKOTA:isa:Geografische locatie
+SOUTH DAKOTA:isa:Staat
+SOUTH DAKOTA:lifeArea:Onderwijs
+SOUTH:hasPurpose:om een richting op te geven
+ZUID:hasSize:0
+ZUID:hasSyllables:1
+ZUID:isa:Kompaspunt
+ZUID:isa:Richting
+ZUID:lifeArea:Fysiek
+RUIMTE:hasPurpose:een leegte zijn
+RUIMTE:hasSize:14
+SPATIE:hasSyllables:1
+RUIMTE:lifeArea:Fysiek
+Spaghetti ingrediënt:isa:Graanproduct
+SPAGHETTI:hasPurpose:om voeding te bieden
+SPAGHETTI:hasSize:4
+SPAGHETTI:hasSyllables:3
+SPAGHETTI:isa:Italiaans eten
+SPAGHETTI:isa:Pasta
+SPAGHETTI:lifeArea:Dieet
+SPAANS:hasPurpose:een burger van Spanje zijn
+SPAANS:hasSize:0
+SPAANS:hasSyllables:2
+SPAANS:isa:Nationaliteit
+SPAANS:lifeArea:Sociaal
+SPREKER:hasPurpose:om een publiek aan te spreken
+SPREKER:hasSize: 7
+SPREKER:hasSyllables:2
+SPREKER:isa:Persoon
+SPREKER:lifeArea:Sociaal
+SPREKEN:hasPurpose:communiceren met woorden
+SPREKEN:hasSize:0
+SPREKEN:hasSyllables:2
+SPREKEN:lifeArea:Onderwijs
+SPECIAL:hasPurpose:om prijzen te verlagen
+SPECIAAL:hasSize:0
+SPECIAAL:hasSyllables:2
+SPECIAAL:lifeArea:Business
+SNELHEID:hasPurpose: om snel te gaan
+SNELHEID:hasSize: 0
+SNELHEID:hasSyllables:1
+SNELHEID:lifeArea:Fysiek
+SPIDER:hasPurpose:om webben te bouwen
+SPIDER:hasSize:3
+SPIDER:hasSyllables:2
+SPIN:isa:Dier
+SPIN:isa:Spinachtige
+SPIDER:lifeArea:Fysiek
+LEPEL:hasPurpose:om ons te helpen vloeibaar voedsel te eten
+LEPEL:hasSize:3
+LEPEL:hasSyllables:1
+LEPEL:isa:Eetgerei
+LEPEL:isa:Gereedschap
+LEPEL:lifeArea:Dieet
+SPORT:hasPurpose:om fysieke games te spelen
+SPORT:hasSize:0
+SPORT:hasSyllables:1
+Sport:isa:Spel
+SPORT:lifeArea:Recreatie
+SPRING:hasPurpose:om nieuwe dingen te laten groeien
+LENTE:hasSize: 0
+LENTE:hasSyllables:1
+LENTE:isa:Seizoen
+SPRING:lifeArea:Fysiek
+SPRINGFIELD:hasPurpose:een stad vormen
+SPRINGFIELD:hasSize:10
+SPRINGFIELD:hasSyllables:2
+SPRINGFIELD:isa:Stad
+SPRINGFIELD:isa:Geografische locatie
+SPRINGFIELD:lifeArea:Onderwijs
+SQUARE:hasPurpose:om vier gelijke zijden te hebben
+VIERKANT:hasSize:0
+VIERKANT:hasSyllables:1
+VIERKANT:lifeArea:Onderwijs
+STALKER:hasPurpose:om ons te volgen
+STALKER:hasSize:7
+STALKER:hasSyllables:2
+STALKER:isa:Crimineel
+STALKER:isa:Persoon
+STALKER:lifeArea:Sociaal
+STAR:hasPurpose:een verre zon zijn
+STER:hasSize:13
+STER:hasSyllables:1
+Ster:isa:Astronomisch Lichaam
+STAR:lifeArea:Fysiek
+START:hasPurpose:om te beginnen
+START:hasSize:0
+START:hasSyllables:1
+START:lifeArea:Fysiek
+STATE:hasPurpose:een staat vormen
+STAAT:hasSize:11
+STAAT:hasSyllables:1
+STAAT:isa:Geografisch kenmerk
+Staat:isa:Geografische locatie
+STAAT:lifeArea:Onderwijs
+STATION:hasPurpose:om onderweg een stop te zijn
+STATION:hasSize:9
+STATION:hasSyllables:2
+STATION:lifeArea:Fysiek
+STATUS:hasPurpose:om iemands toestand te melden
+STATUS:hasSize:4
+STATUS:hasSyllables:2
+STATUS:lifeArea:Sociaal
+STEAKSAUS:hasPurpose:om smaak toe te voegen
+STEAKSAUS:hasSize:2
+BIEFSTUKSAUS:hasSyllables:2
+STEAKSAUS:isa:Kruiderij
+STEAKSAUS:lifeArea:Dieet
+STEAK:hasPurpose:om voeding te bieden
+STEAK:hasSize:4
+STEAK:hasSyllables:1
+STEAK:isa:Vlees
+STEAK:lifeArea:Dieet
+STAP:hasPurpose:een eenheid van lopen zijn
+STAP:hasSize:5
+STAP:hasSyllables:1
+STAP:lifeArea:Fysiek
+STICK:hasPurpose:een tak van een boom zijn
+STICK:hasSize: 4
+STICK:hasSyllables:1
+STICK:lifeArea:Fysiek
+STILL:hasPurpose:om drank te maken
+STILL:hasSize:8
+STILL:hasSyllables:1
+STILL:isa:Tool
+STILL:lifeArea:Dieet
+STOCK:hasPurpose:om aandelen van eigendom te verstrekken
+VOORRAAD:hasSize:0
+VOORRAAD:hasSyllables:1
+VOORRAAD:isa:Contract
+VOORRAAD:lifeArea:Business
+MAAG:hasPurpose:om voedsel te verteren
+MAAG:hasSize: 4
+MAAG:hasSyllables:2
+MAAG:isa: Lichaamsdeel
+MAAG:isa:Orgaan
+MAAG:lifeArea:Fysiek
+STOP:hasPurpose:om beweging te beëindigen
+STOP:hasSize:0
+STOP:hasSyllables:1
+STOP:lifeArea:Fysiek
+STORE:hasPurpose:om dingen te verkopen
+WINKEL:hasSize:9
+WINKEL:hasSyllables:1
+WINKEL:isa:Detailhandel
+STORE:lifeArea:Business
+VERHAAL:hasPurpose:om ons te vermaken
+VERHAAL:hasSize:0
+VERHAAL:hasSyllables:2
+VERHAAL:isa:Creatief werk
+VERHAAL:lifeArea:Creatief
+STRAAT:hasPurpose:om een buurt te bouwen
+STRAAT:hasSize:9
+STRAAT:hasSyllables:1
+STRAAT:lifeArea:Fysiek
+STRING:hasPurpose:om dingen vast te binden
+STRING:hasSize:4
+STRING:hasSyllables:1
+TEKENREEKS:lifeArea:Fysiek
+STUDENT:hasPurpose:om op school te studeren
+STUDENT:hasSize:7
+STUDENT:hasSyllables:2
+STUDENT:lifeArea:Onderwijs
+STUDIE:hasPurpose:leren
+STUDIE:hasSize:0
+STUDIE:hasSyllables:2
+STUDIE:lifeArea:Onderwijs
+STIJL:hasPurpose:om klasse te hebben
+STIJL:hasSize: 0
+STIJL:hasSyllables: 1
+STIJL:lifeArea:Recreatie
+METRO:hasPurpose: om ons ondergronds te verplaatsen
+METRO:hasSize: 9
+METRO:hasSyllables:2
+METRO:isa:Spoorweg
+METRO:isa: Vervoer
+METRO:lifeArea:Fysiek
+SUGAR:hasPurpose:om een zoete smaak te geven
+SUIKER:hasSize:0
+SUIKER:hasSyllables:2
+SUIKER:isa:Smaakstof
+SUIKER:isa:Ingrediënt
+SUIKER:lifeArea:Dieet
+Zomerfruit:isa:Fruit
+ZOMER:hasPurpose:naar het strand gaan
+ZOMER:hasSize:0
+ZOMER:hasSyllables:2
+ZOMER:isa:Seizoen
+ZOMER:lifeArea:Fysiek
+SUN:hasPurpose:om licht en warmte te leveren
+ZON:hasSize:13
+ZON:hasSyllables:1
+ZON:isa:Astronomisch Lichaam
+ZON:isa:Ster
+ZON:lifeArea:Fysiek
+ZONDAG:hasPurpose:om de tijd te meten
+ZONDAG:hasSize:0
+ZONDAG:hasSyllables:2
+ZONDAG:isa:Dag
+ZONDAG:isa:Tijd Hoeveelheid
+ZONDAG:lifeArea:Fysiek
+Superheld:isa:Fictief personage
+SUPERMAN:hasPurpose:om supervillianen te bestrijden
+SUPERMAN:hasSize: 7
+SUPERMAN:hasSyllables:3
+SUPERMAN:isa:Alien
+SUPERMAN:isa:Fictief personage
+SUPERMAN:lifeArea:Recreatie
+Supermarkt:isa:Retail Business
+VERRASSING:hasPurpose:een onverwachte gebeurtenis zijn
+VERRASSING:hasSize:0
+VERRASSING:hasSyllables:2
+VERRASSING:lifeArea:Sociaal
+SLIKKEN:hasPurpose:om het lichaam te voeden
+SLIKKEN:hasSize:0
+SLIKKEN:hasSyllables:2
+SLIKKEN:isa:Activiteit
+SLIKKEN:lifeArea:Dieet
+ZWEDEN:hasPurpose:een natie vormen
+ZWEDEN:hasSize:11
+ZWEDEN:hasSyllables:2
+ZWEDEN:isa:Land
+ZWEDEN:isa:Geografische locatie
+ZWEDEN:lifeArea:Onderwijs
+ZWEDEN:hasPurpose:een burger van Zweden zijn
+ZWEEDS:hasSize:0
+ZWEEDS:hasSyllables:2
+ZWEEDS:isa:Nationaliteit
+ZWEDEN:lifeArea:Sociaal
+ZOET:hasPurpose:om de smaakpapillen te behagen
+SWEET:hasSize:3
+SWEET:hasSyllables:1
+ZOET:isa:Snoep
+SWEET:lifeArea:Dieet
+ZWEMMEN:hasPurpose:bewegen in het water
+ZWEMMEN:hasSize:0
+ZWEMMEN:hasSyllables:1
+ZWEMMEN:lifeArea:Recreatie
+SYDNEY:hasPurpose:om een stad te vormen
+SYDNEY:hasSize:10
+SYDNEY:hasSyllables:2
+SYDNEY:isa:Stad
+SYDNEY:isa:Geografische locatie
+SYDNEY:lifeArea:Onderwijs
+Symbool:isa:Concept
+Symbool:isa:Wiskundige concept
+SYSTEEM:hasPurpose: mechanisch organiseren
+SYSTEEM:hasSize: 0
+SYSTEEM:hasSyllables:2
+SYSTEEM:lifeArea:Onderwijs
+TABEL:hasPurpose:om op te werken of te eten
+TABEL:hasSize:6
+TABEL:hasSyllables:2
+TABEL:lifeArea:Fysiek
+TACO:hasPurpose:om voeding te bieden
+TACO:hasSize: 4
+TACO:hasSyllables:2
+TACO:isa:Mexicaans eten
+TACO:lifeArea:Dieet
+STAART:hasPurpose:kwispelen
+STAART:hasSize: 4
+STAART:hasSyllables:1
+STAART:isa:Dierlijk Deel
+STAART:isa:Lichaamsdeel
+STAART:lifeArea:Fysiek
+TAPE:hasPurpose:meten of verbinden
+TAPE:hasSize: 0
+TAPE:hasSyllables:1
+TAPE:lifeArea:Onderwijs
+TARGET:hasPurpose:om huishoudelijke artikelen te verkopen
+DOEL:hasSize:0
+DOEL:hasSyllables:2
+TARGET:isa:Warenhuis
+DOEL:isa:Detailhandel
+DOEL:lifeArea:Business
+TASK:hasPurpose:een activiteit definiëren
+TAAK:hasSize:0
+TAAK:hasSyllables:1
+TAAK:lifeArea:Business
+SMAAK:hasPurpose: om mondsensaties te bieden
+SMAAK:hasSize:0
+SMAAK:hasSyllables:1
+SMAAK:lifeArea:Fysiek
+STIER:hasPurpose:om ons persoonlijkheid te geven op basis van geboorte
+STIER:hasSize:0
+STIER:hasSyllables:5
+STIER:isa:Sterrenbeeld
+STIER:lifeArea:Spiritueel
+TAXI:hasPurpose: om ons tegen betaling te vervoeren
+TAXI:hasSize:8
+TAXI:hasSyllables:2
+TAXI:isa:Automobiel
+TAXI:isa:Vervoer
+TAXI:lifeArea:Fysiek
+TEA:hasPurpose:om ons op te vrolijken
+THEE:hasSize: 3
+THEE:hasSyllables:1
+THEE:isa:Drank
+THEE:isa: Cafeïne Drink
+THEE:lifeArea:Dieet
+Leraar:isa:Persoon
+Teamlid:isa:Persoon
+TEAM:hasPurpose:om spelers samen te voegen
+TEAM:hasSize:9
+TEAM:hasSyllables:1
+TEAM:lifeArea:Recreatie
+TEEN:hasPurpose:een kind ouder dan 12 maar jonger dan 20
+TEEN:hasSize:7
+TEEN:hasSyllables:1
+TIENER:lifeArea:Familie
+TELEFOON:hasPurpose:om te bellen
+TELEFOON:hasSize:4
+TELEFOON:hasSyllables:3
+TELEFOON:lifeArea:Fysiek
+TELEVISIE:hasPurpose: om entertainment te bieden
+TELEVISIE:hasSize:6
+TELEVISIE:hasSyllables:3
+TELEVISIE:isa:Machine
+TELEVISIE:isa:Tool
+TELEVISIE:lifeArea:Recreatie
+TEMPERATUUR:hasPurpose: om warm of koud te meten
+TEMPERATUUR:hasSize: 0
+TEMPERATUUR:hasSyllables:4
+TEMPERATUUR:lifeArea:Fysiek
+TEMPEL:hasPurpose:om aanbidders te verzamelen
+TEMPEL:hasSize:9
+TEMPEL:hasSyllables:1
+TEMPEL:isa:Gebouw
+TEMPEL:isa:Aanbiddingsfaciliteit
+TEMPEL:lifeArea:Spiritueel
+TENNESSEE:hasPurpose:een staat vormen
+TENNESSEE:hasSize:11
+TENNESSEE:hasSyllables:3
+TENNESSEE:isa:Geografische locatie
+TENNESSEE:isa:Staat
+TENNESSEE:lifeArea:Onderwijs
+TERMINATOR:hasPurpose:om de mensheid te bestrijden
+TERMINATOR:hasSize:7
+TERMINATOR:hasSyllables:4
+TERMINATOR:isa:Fictief personage
+TERMINATOR:isa:Robot
+TERMINATOR:lifeArea:Recreatie
+TESCO:hasPurpose:om boodschappen te zien
+TESCO:hasSize:0
+TESCO:hasSyllables:2
+TESCO:isa:Detailhandel
+TESCO:isa:Supermarkt
+TESCO:lifeArea:Zakelijk
+TEST:hasPurpose:om prestaties te meten
+TEST:hasSize: 0
+TEST:hasSyllables:1
+TEST:lifeArea:Onderwijs
+TEXAS:hasPurpose:een staat vormen
+TEXAS:hasSize:11
+TEXAS:hasSyllables:2
+TEXAS:isa:Geografische locatie
+TEXAS:isa:Staat
+TEXAS:lifeArea:Onderwijs
+THAILAND:hasPurpose:een natie vormen
+THAILAND:hasSize:11
+THAILAND:hasSyllables:2
+THAILAND:isa:Land
+THAILAND:isa:Geografische locatie
+THAILAND:lifeArea:Onderwijs
+THEORIE:hasPurpose:om te raden naar een verklaring
+THEORIE:hasSize:0
+THEORIE:hasSyllables:2
+THEORIE:lifeArea:Onderwijs
+DING:hasPurpose:een entiteit zijn
+DING:hasSize: 0
+DING:hasSyllables:1
+DING:lifeArea:Fysiek
+DENKEN:hasPurpose:gedachten hebben
+DENKEN:hasSize:0
+DENKEN:hasSyllables:2
+DENKEN:isa:Concept
+DENKEN:lifeArea:Spiritueel
+GEDACHTE:hasPurpose:denken
+GEDACHTE:hasSize:0
+GEDACHTE:hasSyllables:1
+GEDACHTE:isa:Concept
+GEDACHTE:lifeArea:Spiritueel
+DONDERDAG:hasPurpose:om de tijd te meten
+DONDERDAG:hasSize:0
+DONDERDAG:hasSyllables:2
+DONDERDAG:isa:Dag
+DONDERDAG:isa:Time Quantity
+DONDERDAG:isa:Weekdag
+DONDERDAG:lifeArea:Fysiek
+TIGER:hasPurpose:om op wilde dieren te jagen
+TIJGER:hasSize:8
+TIJGER:hasSyllables:2
+TIJGER:isa:Roofdier
+TIJGER:isa:Wild Dier
+TIGER:lifeArea:Fysiek
+Tijd meetapparaat:isa: Tool
+TIJD:hasPurpose:om het leven te meten
+TIJD:hasSize:0
+TIJD:hasSyllables:1
+TIJD:isa:Concept
+TIJD:lifeArea:Fysiek
+TIP:hasPurpose:naar beloning voor service
+TIP:hasSize:0
+TIP:hasSyllables:1
+TIP:isa:Geldbedrag
+TIP:isa:Betaling
+TIP:lifeArea:Business
+BAND:hasPurpose: om een wiel glad te maken
+BAND:hasSize: 5
+BAND:hasSyllables: 1
+BAND:isa: Auto-onderdeel
+BAND:lifeArea: Fysiek
+VANDAAG:hasPurpose:om de tijd te meten
+VANDAAG:hasSize:0
+VANDAAG:hasSyllables:1
+VANDAAG:isa:Dag
+VANDAAG:isa:Tijd hoeveelheid
+VANDAAG:lifeArea:Fysiek
+TOE:hasPurpose:om ons te helpen balanceren
+TOE:hasSize: 3
+TOE:hasSyllables:1
+TOE:isa: Lichaamsdeel
+TOE:isa: Voetdeel
+TOE:lifeArea:Fysiek
+TOKYO:hasPurpose:om een stad te vormen
+TOKYO:hasSize:10
+TOKYO:hasSyllables:2
+TOKYO:isa:Stad
+TOKYO:isa:Geografische locatie
+TOKYO:lifeArea:Onderwijs
+TOMAAT:hasPurpose:om spaghettisaus te maken
+TOMAAT:hasSize:4
+TOMAAT:hasSyllables:3
+TOMAAT:isa:Groente
+TOMAAT:lifeArea:Dieet
+MORGEN:hasPurpose:om de tijd te meten
+MORGEN:hasSize:0
+MORGEN:hasSyllables:3
+MORGEN:isa:Dag
+MORGEN:isa:Hoeveelheid tijd
+MORGEN:lifeArea:Fysiek
+VANAVOND:hasPurpose:om de tijd te meten
+VANAVOND:hasSize:0
+VANAVOND:hasSyllables:2
+VANAVOND:isa:Avond
+VANAVOND:isa:Tijd hoeveelheid
+VANAVOND:lifeArea:Fysiek
+ONDERWERP:hasPurpose:het onderwerp van discours zijn
+ONDERWERP:hasSize:0
+ONDERWERP:hasSyllables:1
+ONDERWERP:lifeArea:Onderwijs
+TOTAAL:hasPurpose:om alle bedragen op te tellen
+TOTAAL:hasSize:0
+TOTAAL:hasSyllables:2
+TOTAAL:isa:Geldbedrag
+TOTAAL:lifeArea:Financiën
+TOUCH:hasPurpose:iets voelen
+TOUCH:hasSize: 0
+TOUCH:hasSyllables:1
+TOUCH:lifeArea:Fysiek
+SPEELGOED:hasPurpose:om kinderen te bezetten
+SPEELGOED:hasSize: 4
+SPEELGOED:hasSyllables:1
+SPEELGOED:lifeArea:Recreatie
+TOYOTA:hasPurpose:om ons op de grond te vervoeren
+TOYOTA:hasSize: 8
+TOYOTA:hasSyllables:3
+TOYOTA:isa:Automobiel
+TOYOTA:isa:Vervoer
+TOYOTA:lifeArea:Fysiek
+VERKEER:hasPurpose:om beweging te belemmeren
+VERKEER:hasSize:9
+VERKEER:hasSyllables:2
+VERKEER:lifeArea:Fysiek
+Treinstation:isa:Building
+TREIN:hasPurpose:om ons op rails te vervoeren
+TREIN:hasSize:8
+TREIN:hasSpeed:11
+TREIN:hasSyllables:1
+TREIN:isa:Spoorweg
+TREIN:isa:Vervoer
+TREIN:lifeArea:Fysiek
+REIZEN:hasPurpose:om verre oorden te bereiken
+REIZEN:hasSize:0
+REIZEN:hasSyllables:2
+REIZEN:isa:Activiteit
+REIZEN:lifeArea:Recreatie
+TREE:hasPurpose:om houtbladeren en schors te leveren
+BOOM:hasSize:9
+TREE:hasSyllables:1
+BOOM:isa:Plant
+TREE:lifeArea:Fysiek
+TREK:hasPurpose:een reis maken
+TREK:hasSize:0
+TREK:hasSyllables:1
+TREK:lifeArea:Recreatie
+Tropisch fruit:isa:fruit
+VERTROUWEN:hasPurpose:om vertrouwen in anderen te verzekeren
+VERTROUWEN:hasSize:0
+VERTROUWEN:hasSyllables:1
+VERTROUWEN:lifeArea:Business
+WAARHEID:hasPurpose:om uit te drukken wat waar is
+WAARHEID:hasSize:0
+WAARHEID:hasSyllables:1
+WAARHEID:isa:Concept
+WAARHEID:isa:Logisch concept
+WAARHEID:lifeArea:Onderwijs
+TUBE:hasPurpose: om vloeistof te transporteren
+BUIS:hasSize: 0
+BUIS:hasSyllables:1
+BUIS:lifeArea: Fysiek
+DINSDAG:hasPurpose:om de tijd te meten
+DINSDAG:hasSize:0
+DINSDAG:hasSyllables:2
+DINSDAG:isa:Dag
+DINSDAG:isa:Tijd Hoeveelheid
+DINSDAG:lifeArea:Fysiek
+TURKIJE:hasPurpose: om Thanksgiving-diner te maken
+TURKIJE:hasSize:0
+TURKIJE:hasSyllables:2
+TURKIJE:isa:Bird
+TURKIJE:lifeArea:Fysiek
+TURKS:hasPurpose:een burger van Turkije zijn
+TURKS:hasSize:0
+TURKS:hasSyllables:2
+TURKS:isa:Nationaliteit
+TURKS:lifeArea:Sociaal
+SCHILDPAD:hasPurpose:om in een schaal te leven
+SCHILDPAD:hasSize:4
+SCHILDPAD:hasSyllables:2
+SCHILDPAD:isa:Dier
+SCHILDPAD:isa:Huisdier
+SCHILDPAD:lifeArea:Fysiek
+TV:hasPurpose: om entertainment te bieden
+TV:hasSize: 6
+TV:hasSyllables:2
+TV:isa: Machine
+TV:isa:Gereedschap
+TV:lifeArea:Fysiek
+TWILIGHT:hasPurpose:om de dag af te sluiten
+TWILIGHT:hasSize:0
+TWILIGHT:hasSyllables:2
+TWILIGHT:lifeArea:Fysiek
+TYPE:hasPurpose:classificeren in een verzameling
+TYPE:hasSize:0
+TYPE:hasSyllables:1
+TYPE:lifeArea:Onderwijs
+OOM:hasPurpose:om de rol van moeder of vaders broer te hebben
+OOM:hasSize:7
+OOM:hasSyllables:2
+OOM:isa:Persoon
+OOM:lifeArea:Familie
+Onbewust Mentaal Proces:isa:Activiteit
+UNIE:hasPurpose:om arbeiders te organiseren
+UNIE:hasSize:0
+UNIE:hasSyllables:2
+UNIE:lifeArea:Sociaal
+EENHEID:hasPurpose:om een enkel doel te bieden
+EENHEID:hasSize:0
+EENHEID:hasSyllables:3
+EENHEID:lifeArea:Sociaal
+UNIVERSUM:hasPurpose:om alles te bevatten
+UNIVERSUM:hasSize:15
+UNIVERSUM:hasSyllables:3
+UNIVERSUM:isa:Astronomisch lichaam
+UNIVERSUM:lifeArea:Onderwijs
+UNIVERSITEIT:hasPurpose:om hoger onderwijs te bieden
+UNIVERSITEIT:hasSize:9
+UNIVERSITEIT:hasSyllables:5
+UNIVERSITEIT:isa:School
+UNIVERSITEIT:lifeArea:Onderwijs
+URANUS:hasPurpose:om ons iets te geven om te verkennen
+URANUS:hasSize:12
+URANUS:hasSyllables:3
+URANUS:isa:Astronomisch lichaam
+URANUS:isa:Planeet
+URANUS:lifeArea:Fysiek
+USA:hasPurpose:een land vormen
+USA:hasSize:10
+USA:hasSyllables:3
+USA:isa:Land
+USA:isa:Geografische locatie
+USA:lifeArea:Onderwijs
+UTAH:hasPurpose:een staat vormen
+UTAH:hasSize:11
+UTAH:hasSyllables:2
+UTAH:isa:Geografische locatie
+UTAH:isa:Staat
+UTAH:lifeArea:Onderwijs
+Damp:isa:Chemisch
+VENUS:hasPurpose:om ons iets te geven om te verkennen
+VENUS:hasSize:12
+VENUS:hasSyllables:2
+VENUS:isa:Astronomisch lichaam
+VENUS:isa:Planeet
+VENUS:lifeArea:Fysiek
+Ongedierte:isa:Dier
+VERMONT:hasPurpose:een staat vormen
+VERMONT:hasSize:11
+VERMONT:hasSyllables:2
+VERMONT:isa:Geografische locatie
+VERMONT:isa:Staat
+VERMONT:lifeArea:Onderwijs
+VICE:hasPurpose:to sin
+VICE:hasSize:0
+VICE:hasSyllables:1
+VICE:isa:Activiteit
+VICE:lifeArea:Spiritueel
+VIDEO:hasPurpose:om tv op te nemen en af te spelen
+VIDEO:hasSize:0
+VIDEO:hasSyllables:3
+VIDEO:isa:Creatief werk
+VIDEO:lifeArea:Recreatie
+VIEW:hasPurpose:om te zien
+BEKIJKEN:hasSize:0
+UITZICHT:hasSyllables:1
+WEERGAVE:lifeArea:Fysiek
+Wijnstok Fruit:isa:Fruit
+MAAGD:hasPurpose:onervaren zijn
+MAAGD:hasSize:7
+MAAGD:hasSyllables:2
+MAAGD:isa:Persoon
+MAAGD:lifeArea:Sociaal
+VIRGINIA:hasPurpose:een staat vormen
+VIRGINIA:hasSize:11
+VIRGINIA:hasSyllables:4
+VIRGINIA:isa:Geografische locatie
+VIRGINIA:isa:Staat
+VIRGINIA:lifeArea:Onderwijs
+MAAGD:hasPurpose:om ons persoonlijkheid te geven op basis van geboorte
+MAAGD:hasSize:0
+MAAGD:hasSyllables:2
+MAAGD:isa:Sterrenbeeld
+MAAGD:lifeArea:Spiritueel
+Bezoekende persoon:isa:Persoon
+Spraakcommunicatie:isa:Communicatie
+STEM:hasPurpose:spreken
+STEM:hasSize:0
+STEM:hasSyllables:1
+STEM:lifeArea:Fysiek
+WALES:hasPurpose:een natie vormen
+WALES:hasSize:11
+WALES:hasSyllables:1
+WALES:isa:Land
+WALES:isa:Geografische locatie
+WALES:lifeArea:Onderwijs
+WALL:hasPurpose:een grens vormen
+MUUR:hasSize:8
+MUUR:hasSyllables:1
+MUUR:lifeArea:Fysiek
+WALMART:hasPurpose: om huishoudelijke artikelen te verkopen
+WALMART:hasSize: 0
+WALMART:hasSyllables:2
+WALMART:isa:Zakelijk
+WALMART:lifeArea:Fysiek
+WALNOOT:hasPurpose:om voeding te bieden
+WALNOOT:hasSize:3
+WALNOOT:hasSyllables:2
+WALNOOT:isa:Noot
+WALNOOT:lifeArea:Dieet
+OORLOG:hasPurpose:om een ander land te veroveren
+OORLOG:hasSize:11
+OORLOG:hasSyllables:1
+OORLOG:isa:Conflict
+OORLOG:isa:Militaire actie
+OORLOG:lifeArea:Sociaal
+WASHINGTON:hasPurpose:een staat vormen
+WASHINGTON:hasSize:11
+WASHINGTON:hasSyllables:3
+WASHINGTON:isa:Geografische locatie
+WASHINGTON:isa:Staat
+WASHINGTON:lifeArea:Onderwijs
+Waterdier:isa:Dier
+Waterdruppels:isa:Weereffect
+WATER:hasPurpose:om dorst te lessen
+WATER:hasSize:0
+WATER:hasSyllables:2
+WATER:lifeArea:Fysiek
+WATERMELOEN:hasPurpose:om voeding te bieden
+WATERMELOEN:hasSize:5
+WATERMELOEN:hasSyllables:4
+WATERMELOEN:isa:Fruit
+WATERMELOEN:isa:Zomerfruit
+WATERMELOEN:lifeArea:Dieet
+WAY:hasPurpose:om begeleiding te bieden
+MANIER:hasSize: 0
+MANIER:hasSyllables:1
+MANIER:isa: Richting
+MANIER:lifeArea:Onderwijs
+WEER:hasPurpose:om meteorologische effecten te maken
+WEER:hasSize:0
+WEER:hasSyllables:2
+WEER:lifeArea:Fysiek
+WEB:hasPurpose:om veel objecten met elkaar te verbinden
+WEB:hasSize:0
+WEB:hasSyllables:1
+WEB:lifeArea:Onderwijs
+BRUILOFT:hasPurpose:om deel te nemen aan het huwelijk
+BRUILOFT:hasSize:0
+BRUILOFT:hasSyllables:2
+BRUILOFT:lifeArea:Sociaal
+WOENSDAG:hasPurpose:om de tijd te meten
+WOENSDAG:hasSize:0
+WOENSDAG:hasSyllables:3
+WOENSDAG:isa:Dag
+WOENSDAG:isa: Tijd hoeveelheid
+WOENSDAG:isa:Weekdag
+WOENSDAG:lifeArea:Fysiek
+WEEK:hasPurpose:om 7 dagen te markeren
+WEEK:hasSize:0
+WEEK:hasSyllables:1
+WEEK:isa:Duur
+WEEK:isa: Tijd hoeveelheid
+WEEK:lifeArea:Fysiek
+Weekdag:isa: Tijd hoeveelheid
+WEEKEND:hasPurpose:om uit te rusten van de werkweek
+WEEKEND:hasSize:0
+WEEKEND:hasSyllables:2
+WEEKEND:isa:Duur
+WEEKEND:isa: Tijd hoeveelheid
+WEEKEND:lifeArea:Fysiek
+GEWICHT:hasPurpose: om massa te meten onder zwaartekracht
+GEWICHT:hasSize: 0
+GEWICHT:hasSyllables: 1
+GEWICHT:lifeArea:Onderwijs
+WEST VIRGINIA:hasPurpose:een staat vormen
+WEST VIRGINIA:hasSize:11
+WEST VIRGINIA:hasSyllables:5
+WEST VIRGINIA:isa:Geografische locatie
+WEST VIRGINIA:isa:Staat
+WEST VIRGINIA:lifeArea:Onderwijs
+WEST:hasPurpose:een richting opgeven
+WEST:hasSize:0
+WEST:hasSyllables:1
+WEST:isa:Kompaspunt
+WEST:isa:Richting
+WEST:lifeArea:Fysiek
+WHISKEY:hasPurpose:om ons bedwelmd te maken
+WHISKY:hasSize: 3
+WHISKY:hasSyllables:2
+WHISKY:isa:Alcohol
+WHISKY:isa:Drank
+WHISKY:lifeArea:Dieet
+WIT:hasPurpose:kleuren als wolken
+WIT:hasSize:0
+WIT:hasSyllables:1
+WIT:isa:Kleur
+WIT:lifeArea:Fysiek
+Wild Dier:isa:Dier
+WIND:hasPurpose:om lucht te blazen
+WIND:hasSize:0
+WIND:hasSyllables:1
+WIND:isa:Weereffect
+WIND:lifeArea:Fysiek
+WIJN:hasPurpose:om ons bedwelmd te maken
+WIJN:hasSize:3
+WIJN:hasSyllables:1
+WIJN:isa:Alcohol
+WIJN:isa:Drank
+WIJN:lifeArea:Dieet
+WINTER:hasPurpose:om alles te bevriezen
+WINTER:hasPurpose:om ons sneeuwstormen te geven
+WINTER:hasSize:0
+WINTER:hasSyllables:2
+WINTER:isa:Seizoen
+WINTER:isa: Tijd hoeveelheid
+WINTER:lifeArea:Fysiek
+WIRE:hasPurpose: om elektriciteit te geleiden
+DRAAD:hasSize:3
+DRAAD:hasSyllables: 1
+DRAAD:isa: Materiaal
+DRAAD:lifeArea:Fysiek
+WISCONSIN:hasPurpose:een staat vormen
+WISCONSIN:hasSize:11
+WISCONSIN:hasSyllables:3
+WISCONSIN:isa:Geografische locatie
+WISCONSIN:isa:Staat
+WISCONSIN:lifeArea:Onderwijs
+WENS:hasPurpose:hopen op iets
+WENS:hasSize:0
+WENS:hasSyllables:1
+WENS:isa:Concept
+WENS:lifeArea:Spiritueel
+WIZARD:hasPurpose:om magische spreuken uit te spreken
+WIZARD:hasSize:7
+WIZARD:hasSyllables:2
+WIZARD:isa:Fictief personage
+WIZARD:isa:Fictieve persoon
+WIZARD:lifeArea:Recreatie
+WOLF:hasPurpose:huilen naar de maan
+WOLF:hasSize:6
+WOLF:hasSyllables:1
+WOLF:isa:Dier
+WOLF:isa:Wild Dier
+WOLF:lifeArea:Fysiek
+VROUW:hasPurpose:vrouwelijk zijn
+VROUW:hasSize:7
+VROUW:hasSyllables:1
+Vrouw:isa:Persoon
+VROUW:isa:Persoon
+VROUW:lifeArea:Sociaal
+WONDER:hasPurpose:om verbazing uit te drukken
+WONDER:hasSize:0
+WONDER:hasSyllables:2
+WONDER:isa:Emotie
+WONDER:lifeArea:Spiritueel
+HOUT:hasPurpose:om dingen te bouwen
+HOUT:hasSize:3
+HOUT:hasSyllables:1
+HOUT:isa:Materiaal
+HOUT:lifeArea:Fysiek
+WOORD:hasPurpose:dingen zeggen
+WOORD:hasSize:0
+WOORD:hasSyllables:1
+WOORD:isa:Concept
+WOORD:isa:Symbool
+WOORD:lifeArea:Onderwijs
+WERK:hasPurpose:om geld te verdienen
+WERK:hasSize:0
+WERK:hasSyllables:1
+WERK:isa:Activiteit
+WERK:lifeArea:Zakelijk
+WERELD:hasPurpose:om alles te bevatten
+WERELD:hasSize:12
+WERELD:hasSyllables:1
+WERELD:isa:Planet
+WERELD:lifeArea:Onderwijs
+Aanbiddingsfaciliteit:isa:Gebouw
+Schrijfinstrument:isa: Tool
+WYOMING:hasPurpose:een staat vormen
+WYOMING:hasSize:10
+WYOMING:hasSyllables:3
+WYOMING:isa:Geografische locatie
+WYOMING:isa:Staat
+WYOMING:lifeArea:Onderwijs
+JAAR:hasPurpose:om de tijd te meten
+JAAR:hasSize:0
+JAAR:hasSyllables:1
+JAAR:isa:Duur
+JAAR:isa: Tijd hoeveelheid
+JAAR:lifeArea:Fysiek
+GEEL:hasPurpose:om te kleuren als de zon
+GEEL:hasSize:0
+GEEL:hasSyllables:2
+GEEL:isa:Kleur
+GEEL:lifeArea:Fysiek
+GISTEREN:hasPurpose:om de tijd te meten
+GISTEREN:hasSize:0
+GISTEREN:hasSyllables:3
+GISTEREN:isa:Dag
+GISTEREN:isa:Tijd hoeveelheid
+GISTEREN:lifeArea:Fysiek
+YORK:hasPurpose:een stad vormen
+YORK:hasSize:10
+YORK:hasSyllables:1
+YORK:isa:Stad
+YORK:isa:Geografische locatie
+YORK:lifeArea:Onderwijs
+YORKSHIRE:hasPurpose:een stad vormen
+YORKSHIRE:hasSize:10
+YORKSHIRE:hasSyllables:2
+YORKSHIRE:isa:Stad
+YORKSHIRE:isa:Geografische locatie
+YORKSHIRE:lifeArea:Onderwijs
+Jongere:isa:Persoon
+ZOMBIE:hasPurpose:om mensen bang te maken
+ZOMBIE:hasSize:7
+ZOMBIE:hasSyllables:2
+ZOMBIE:isa:Fictief personage
+ZOMBIE:isa:Levende Doden
+ZOMBIE:lifeArea:Recreatie
+Dier:hasPlural:Meervoud
+Dier:maleName:Mannelijk
+Dier:femaleName:Vrouw
+Dier:youngName:Young
+Dier:collective:Collectief
+Dier:legs:Poten
+Dier:sound:Geluid
+ant:hasPlural:mieren
+ant:maleName:gevleugeld mannetje of aner
+ant:femaleName:koningin
+ant:youngName:antling
+mier:collective:een kolonie mieren of een leger mieren
+mier:legs:6
+ant:sound:krassen
+vleermuis:hasPlural:vleermuizen
+bat:maleName:man
+bat:femaleName:female
+bat:youngName:pup
+vleermuis:collective:een wolk vleermuizen of een kolonie vleermuizen
+vleermuis:legs:2
+bat:sound:eee
+beer:hasPlural:beren
+beer:maleName:zwijn
+beer:femaleName:zeug
+beer:youngName:welp
+beer:collective:een speurneus van beren of een luiaard van beren
+beer:legs:4
+beer:sound:grrrrr
+bij:hasPlural:bijen
+bee:maleName:drone
+bij:femaleName:koningin
+bij:youngName:larve
+bij:collective:een bijenkorf van bijen of een zwerm bijen
+bij:legs:
+bij:sound:zoemen
+vogel:hasPlural:vogels
+vogel:maleName:haan
+vogel:femaleName:kip
+vogel:youngName:jong
+vogel:collective:een zwerm vogels of een vlucht vogels (in de lucht)
+vogel:legs:2
+vogel:sound:tweet
+buffels:hasPlural:buffels
+buffalo:maleName:bull
+buffels:femaleName:koe
+buffel:youngName:kalf
+buffels:collective:een kudde buffels
+buffel:legs:4
+buffel:sound:moo
+cat:hasPlural:katten
+cat:maleName:tom
+cat:femaleName:queen
+cat:youngName:kitten
+cat:collective:een wirwar van katten
+kat:legs:4
+cat:sound:miauw
+kip:hasPlural:kippen
+kip:maleName:haan
+kip:femaleName:kip
+kip:youngName:chick
+kip:collective:een broedsel van kippen of een kudde kippen
+kip:legs:2
+kip:sound:cluck cluck
+koe:hasPlural:rundvee
+koe:maleName:stier
+koe:femaleName:koe
+koe:youngName:kalf
+koe:collective:een kudde vee
+koe:legs:4
+koe:sound:moo
+hond:hasPlural:honden
+hond:maleName:hond
+hond:femaleName:teef
+hond:youngName:puppy of pup
+hond:collective:een roedel honden
+hond:legs:4
+hond:sound:woof
+dolfijn:hasPlural:dolfijnen
+dolfijn:maleName:stier
+dolfijn:femaleName:koe
+dolfijn:youngName:pup
+dolfijn:collective:een school dolfijnen
+Dolfijn:legs:0
+Dolfijn:sound:Meep Meep
+eend:hasPlural:eenden
+eend:maleName:drake
+eend:femaleName:eend
+eend:youngName:eendje
+eend:collective:een vlot eenden
+eend:legs:2
+eend:sound:kwakzalver
+olifant:hasPlural:olifanten
+olifant:maleName:stier
+olifant:femaleName:koe
+olifant:youngName:kalf
+olifant:collective:een kudde olifanten
+olifant:legs:4
+olifant:sound:eeeha
+vis:hasPlural:vis
+vis:maleName:mannelijk
+vis:femaleName:vrouwelijk
+fish:youngName:fry (meervoud zelfstandig naamwoord)
+vis:collective:een school vissen
+vis:legs:0
+vis:sound:bubbelbel
+vos:hasPlural:vossen
+vos:maleName:hond
+vos:femaleName:vixen
+vos:youngName:welp
+vos:collective:een troep vossen of een aarde van vossen
+vos:legs:4
+vos:sound:grrrrr
+kikker:hasPlural:kikkers
+frog:maleName:man
+frog:femaleName:female
+kikker:youngName:kikkervisje of kikkertje
+kikker:collective:een leger van kikkers of een kolonie kikkers
+kikker:legs:4
+kikker:sound:ribbet
+gans:hasPlural:ganzen
+gans:maleName:gander
+gans:femaleName:gans
+gans:youngName:gosling
+gans:collective:een zwerm ganzen of een groep ganzen
+gans:legs:2
+gans:sound:toeter toeter
+geit:hasPlural:geiten
+goat:maleName:billy
+goat:femaleName:nanny
+goat:youngName:kid
+geit:collective:een kudde geiten of een kudde geiten
+Geit:legs:4
+Geit:sound:Baa Baa
+paard:hasPlural:paarden
+paard:maleName:hengst
+paard:femaleName:merrie
+paard:youngName:veulen
+paard:collective:een kudde paarden of een team van paarden (in tuig) of een reeks paarden (voor races)
+paard:legs:4
+paard:sound:whinney
+kangoeroe:hasPlural:kangoeroes
+kangoeroe:maleName:buck
+kangoeroe:femaleName:doe
+kangoeroe:youngName:joey
+kangoeroe:collective:een bende kangoeroes of een troep kangoeroes
+kangoeroe:legs:2
+kangoeroe:sound:grrrr
+leeuw:hasPlural:leeuwen
+leeuw:maleName:leeuw
+leeuw:femaleName:leeuwin
+leeuw:youngName:welp
+Leeuw:collective:Een trots van leeuwen
+leeuw:legs:4
+leeuw:sound:brullen
+aap:hasPlural:apen
+aap:maleName:mannelijk
+aap:femaleName:vrouwelijk
+aap:youngName:baby
+aap:collective:een troep apen
+aap:legs:4
+aap:sound:eep eep
+uil:hasPlural:uilen
+uil:maleName:mannetje
+uil:femaleName:vrouw
+uil:youngName:owlet
+uil:collective:een parlement van uilen
+uil:legs:2
+uil:sound:whoooo
+os:hasPlural:ossen
+ox:maleName:stier
+os:femaleName:koe
+os:youngName:kalf
+os:collective:een kudde ossen of een kudde ossen (wanneer deze in een groep wordt gedreven) of een team ossen (in harnas)
+os:legs:4
+os:sound:snuiven snuiven
+pinguïn:hasPlural:pinguïns
+pinguïn:maleName:mannelijk
+pinguïn:femaleName:vrouwelijk
+pinguïn:youngName:kuiken
+pinguïn:collective:een kolonie pinguïns
+pinguïn:legs:2
+pinguïn:sound:myeah myeah
+persoon:hasPlural:mensen
+persoon:maleName:man
+persoon:femaleName:vrouw
+persoon:youngName:baby of baby
+persoon:collective:een menigte mensen
+persoon:legs:2
+Persoon:sound:Yabber Yabber
+varken:hasPlural:varkens
+varken:maleName:zwijn
+varken:femaleName:zeug
+varken:youngName:zogen of big
+varken:collective:een kudde varkens of een koppel varkens
+varken:legs:4
+varken:sound:oink oink
+konijn:hasPlural:konijnen
+konijn:maleName:bok
+konijn:femaleName:ree
+konijn:youngName:konijn of konijn
+konijn:collective:een kolonie konijnen of een nest konijnen of een wirwar van konijnen (strikt of waar ze leven)
+konijn:legs:4
+konijn:sound:knuffelknuffel
+schapen:hasPlural:schapen
+schapen:maleName:ram
+schapen:femaleName:ooi
+schapen:youngName:lam
+schapen:collective:een kudde schapen
+schapen:legs:4
+schapen:sound:baa baa
+tijger:hasPlural:tijgers
+tijger:maleName:tijger
+tijger:femaleName:tijgerin
+tijger:youngName:welp of whelp
+Tijger:collective:Een streep tijgers of een hinderlaag van tijgers (fantasierijk*)
+tijger:legs:4
+Tijger:sound:GRRR
+walvis:hasPlural:walvissen
+walvis:maleName:stier
+walvis:femaleName:koe
+walvis:youngName:kalf
+walvis:collective:een school walvissen of een school walvissen
+walvis:legs:0
+walvis:sound:fluitje
+wolf:hasPlural:wolven
+wolf:maleName:hond
+wolf:femaleName:bitch
+wolf:youngName:welp
+wolf:collective:een roedel wolven of een kudde wolven
+wolf:legs:4
+wolf:sound:woof woof
+zebra:hasPlural:zebra's
+zebra:maleName:hengst
+zebra:femaleName:merrie
+zebra:youngName:veulen
+zebra:collective:een cohort zebra's of een kudde zebra's
+zebra:legs:4
+zebra:sound:nyeaah
+koe:hasPlural:koeien

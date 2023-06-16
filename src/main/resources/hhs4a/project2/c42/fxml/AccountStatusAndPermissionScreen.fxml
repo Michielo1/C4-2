@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import io.github.palexdev.materialfx.controls.MFXButton?>
+<?import io.github.palexdev.materialfx.controls.MFXToggleButton?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Region?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<!--suppress ALL -->
+<BorderPane prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="hhs4a.project2.c42.scenecontrollers.AccountStatusAndPermissionScreenController">
+    <center>
+        <VBox alignment="CENTER" maxHeight="600.0" maxWidth="400.0" spacing="20.0" BorderPane.alignment="CENTER">
+            <Text fx:id="accountStatusAndPermissionScreenHeaderText" text="Status en rechten" textAlignment="CENTER">
+                <font>
+                    <Font name="Impact" size="40.0" />
+                </font>
+            </Text>
+            <HBox alignment="CENTER_LEFT" spacing="20.0">
+                <Text fx:id="unblockAccountText" text="Account activeren" HBox.hgrow="ALWAYS" />
+                <Region HBox.hgrow="ALWAYS" />
+                <MFXButton fx:id="unblockAccountButton" disable="true" onAction="#onClickUnblockAccountButton" text="Activeren" textAlignment="CENTER">
+                    <padding>
+                        <Insets bottom="10.0" left="20.0" right="20.0" top="10.0" />
+                    </padding>
+                </MFXButton>
+            </HBox>
+            <Separator blendMode="OVERLAY" />
+            <HBox alignment="CENTER" spacing="20.0">
+                <Text fx:id="blockAccountText" text="Account deactiveren" HBox.hgrow="ALWAYS" />
+                <Region HBox.hgrow="ALWAYS" />
+                <MFXButton fx:id="blockAccountButton" disable="true" onAction="#onClickBlockAccountButton" text="Deactiveren" textAlignment="CENTER">
+                    <padding>
+                        <Insets bottom="10.0" left="20.0" right="20.0" top="10.0" />
+                    </padding>
+                </MFXButton>
+            </HBox>
+            <Separator blendMode="OVERLAY" />
+            <VBox alignment="CENTER_LEFT" spacing="20">
+                <HBox alignment="CENTER_LEFT" spacing="20.0">
+                    <Text fx:id="onlineChatbotText" text="Chatten met de online chatbot" HBox.hgrow="ALWAYS" />
+                    <Region HBox.hgrow="ALWAYS" />
+                    <MFXToggleButton fx:id="onlineChatbotToggle" onAction="#onToggleButtonClick" />
+                </HBox>
+                <HBox alignment="CENTER_LEFT" spacing="20.0">
+                    <Text fx:id="offlineChatbotText" text="Chatten met de offline chatbot" HBox.hgrow="ALWAYS" />
+                    <Region HBox.hgrow="ALWAYS" />
+                    <MFXToggleButton fx:id="offlineChatbotToggle" onAction="#onToggleButtonClick" />
+                </HBox>
+                <HBox alignment="CENTER_LEFT" spacing="20.0">
+                    <Text fx:id="adminText" text="Beheerder" HBox.hgrow="ALWAYS" />
+                    <Region HBox.hgrow="ALWAYS" />
+                    <MFXToggleButton fx:id="adminToggle" onAction="#onToggleButtonClick" />
+                </HBox>
+            </VBox>
+        </VBox>
+    </center>
+</BorderPane>

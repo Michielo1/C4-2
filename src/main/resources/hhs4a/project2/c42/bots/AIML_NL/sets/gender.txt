@@ -1,0 +1,14 @@
+man
+vrouw
+mannelijk
+vrouwelijk
+jongen
+meisje
+XX
+XY
+Gal
+vent
+saletjonker
+dame
+kuiken
+

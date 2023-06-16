@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- Bestand: C42.aiml -->
+<!-- Auteur: unknown -->
+<!-- Laatst gewijzigd: mei 24, 2023 -->
+<!--  -->
+<!-- Dit AIML-bestand maakt deel uit van de AIML_NL [versie] chatbot-kennisbank. -->
+<!--  -->
+<!-- Het AIML_NL-brein is auteursrechtelijk beschermd © 2023 door [organisatie]. -->
+<!--  -->
+<!-- Het AIML_NL-brein is uitgebracht onder de voorwaarden van de GNU Lesser General Public License, zoals gepubliceerd door de Free Software Foundation. -->
+<!--  -->
+<!-- Dit bestand wordt GELEVERD ZONDER ENIGE GARANTIE; zonder zelfs maar de impliciete garantie van VERKOOPBAARHEID of GESCHIKTHEID VOOR EEN BEPAALD DOEL. -->
+<!--  -->
+<!-- Voor meer informatie zie https://www.42.nl/ -->
+<category><pattern>WAT IS BEDRIJF 42</pattern>
+<template>Bedrijf 42 is een bedrijf dat java applicaties ontwikkeld</template>
+</category>
+<category><pattern>BEDRIJF 42</pattern>
+<template>Bedrijf 42 is een bedrijf dat java applicaties ontwikkeld</template>
+</category>
+<category><pattern>WIE IS DE EIGENAAR VAN BEDRIJF 42</pattern>
+<template>De eigenaar van bedrijf 42 is Jan Jansen</template>
+</category>
+<category><pattern>WAAR IS BEDRIJF 42 GEVESTIGD</pattern>
+<template>Bedrijf 42 is gevestigd in Amsterdam</template>
+</category>
+<category><pattern>WAT VOOR SOORT JAVA APPLICATIES ONTWIKKELT BEDRIJF 42</pattern>
+<template>Bedrijf 42 ontwikkelt java applicaties voor web, mobiel en desktop</template>
+</category>
+<category><pattern>HOE LANG BESTAAT BEDRIJF 42</pattern>
+<template>Bedrijf 42 bestaat al sinds 2010</template>
+</category>
+<category><pattern>HOEVEEL MEDEWERKERS HEEFT BEDRIJF 42</pattern>
+<template>Bedrijf 42 heeft ongeveer 20 medewerkers</template>
+</category>
+<category><pattern>WAT IS SAAS</pattern>
+<template>SaaS staat voor Software as a Service. Het betekent dat je software gebruikt die niet op je eigen computer staat, maar op een server van een leverancier. Je betaalt meestal een abonnement om de software te gebruiken.</template>
+</category>
+<category><pattern>WAT VOOR SOORT SAAS OPLOSSINGEN BIEDT BEDRIJF 42 AAN</pattern>
+<template>Bedrijf 42 biedt SaaS oplossingen op maat aan voor organisaties, zorg en overheid. Ze bouwen robuuste en schaalbare software die de vraag achter de vraag beantwoordt en de business ondersteunt als fundament voor de toekomst.</template>
+</category>
+<category><pattern>WAT IS EEN VOORBEELD VAN EEN SAAS OPLOSSING VAN BEDRIJF 42</pattern>
+<template>Een voorbeeld van een SaaS oplossing van bedrijf 42 is Tingit, een persoonlijk client-volg- en activatiesysteem voor het sociale domein. Tingit helpt mensen in kwetsbare posities door digitale hulpmiddelen in te zetten en erachter te komen wat werkt voor wie en in welke situatie.</template>
+</category>
+<category><pattern>WAAROM HEET BEDRIJF 42 ZO</pattern>
+<template>Bedrijf 42 heeft zijn naam te danken aan een van de favoriete boeken van de oprichters. Het is hun eerbetoon aan het genie van Douglas Adams, de schrijver van The Hitchhiker's Guide to the Galaxy. In dit boek is 42 het antwoord op de ultieme vraag over het leven, het universum en alles.</template>
+</category>
+<category><pattern>HOE KAN IK CONTACT OPNEMEN MET BEDRIJF 42</pattern>
+<template>Je kan contact opnemen met bedrijf 42 via hun website https://www.42.nl/, via e-mail info@42.nl of via telefoon +31 (0)20 737 00 42.</template>
+</category>
+</aiml>

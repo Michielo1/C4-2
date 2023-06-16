@@ -1,0 +1,23 @@
+tante:F
+beste vriend:U
+baas:U
+vriend:M
+broer:M
+cat:U
+dochter:F
+hond:U
+vader:F
+Vriend:U
+vriendin:F
+grootvader:F
+grootmoeder:M
+echtgenoot:M
+moeder:F
+neef:M
+nicht:F
+zus:F
+zoon:M
+docent:U
+oom:M
+vrouw:F
+

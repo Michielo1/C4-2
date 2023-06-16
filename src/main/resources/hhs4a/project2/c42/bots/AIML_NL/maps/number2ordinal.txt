@@ -1,0 +1,32 @@
+1:Eerste
+2:Tweede
+3:Derde
+4:Vierde
+5:Vijfde
+6:Zesde
+7:Zevende
+8:Achtste
+9:Negende
+10:Tiende
+11:Elfde
+12:Twaalfde
+13:Dertiende
+14:Veertiende
+15:Vijftiende
+16:Zestiende
+17:Zeventiende
+18:Achttiende
+19:Negentiende
+20:Twintigste
+21:Eenentwintigste
+22:Twintig seconden
+23:Drieëntwintigste
+24:Vierentwintigste
+25:Vijfentwintigste
+26:Zesentwintigste
+27:Zevenentwintigste
+28:Achtentwintigste
+29:Negenentwintigste
+30:Dertigste
+31:Eenendertigste
+32:Dertig seconden

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import io.github.palexdev.materialfx.controls.MFXButton?>
+<?import io.github.palexdev.materialfx.controls.MFXComboBox?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Region?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<!--suppress ALL -->
+
+<BorderPane fx:id="settingScreenBorderPane" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="hhs4a.project2.c42.scenecontrollers.SettingsScreenController">
+   <center>
+      <VBox alignment="CENTER" maxHeight="600.0" maxWidth="400.0" spacing="15.0" BorderPane.alignment="CENTER">
+         <Text fx:id="accountSettingsScreenHeaderText" text="Instellingen" textAlignment="CENTER">
+            <font>
+               <Font name="Impact" size="40.0" />
+            </font>
+         </Text>
+         <HBox alignment="CENTER" spacing="20.0">
+            <Text fx:id="chatmodelText" text="Chatmodel" HBox.hgrow="ALWAYS" />
+            <Region HBox.hgrow="ALWAYS" />
+            <MFXComboBox fx:id="onlineModelSelectorComboBox" floatMode="DISABLED" minWidth="180.0" promptText="Kies een chatmodel">
+               <padding>
+                  <Insets bottom="10.0" left="20.0" right="20.0" top="10.0" />
+               </padding>
+            </MFXComboBox>
+         </HBox>
+         <Separator blendMode="OVERLAY" />
+         <HBox alignment="CENTER" spacing="20.0">
+            <Text fx:id="driverText" text="Driver" HBox.hgrow="ALWAYS" />
+            <Region HBox.hgrow="ALWAYS" />
+            <MFXComboBox fx:id="driverSelectorComboBox" floatMode="DISABLED" minWidth="180.0" promptText="Kies een driver">
+               <padding>
+                  <Insets bottom="10.0" left="20.0" right="20.0" top="10.0" />
+               </padding>
+            </MFXComboBox>
+         </HBox>
+         <Separator blendMode="OVERLAY" />
+         <HBox alignment="CENTER" spacing="20.0">
+            <children>
+               <Text fx:id="themaText" text="Thema" HBox.hgrow="ALWAYS" />
+               <Region HBox.hgrow="ALWAYS" />
+               <MFXComboBox fx:id="themeSelectorComboBox" alignment="CENTER" floatMode="DISABLED" minWidth="180.0" promptText="Kies een thema">
+                  <padding>
+                     <Insets bottom="10.0" left="20.0" right="20.0" top="10.0" />
+                  </padding>
+               </MFXComboBox>
+            </children>
+         </HBox>
+         <Separator blendMode="OVERLAY" />
+         <HBox alignment="CENTER" spacing="20.0">
+            <Text fx:id="manageAccountText" text="Account beheren" HBox.hgrow="ALWAYS" />
+            <Region HBox.hgrow="ALWAYS" />
+            <MFXButton fx:id="manageAccountButton" disable="false" onAction="#manageAccountButtonClick" text="Accountinstellingen" textAlignment="CENTER">
+               <padding>
+                  <Insets bottom="10.0" left="20.0" right="20.0" top="10.0" />
+               </padding>
+            </MFXButton>
+         </HBox>
+         <Separator blendMode="OVERLAY" />
+         <HBox alignment="CENTER" spacing="20.0">
+            <Text fx:id="fullscreenText" text="Fullscreen" HBox.hgrow="ALWAYS" />
+            <Region HBox.hgrow="ALWAYS" />
+            <MFXButton fx:id="fullscreenButton" onAction="#fullscreenButtonClick" text="Volledig scherm" textAlignment="CENTER">
+               <padding>
+                  <Insets bottom="10.0" left="20.0" right="20.0" top="10.0" />
+               </padding>
+            </MFXButton>
+         </HBox>
+         <Separator blendMode="OVERLAY" />
+         <HBox alignment="CENTER" spacing="20.0">
+            <Text fx:id="registerAccountText" text="Account registreren" />
+            <Region HBox.hgrow="ALWAYS" />
+            <MFXButton fx:id="registerAccountButton" disable="false" onAction="#registerAccountButtonClick" text="Registreren" textAlignment="CENTER">
+               <padding>
+                  <Insets bottom="10.0" left="20.0" right="20.0" top="10.0" />
+               </padding>
+            </MFXButton>
+         </HBox>
+      </VBox>
+   </center>
+</BorderPane>

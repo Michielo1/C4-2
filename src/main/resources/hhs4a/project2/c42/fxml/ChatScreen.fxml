@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import io.github.palexdev.materialfx.controls.MFXButton?>
+<?import io.github.palexdev.materialfx.controls.MFXComboBox?>
+<?import io.github.palexdev.materialfx.controls.MFXTextField?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+
+<!--suppress ALL -->
+<AnchorPane prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="hhs4a.project2.c42.scenecontrollers.ChatScreenController">
+    <VBox fx:id="chatScreenVBox" AnchorPane.bottomAnchor="50.0" AnchorPane.leftAnchor="25.0" AnchorPane.rightAnchor="25.0" AnchorPane.topAnchor="25.0">
+        <BorderPane fx:id="chatBorderPane" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="600.0" prefWidth="800.0" VBox.vgrow="ALWAYS">
+            <top>
+                <GridPane hgap="10.0" BorderPane.alignment="CENTER_LEFT">
+                    <columnConstraints>
+                        <ColumnConstraints hgrow="NEVER" />
+                        <ColumnConstraints hgrow="ALWAYS" />
+                        <ColumnConstraints hgrow="NEVER" />
+                        <ColumnConstraints hgrow="NEVER" />
+                    </columnConstraints>
+                    <rowConstraints>
+                        <RowConstraints />
+                    </rowConstraints>
+                    <MFXButton fx:id="newConversationButton" minHeight="40.0" onAction="#onNewConversationButtonClick" text="Nieuw chat">
+                        <padding>
+                            <Insets bottom="10.0" left="20.0" right="20.0" top="10.0" />
+                        </padding>
+                    </MFXButton>
+                    <MFXTextField fx:id="subjectTextField" alignment="CENTER" editable="false" floatMode="DISABLED" maxWidth="1.7976931348623157E308" minHeight="40.0" minWidth="10.0" promptText="Voer uw gespreksonderwerp in..." GridPane.columnIndex="1" GridPane.hgrow="ALWAYS" />
+                    <MFXButton fx:id="editSubjectButton" maxWidth="1.7976931348623157E308" minHeight="40.0" onAction="#onEditConversationButtonClick" text="Bewerken" GridPane.columnIndex="2" GridPane.hgrow="SOMETIMES">
+                        <padding>
+                            <Insets bottom="10.0" left="20.0" right="20.0" top="10.0" />
+                        </padding>
+                    </MFXButton>
+                    <MFXButton fx:id="confirmEditSubjectButton" disable="true" maxWidth="1.7976931348623157E308" minHeight="40.0" text="Opslaan" visible="false" GridPane.columnIndex="2" GridPane.hgrow="SOMETIMES">
+                        <padding>
+                            <Insets bottom="10.0" left="20.0" right="20.0" top="10.0" />
+                        </padding>
+                    </MFXButton>
+                    <MFXButton fx:id="cancelEditSubjectButton" disable="true" maxWidth="1.7976931348623157E308" minHeight="40.0" text="Annuleren" visible="false" GridPane.columnIndex="2" GridPane.hgrow="SOMETIMES">
+                        <padding>
+                            <Insets bottom="10.0" left="20.0" right="20.0" top="10.0" />
+                        </padding>
+                    </MFXButton>
+                    <MFXComboBox fx:id="languageSelectorComboBox" floatMode="DISABLED" minHeight="40.0" GridPane.columnIndex="3">
+                        <padding>
+                            <Insets bottom="10.0" left="20.0" right="20.0" top="10.0" />
+                        </padding>
+                    </MFXComboBox>
+                </GridPane>
+            </top>
+            <bottom>
+                <GridPane hgap="10.0" BorderPane.alignment="CENTER_LEFT">
+                    <columnConstraints>
+                        <ColumnConstraints hgrow="ALWAYS" />
+                        <ColumnConstraints hgrow="NEVER" />
+                        <ColumnConstraints hgrow="NEVER" />
+                    </columnConstraints>
+                    <MFXTextField fx:id="promptTextField" floatMode="DISABLED" maxWidth="1.7976931348623157E308" minHeight="40.0" minWidth="10.0" promptText="Typ hier uw bericht..." GridPane.columnIndex="0" GridPane.hgrow="ALWAYS" />
+                    <MFXButton fx:id="sendButton" minHeight="40.0" onAction="#onSendButtonClick" text="Verstuur bericht" GridPane.columnIndex="1">
+                        <padding>
+                            <Insets bottom="10.0" left="20.0" right="20.0" top="10.0" />
+                        </padding>
+                    </MFXButton>
+                    <MFXButton fx:id="deleteConversationButton" minHeight="40.0" onAction="#onDeleteConversationButtonClick" text="Wis conversatie" GridPane.columnIndex="2">
+                        <padding>
+                            <Insets bottom="10.0" left="20.0" right="20.0" top="10.0" />
+                        </padding>
+                    </MFXButton>
+               <rowConstraints>
+                  <RowConstraints />
+               </rowConstraints>
+                </GridPane>
+            </bottom>
+        </BorderPane>
+    </VBox>
+    <BorderPane fx:id="chatHistoryOverlayLoaderBorderPane" AnchorPane.bottomAnchor="20.0" AnchorPane.leftAnchor="20.0" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="20.0" />
+</AnchorPane>

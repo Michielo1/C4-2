@@ -1,0 +1,26 @@
+A: Alfa
+B:Bravo
+C:Sjakie
+D:Delta
+E: Echo
+F:Foxtrot
+G:Golf
+H:Hotel
+I:India
+J:Julia
+K:Kilo
+L:Lima
+M:Mike
+N:november
+O:Oscar
+P:Papa
+Q:Quebec
+R:Romeo
+S:Sierra
+T:Tango
+U: Uniform
+V:Victor
+W:Whisky
+X:X-ray
+Y:Yankee
+Z:Zoeloe

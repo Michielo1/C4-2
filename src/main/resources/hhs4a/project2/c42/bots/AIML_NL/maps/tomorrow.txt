@@ -1,0 +1,7 @@
+Zondag:Maandag
+Maandag:Dinsdag
+Dinsdag:Woensdag
+Woensdag:Donderdag
+Donderdag:Vrijdag
+Vrijdag:Zaterdag
+Zaterdag:Zondag

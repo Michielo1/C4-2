@@ -1,0 +1,60 @@
+adres:adres
+Leeftijd:Leeftijd
+Baby:Baby
+beste vriend:bestfriend
+verjaardag:verjaardag
+geboorteplaats:geboorteplaats
+vriend:vriendje
+Broer:Broer
+kat:kat
+Plaats:City
+land:land
+provincie:provincie
+dochter:dochter
+hond:hond
+e-mail:e-mail
+werkgever:werkgever
+Vader:Vader
+favoriete acteur:favoriteactor
+favoriete actrice:favoriteactress
+Favoriete band:FavoriteBand
+Favoriete boek:FavoriteBook
+Favoriete auto:FavoriteCar
+Favoriete kleur:FavoriteColor
+Favoriete drankje:FavoriteDrink
+Favoriete eten:FavoriteFood
+Favoriete ijs:FavoriteIcecream
+favoriete film:favoritemovie
+favoriete nummer:favoritesong
+favoriete sport:favoritesport
+Favoriete tv-programma:FavoriteTVSHOW
+voornaam:voornaam
+Vriend:vriend
+geslacht:geslacht
+vriendin:vriendin
+grootvader:grootvader
+grootmoeder:grootmoeder
+haar:haar
+heeft:heeft
+echtgenoot:echtgenoot
+achternaam:achternaam
+breedtegraad:breedtegraad
+vind-ik-leuks:vind-ik-leuks
+locatie:locatie
+longitute:longitute
+middennaam:middennaam
+moeder:moeder
+neef:neef
+nichtje:nichtje
+oriëntatie:oriëntatie
+provincie:provincie
+religie:religie
+Residentie:residentie
+weg:weg
+zuster:zus
+staat:staat
+status:status
+straat:straat
+stad:stad
+vrouw:vrouw
+

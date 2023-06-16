@@ -1,0 +1,179 @@
+verder:dichterbij
+verder:dichterbij
+dichterbij:verder
+Verste:dichtstbijzijnde
+verst:dichtstbijzijnde
+dichtstbijzijnde:verst
+Hoogste:Kortste
+oudste:jongste
+hoogste:laagste
+grootste:kleinste
+snelste:langzaamste
+zwaarste:lichtste
+langste:kortste
+breedste:smalste
+diepste:ondiepste
+helderste:donkerste
+kortste:hoogste
+jongste:oudste
+laagste:hoogste
+kleinste:grootste
+grootste:kleinste
+langzaamste:snelste
+lichtste:zwaarste
+kortste:hoogste
+smalste:breedste
+sjowest:diepste
+donkerste:lichter
+Groot:Klein
+Groot:Klein
+Goedkoop: Duur
+Schoon: Vies
+Diep: Ondiep
+Omlaag:Omhoog
+Vroeg:Laat
+Gemakkelijk:Moeilijk
+Eenvoudig:Hard
+Ver:Sluiten
+Ver:Dichtbij
+Snel: Langzaam
+Vet:Dun
+Vet:Mager
+Volledig:Leeg
+Goed:Slecht
+Gelukkig:Verdrietig
+Zwaar: Licht
+Hier:Daar
+Hoog:Laag
+Warm:Koud
+In:Uit
+Binnen:Buiten
+Interessant:Saai
+Licht: Donker
+Lang:Kort
+luid: zacht
+Veel:Weinig
+Nieuw:Oud
+Rijk:Arm
+Rechts:Links
+Goed:Fout
+Veilig:Gevaarlijk
+Vrijgezel:Getrouwd
+Glad:Ruw
+Zacht: Hard
+Sterk:Zwak
+Lang:Kort
+dik:dun
+Strak: Los
+Warm: Koel
+Nat:Droog
+breed:smal
+Jong:Oud
+Klein:Groot
+Klein:Groot
+Duur: Goedkoop
+Vies: Schoon
+Ondiep:Diep
+Omhoog:Omlaag
+Laat:Vroeg
+Moeilijk:Gemakkelijk
+Hard: Gemakkelijk
+Sluiten:Ver
+Dichtbij:Veraf
+Langzaam: Snel
+Dun:Vet
+Mager:Vet
+Leeg:Vol
+Slecht:Goed
+Verdrietig:Gelukkig
+Licht: Zwaar
+Daar:Hier
+Laag: Hoog
+Koud:Warm
+Uit:In
+Buiten:Binnen
+Saai:Interessant
+Donker:Licht
+Kort:Lang
+zacht: luid
+Weinig:Veel
+Oud:Nieuw
+Arm:Rijk
+Links:Rechts
+Fout:Goed
+Gevaarlijk:Veilig
+Getrouwd:Alleenstaand
+Ruw:Glad
+Hard:Zacht
+Zwak:Sterk
+Kort:Lang
+Dun: Dik
+Los:Strak
+Koel:Warm
+Droog:Nat
+smal:breed
+Oud:Jong
+Nacht:Dag
+verder:dichterbij
+verder:dichterbij
+dichterbij:verder
+langer:korter
+ouder:jonger
+hoger:lager
+groter:kleiner
+sneller:langzamer
+zwaarder:lichter
+langer:korter
+breder:smaller
+dieper:ondieper
+helderder:donkerder
+korter:groter
+jonger:ouder
+lager:hoger
+kleiner:groter
+groter:kleiner
+langzamer:sneller
+lichter:zwaarder
+korter:groter
+smallere:breder
+ondieper:dieper
+donkerder:lichter
+boven:onder
+boven:onder
+boven:onder
+tegenover van:tegenover
+tegen:tegen
+voor:trailing
+langs:langs
+naast:naast
+rond:binnen
+rond:binnenkant van
+boven:onder
+achter:voor
+onder:boven
+onder:bovenop
+onder:bovenop
+onder:boven
+naast:naast
+dicht bij:dicht bij
+ten oosten van:ten westen van
+ver van:ver van
+Voor van:achter
+binnenkant van:rondom
+binnen:rondom
+links van:rechts van
+in de buurt van:in de buurt van
+in de buurt:in de buurt
+naast:naast
+ten noorden van:ten zuiden van
+Bovenop :Onder
+tegengesteld:tegengesteld
+rechts van:links van
+ten zuiden van:ten noorden van
+volgen:vóór
+onder:boven
+ten westen van:ten oosten van
+op:onder
+onder:aan
+in:rond
+rond:in

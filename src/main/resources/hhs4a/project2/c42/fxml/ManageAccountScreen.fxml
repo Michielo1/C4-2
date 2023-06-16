@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import io.github.palexdev.materialfx.controls.MFXFilterComboBox?>
+<?import io.github.palexdev.materialfx.controls.MFXButton?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Text?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Region?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Separator?>
+
+<!--suppress ALL -->
+<BorderPane fx:id="manageAccountScreenBorderPane" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="hhs4a.project2.c42.scenecontrollers.ManageAccountScreenController">
+    <center>
+        <VBox alignment="CENTER" maxHeight="600.0" maxWidth="400.0" spacing="20.0" BorderPane.alignment="CENTER">
+            <Text fx:id="accountManageScreenHeaderText" text="Account beheren" textAlignment="CENTER">
+                <font>
+                    <Font name="Impact" size="40.0" />
+                </font>
+            </Text>
+            <HBox alignment="CENTER" spacing="20.0">
+                <Text fx:id="accountSelectionText" text="Accountselectie" HBox.hgrow="ALWAYS" />
+                <Region HBox.hgrow="ALWAYS" />
+                <MFXFilterComboBox fx:id="accountSelectorComboBox" floatMode="DISABLED" minWidth="195.0" promptText="Selecteer een account">
+                    <padding>
+                        <Insets bottom="10.0" left="20.0" right="20.0" top="10.0" />
+                    </padding>
+                </MFXFilterComboBox>
+            </HBox>
+            <Separator blendMode="OVERLAY" />
+            <HBox alignment="CENTER" spacing="20.0">
+                <Text fx:id="permissionAndStatusText" text="Rechten en status" HBox.hgrow="ALWAYS" />
+                <Region HBox.hgrow="ALWAYS" />
+                <MFXButton fx:id="permissionAndStatusButton" disable="true" onAction="#changePermissionAndStatusButtonClick" text="Wijzigen" textAlignment="CENTER">
+                    <padding>
+                        <Insets bottom="10.0" left="20.0" right="20.0" top="10.0" />
+                    </padding>
+                </MFXButton>
+            </HBox>
+            <Separator blendMode="OVERLAY" />
+            <HBox alignment="CENTER" spacing="20.0">
+                <Text fx:id="usernameText" text="Gebruikersnaam" HBox.hgrow="ALWAYS" />
+                <Region HBox.hgrow="ALWAYS" />
+                <MFXButton fx:id="usernameButton" disable="true" onAction="#changeUsernameButtonClick" text="Bewerken" textAlignment="CENTER">
+                    <padding>
+                        <Insets bottom="10.0" left="20.0" right="20.0" top="10.0" />
+                    </padding>
+                </MFXButton>
+            </HBox>
+            <Separator blendMode="OVERLAY" />
+            <HBox alignment="CENTER" spacing="20.0">
+                <Text fx:id="emailText" text="E-mailadres" HBox.hgrow="ALWAYS" />
+                <Region HBox.hgrow="ALWAYS" />
+                <MFXButton fx:id="emailButton" disable="true" onAction="#changeEmailButtonClick" text="Bewerken" textAlignment="CENTER">
+                    <padding>
+                        <Insets bottom="10.0" left="20.0" right="20.0" top="10.0" />
+                    </padding>
+                </MFXButton>
+            </HBox>
+            <Separator blendMode="OVERLAY" />
+            <HBox alignment="CENTER" spacing="20.0">
+                <Text fx:id="passwordText" text="Wachtwoord" HBox.hgrow="ALWAYS" />
+                <Region HBox.hgrow="ALWAYS" />
+                <MFXButton fx:id="passwordButton" disable="true" onAction="#changePasswordButtonClick" text="Bewerken" textAlignment="CENTER">
+                    <padding>
+                        <Insets bottom="10.0" left="20.0" right="20.0" top="10.0" />
+                    </padding>
+                </MFXButton>
+            </HBox>
+            <Separator blendMode="OVERLAY" />
+            <HBox alignment="CENTER" spacing="20.0">
+                <Text fx:id="accountDeleteText" text="Account" HBox.hgrow="ALWAYS" />
+                <Region HBox.hgrow="ALWAYS" />
+                <MFXButton fx:id="accountDeleteButton" disable="true" onAction="#deleteAccountButtonClick" text="Verwijderen" textAlignment="CENTER">
+                <padding>
+                    <Insets bottom="10.0" left="20.0" right="20.0" top="10.0" />
+                </padding>
+                </MFXButton>
+            </HBox>
+        </VBox>
+    </center>
+</BorderPane>

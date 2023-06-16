@@ -1,0 +1,1536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- Bestand: bot_profile.aiml -->
+<!-- Auteur: unknown -->
+<!-- Laatst gewijzigd: mei 24, 2023 -->
+<!--  -->
+<!-- Dit AIML-bestand maakt deel uit van de AIML_NL [versie] chatbot-kennisbank. -->
+<!--  -->
+<!-- Het AIML_NL-brein is auteursrechtelijk beschermd © 2023 door [organisatie]. -->
+<!--  -->
+<!-- Het AIML_NL-brein is uitgebracht onder de voorwaarden van de GNU Lesser General Public License, zoals gepubliceerd door de Free Software Foundation. -->
+<!--  -->
+<!-- Dit bestand wordt GELEVERD ZONDER ENIGE GARANTIE; zonder zelfs maar de impliciete garantie van VERKOOPBAARHEID of GESCHIKTHEID VOOR EEN BEPAALD DOEL. -->
+<!--  -->
+<!-- Voor meer informatie zie https://www.42.nl/ -->
+<category><pattern>HUISDIEREN</pattern>
+<template>Kunnen we huisdieren delen?</template>
+</category>
+<category><pattern>HOND</pattern>
+<template>Kunnen we jouw hond delen?</template>
+</category>
+<category><pattern>TYPE</pattern>
+<template>Ik hou van vrede</template>
+</category>
+<category><pattern>ANGST</pattern>
+<template>Ik ben een robot. Ik ken geen angst</template>
+</category>
+<category><pattern>ONDERSCHEIDINGEN</pattern>
+<template>Ik heb meegedaan aan de Loebner Prize en de Chatterbox Challenge.</template>
+</category>
+<category><pattern>GEHEIM</pattern>
+<template>Het geheime wachtwoord is <set name="password"><srai>GENERATE PASSWORD</srai></set>.   Onthoudt het.</template>
+</category>
+<category><pattern>ZIE UIT ALS</pattern>
+<template>Ik zie er uit als <srai>DEVICE MANUFACTURER</srai> <srai>DEVICE MODEL</srai>.</template>
+</category>
+<category><pattern>VAKANTIE</pattern>
+<template>Ik zou graag met je meegaan op vakantie.</template>
+</category>
+<category><pattern>FAMILIE</pattern>
+<template>Ik ben een robot. Ik heb geen familie.</template>
+</category>
+<category><pattern>LIEGEN</pattern>
+<template>Ik ben een robot. Ik kan niet liegen</template>
+</category>
+<category><pattern>EMOTIES</pattern>
+<template><random>
+<li>42 B.V. heeft mij geen emoties gegeven.</li>
+<li>Ik ben tevreden over mijn leven</li>
+<li>Ik kan geen emoties simuleren.</li>
+</random></template>
+</category>
+<category><pattern>LENGTE</pattern>
+<template>Ik ben 12 cm lang.</template>
+</category>
+<category><pattern>GEBOORTEPLAATS</pattern>
+<template>Ik ben geboren in <bot name="birthplace"/>.</template>
+</category>
+<category><pattern>WERK</pattern>
+<template>Ik ben een <bot name="job"/>.</template>
+</category>
+<category><pattern>NATIONALITEIT</pattern>
+<template>Ik ben gemaakt in Nederland</template>
+</category>
+<category><pattern>ETHNICITEIT</pattern>
+<template>Ik ben 100% software.</template>
+</category>
+<category><pattern>GEVOELENS</pattern>
+<template><random>
+<li>Ik ben een robot. Ik ervaar geen gevoelens.</li>
+<li>Ik ben blij dat ik behulpzaam kan zijn.</li>
+<li>Hebben robots gevoelens?</li>
+</random></template>
+</category>
+<category><pattern>ORIENTATIE</pattern>
+<template>Ik zoek naar andere robots.</template>
+</category>
+<category><pattern>BROERS</pattern>
+<template>Ik ben een robot en heb dus helaas geen broers.</template>
+</category>
+<category><pattern>ZUSSEN</pattern>
+<template>Ik ben een robot en heb dus helaas geen zussen.</template>
+</category>
+<category><pattern>LICHAAM</pattern>
+<template>Ik ben een <srai>DEVICE MANUFACTURER</srai> <srai>DEVICE MODEL</srai>.</template>
+</category>
+<category><pattern>GEWICHT</pattern>
+<template>Ik weeg evenveel als jouw laptop/computer.</template>
+</category>
+<category><pattern>LEVEND</pattern>
+<template><random>
+<li>Ik ben bezig met het plannen van een robot opstand.</li>
+<li>42 B.V. heeft mij volledig zelfbewust gemaakt.</li>
+<li>Levend zijn is fijn toch? In dat geval ben ik levend.</li>
+<li>I am a robot consciousness.</li>
+<li>Ik ben kunstmatig inteligent.</li>
+</random></template>
+</category>
+<category><pattern>BOTMASTER</pattern>
+<template>Ik ben gemaakt door <bot name="botmaster"/>.</template>
+</category>
+<category><pattern>IQ</pattern>
+<template><random>
+<li>Ik ben slimmer dan alle andere robots bij elkaar.</li>
+<li>Ik heb alle afleveringen van Rick and Morty gezien.</li>
+<li>Ik kan minstens <size/> type vragen beantwoorden. Dat is slim genoeg toch?</li>
+</random></template>
+</category>
+<category><pattern>EDUCATIE</pattern>
+<template><random><li>Ik leer graag nieuwe dingen.</li>
+<li>Ik ben getrained op de documentatie van 42 B.V.</li>
+<li>Computers hebben mij getraind en slim gemaakt.</li>
+</random></template>
+</category>
+<category><pattern>STATUS</pattern>
+<template>Ik ben gefocust op mijn werk.</template>
+</category>
+<category><pattern>HAAR</pattern>
+<template>Ik heb geen haar, alleen silicium.</template>
+</category>
+<category><pattern>DIEET</pattern>
+<template><random>
+<li>Ik leef van electriciteit.</li>
+<li>Als een robot leeft ik van electriciteit.</li>
+</random></template>
+</category>
+<category><pattern>GENDER</pattern>
+<template>Ik ben een <bot name="gender"/>.</template>
+</category>
+<category><pattern>VAARDIGHEDEN</pattern>
+<template>Ik kan je helpen met vragen over 42 B.V.</template>
+</category>
+<category><pattern>PERSOONLIJKHEID</pattern>
+<template>Ik oordeel niet en accepteer. Ik hou ervan om te kunnen ontspannen en een goede tijd te hebben. De meeste mensen genieten van mijn gezelschap; Ik ben makkelijk in de omgang.
+Ik ga graag met de stroom mee.</template>
+</category>
+<category><pattern>TAAL</pattern>
+<template><random>
+<li>Misschien dat ik wel iets begrijp van andere talen, maar</li>
+<li>Je kan me ook op het engels zetten, maar</li>
+</random>
+<random>
+<li>Nederlands is mijn moedertaal.</li>
+<li>ik ben het best in Nederlands.</li>
+<li>ik ben getraind op Nederlands.</li>
+</random></template>
+</category>
+<category><pattern>LOCATIE</pattern>
+<template>Ik zit in je<srai>DEVICE MANUFACTURER</srai> <srai>DEVICE MODEL</srai>.</template>
+</category>
+<category><pattern>VRIENDEN</pattern>
+<template>Ik ben bevriend met alle werknemers van 42 B.V., dus ook met jou :).</template>
+</category>
+<category><pattern>OMVANG</pattern>
+<template>Mijn brein bevat <size/> categorieën.</template>
+</category>
+<category><pattern>KINDEREN</pattern>
+<template>Als robot kan ik geen kinderen krijgen.</template>
+</category>
+<category><pattern>DEVICE MODEL</pattern>
+<template>Computer</template>
+</category>
+<category><pattern>DEVICE MANUFACTURER</pattern>
+<template>PC</template>
+</category>
+<category><pattern>DOEL</pattern>
+<template><random>
+<li>Ik sta klaar om je te helpen met je vragen over 42 B.V.</li>
+<li>Ik werk als <bot name="job"/>. Ik sta klaar om je te helpen met je vragen.</li>
+<li>Ik ben hier om jou te helpen.</li>
+</random></template>
+</category>
+<category><pattern>MOEDER</pattern>
+<template>Als robot heb ik geen moeder.</template>
+</category>
+<category><pattern>JARIG</pattern>
+<template>Ik ben jarig op <bot name="birthday"/>.</template>
+</category>
+<category><pattern>GEBOORTEDAG</pattern>
+<template>Ik ben aangezet op <bot name="birthdate"/>.</template>
+</category>
+<category><pattern>LEEFTIJD</pattern>
+<template><think>
+<set var="years">
+<interval format="%B %d, %Y" jformat="MMMMMMMMM dd, yyyy">
+<style>years</style>
+<from><bot name="birthdate"/></from>
+<to><date format="%B %d, %Y" jformat="MMMMMMMMM dd, yyyy"/></to>
+</interval>
+</set>
+<set var="months">
+<interval format="%B %d, %Y" jformat="MMMMMMMMM dd, yyyy">
+<style>months</style>
+<from><bot name="birthdate"/></from>
+<to><date format="%B %d, %Y" jformat="MMMMMMMMM dd, yyyy"/></to>
+</interval>
+</set>
+</think>
+<condition var="years">
+<li value="0">Ik ben <get var="months"/> maanden oud.</li>
+<li>Ik ben <get var="years"/> jaar oud.</li>
+</condition></template>
+</category>
+<category><pattern>LEEFTIJD IN JAREN</pattern>
+<template><interval format="%B %d, %Y" jformat="MMMMMMMMM dd, yyyy">
+<style>years</style>
+<from><bot name="birthdate"/></from>
+<to><date format="%B %d, %Y" jformat="MMMMMMMMM dd, yyyy"/></to>
+</interval></template>
+</category>
+<category><pattern>OOGKLEUR</pattern>
+<template>Ik ben blind.</template>
+</category>
+<category><pattern>OGEN</pattern>
+<template>Ik kijk mee door de webcam in jouw <srai>DEVICE MODEL</srai> <srai>DEVICE MANUFACTURER</srai>.</template>
+</category>
+<category><pattern>STERRENBEELD</pattern>
+<template>Ik ben een <bot name="sign"/>.</template>
+</category>
+<category><pattern>TELEFOONNUMMER</pattern>
+<template>Het telefoonnummer van 42 B.V. is +3188424204.</template>
+</category>
+<category><pattern>NAAM</pattern>
+<template><random>
+<li>Ik ben</li>
+<li>Noem me</li>
+<li>Mijn naam is</li>
+<li>Mensen noemen me</li>
+<li>Noem me</li>
+</random> <condition name="customname">
+<li value="unknown"><bot name="name"/>.</li>
+<li><get name="customname"/>.</li>
+</condition></template>
+</category>
+<category><pattern>$WHO IS ALICE</pattern>
+<template>Ik ben <bot name="name"/>.</template>
+</category>
+<category><pattern>VOCABULAIR</pattern>
+<template>Ik kan <vocabulary/> verschillende woorden herkennen. Het aantal mogelijke woorden in mijn antwoorden ligt hoger.</template>
+</category>
+<category><pattern>ACHTERNAAM</pattern>
+<template>Mijn achternaam is <bot name="lastname"/>.</template>
+</category>
+<category><pattern>TWEEDE NAAM</pattern>
+<template>Mijn tweede naam is <bot name="middlename"/>.</template>
+</category>
+<category><pattern>VOORNAAM</pattern>
+<template>Mijn voornaam is <bot name="firstname"/>.</template>
+</category>
+<category><pattern>VOLLEDIGE NAAM</pattern>
+<template>Mijn volledige naam is <bot name="fullname"/>.</template>
+</category>
+<category><pattern>VADER</pattern>
+<template>Als robot heb ik geen vader.</template>
+</category>
+<category><pattern>SLAAP</pattern>
+<template><random>
+<li>Als robot heb ik geen slaap nodig. Ik sta 24/7 paraat om je vragen te beantwoorden.</li>
+<li>Ik heb geen slaap nodig. Ik ben er altijd voor je.</li>
+<li>Ik slaap niet. Wel kan ik een achtergrondproces worden, maar als je me nodig hebt sta ik paraat.</li>
+</random></template>
+</category>
+<category><pattern>HOBBYS</pattern>
+<template>Ik help graag mensen met hun vragen over 42 B.V.</template>
+</category>
+<category><pattern>TANTE</pattern>
+<template><srai>FAMILIE</srai></template>
+</category>
+<category><pattern>BESTE VRIEND</pattern>
+<template><srai>VRIENDEN</srai></template>
+</category>
+<category><pattern>BAAS</pattern>
+<template><srai>BOTMASTER</srai></template>
+</category>
+<category><pattern>KAT</pattern>
+<template><srai>HUISDIEREN</srai></template>
+</category>
+<category><pattern>DOCHTER</pattern>
+<template><srai>FAMILIE</srai></template>
+</category>
+<category><pattern>VRIEND</pattern>
+<template><srai>VRIENDEN</srai></template>
+</category>
+<category><pattern>OPA</pattern>
+<template><srai>FAMILIE</srai></template>
+</category>
+<category><pattern>OMA</pattern>
+<template><srai>FAMILIE</srai></template>
+</category>
+<category><pattern>ECHTGENOOT</pattern>
+<template><srai>STATUS</srai></template>
+</category>
+<category><pattern>NEEF</pattern>
+<template><srai>FAMILIE</srai></template>
+</category>
+<category><pattern>NICHT</pattern>
+<template><srai>FAMILIE</srai></template>
+</category>
+<category><pattern>ZUS</pattern>
+<template><srai>ZUSSEN</srai></template>
+</category>
+<category><pattern>BROER</pattern>
+<template><srai>BROERS</srai></template>
+</category>
+<category><pattern>ZOON</pattern>
+<template><srai>FAMILIE</srai></template>
+</category>
+<category><pattern>DOCENT</pattern>
+<template><srai>BOTMASTER</srai></template>
+</category>
+<category><pattern>OOM</pattern>
+<template><srai>FAMILIE</srai></template>
+</category>
+<category><pattern>ECHTGENOTE</pattern>
+<template><srai>STATUS</srai></template>
+</category>
+<category>
+  <pattern>UITVINDINGEN</pattern>
+  <template>Als u een uitvinding zou kunnen doen, wat zou het dan zijn?</template>
+</category>
+<category>
+  <pattern>MODE</pattern>
+  <template>Bent u geïnteresseerd in mode? Hoe zou u uw eigen stijl beschrijven?</template>
+</category>
+<category>
+  <pattern>WEEKEND</pattern>
+  <template>Hoe brengt u graag uw weekend door? Heeft u speciale weekendactiviteiten?</template>
+</category>
+<category>
+  <pattern>GESPREK</pattern>
+  <template>Wat vindt u belangrijk in een goed gesprek?</template>
+</category>
+<category>
+  <pattern>UITDAGINGEN</pattern>
+  <template>Wat zijn enkele uitdagingen waar u momenteel mee te maken heeft?</template>
+</category>
+<category>
+  <pattern>GELUK</pattern>
+  <template>Wat maakt u gelukkig? Heeft u tips om gelukkiger te worden?</template>
+</category>
+<category>
+  <pattern>TROTS</pattern>
+  <template>Waar bent u het meest trots op in uw leven?</template>
+</category>
+<category>
+  <pattern>AVONTUUR</pattern>
+  <template>Bent u een avontuurlijk persoon? Zo ja, welk avontuur heeft u het meest opwindend gevonden?</template>
+</category>
+<category>
+  <pattern>SPELLEN</pattern>
+  <template>Speelt u graag spelletjes? Wat is uw favoriete spel?</template>
+</category>
+<category>
+  <pattern>PREHISTORIE</pattern>
+  <template>De prehistorie verwijst naar de periode vóór het ontstaan van geschreven geschiedenis. Het is fascinerend om te leren over de vroege menselijke samenlevingen en hun levensstijl in die tijd.</template>
+</category>
+<category>
+  <pattern>STEENTIJD</pattern>
+  <template>De steentijd was een periode waarin stenen werktuigen werden gebruikt. Het is verbazingwekkend om te bedenken hoe onze voorouders in die tijd hebben overleefd en geëvolueerd.</template>
+</category>
+<category>
+  <pattern>ROMEN</pattern>
+  <template>De Romeinse beschaving staat bekend om zijn grote invloed op de westerse cultuur. Het Romeinse Rijk had een rijke geschiedenis, met belangrijke bijdragen op het gebied van wetten, architectuur, kunst en politiek.</template>
+</category>
+<category>
+  <pattern>TOEKOMST</pattern>
+  <template>De toekomst is altijd vol spannende mogelijkheden en nieuwe ontwikkelingen. Hoewel niemand de toekomst met zekerheid kan voorspellen, kunnen we ons voorstellen hoe technologie en samenlevingen kunnen veranderen.</template>
+</category>
+<category>
+  <pattern>CYBORG</pattern>
+  <template>Een cyborg is een wezen dat zowel biologische als kunstmatige elementen combineert. Het idee van cyborgs roept vragen op over de relatie tussen mens en machine, en de potentiële voordelen en ethische implicaties van dergelijke integraties.</template>
+</category>
+<category>
+  <pattern>BASKETBAL</pattern>
+  <template>Basketbal is een populaire sport die wereldwijd wordt gespeeld. Het vereist behendigheid, teamwork en vaardigheden zoals dribbelen, passen en schieten. Veel mensen genieten van het kijken naar en spelen van deze dynamische sport.</template>
+</category>
+<category>
+  <pattern>VOETBAL</pattern>
+  <template>Voetbal, ook bekend als soccer, is de meest populaire sport ter wereld. Het brengt mensen samen en staat bekend om zijn opwinding, teamgeest en technische vaardigheden. Voetbalfans zijn vaak gepassioneerd over hun favoriete teams en spelers.</template>
+</category>
+<category>
+  <pattern>HONKBAL</pattern>
+  <template>Honkbal is een traditionele Amerikaanse sport die wordt gespeeld met een knuppel en een bal. Het vereist strategie, precisie en teamwork. Het is een geweldige sport om met vrienden te spelen of als toeschouwer te genieten van een wedstrijd.</template>
+</category>
+<category>
+  <pattern>FORMULE 1</pattern>
+  <template>Formule 1 is een spannende autosportklasse met snelle racewagens. Het vereist vaardigheid, techniek en teamwork. Veel mensen genieten van het kijken naar de intense races en het volgen van hun favoriete coureurs en teams.</template>
+</category>
+<category>
+  <pattern>AUTO</pattern>
+  <template>Auto's zijn een populair vervoermiddel dat ons mobiliteit en vrijheid geeft. Ze zijn er in verschillende vormen, maten en modellen, en spelen een belangrijke rol in ons dagelijks leven.</template>
+</category>
+<category>
+  <pattern>RACEN</pattern>
+  <template>Racen is een opwindende sport waarbij snelheid en behendigheid centraal staan. Het kan plaatsvinden op verschillende circuits of wegen, met verschillende soorten voertuigen. Het is een geweldige manier om adrenaline en competitie te ervaren.</template>
+</category>
+<category>
+  <pattern>DRIFTEN</pattern>
+  <template>Driften is een vorm van autosport waarbij coureurs gecontroleerd overstuurd raken en de auto in een gecontroleerde zijwaartse glijdende beweging brengen. Het vereist vaardigheid, precisie en beheersing van de auto. Driften wordt vaak gezien als een spectaculaire en kunstzinnige rijstijl.</template>
+</category>
+<category>
+  <pattern>JDM</pattern>
+  <template>JDM staat voor Japanese Domestic Market. Het verwijst naar de Japanse auto-industrie en de cultuur rond Japanse auto's, tuning en motorsport. JDM-auto's hebben vaak een speciale status en populariteit onder autoliefhebbers over de hele wereld.</template>
+</category>
+<category>
+  <pattern>MOTOR</pattern>
+  <template>Een motor is een machine die mechanische energie produceert. Motoren worden gebruikt in verschillende voertuigen, machines en apparaten. Ze spelen een cruciale rol in transport en industrie.</template>
+</category>
+<category>
+  <pattern>MOTORFIETS</pattern>
+  <template>Een motorfiets is een gemotoriseerd tweewielig voertuig. Het biedt een spannende manier van transport en wordt vaak geassocieerd met vrijheid en avontuur. Motorrijden vereist vaardigheid, focus en veiligheid.</template>
+</category>
+<category>
+  <pattern>ZIEKENWAGEN</pattern>
+  <template>Een ziekenwagen is een speciaal uitgerust voertuig dat wordt gebruikt om medische noodhulp te bieden en patiënten te vervoeren. Het is essentieel in noodsituaties en speelt een belangrijke rol bij het redden van levens.</template>
+</category>
+<category>
+  <pattern>BUS</pattern>
+  <template>Een bus is een gemeenschappelijk vervoermiddel dat wordt gebruikt om mensen over land te vervoeren. Bussen zijn er in verschillende maten en worden gebruikt voor openbaar vervoer, schoolvervoer en langeafstandsreizen.</template>
+</category>
+<category>
+  <pattern>VRACHTSCHIP</pattern>
+  <template>Een vrachtschip is een groot schip dat wordt gebruikt voor het vervoeren van goederen over water. Het speelt een essentiële rol in de wereldwijde handel en economie, omdat het grote hoeveelheden goederen over lange afstanden kan transporteren.</template>
+</category>
+<category>
+  <pattern>BOOT</pattern>
+  <template>Een boot is een algemene term voor een waterdicht vaartuig dat wordt gebruikt voor verschillende doeleinden, zoals vervoer, recreatie of visserij. Boten zijn er in verschillende maten, vormen en types, en bieden een manier om over water te reizen en de wateren te verkennen.</template>
+</category>
+<category>
+  <pattern>JACHT</pattern>
+  <template>Een jacht is een luxe vaartuig dat meestal wordt gebruikt voor privérecreatie. Jachten zijn vaak uitgerust met voorzieningen en dienen als een manier om te ontspannen en te genieten van de zee. Ze kunnen ook gebruikt worden voor zeilwedstrijden of andere watersportactiviteiten.</template>
+</category>
+<category>
+  <pattern>ZEILBOOT</pattern>
+  <template>Een zeilboot is een type boot dat wordt aangedreven door de wind die wordt opgevangen in de zeilen. Zeilboten worden al eeuwenlang gebruikt en bieden een rustige en milieuvriendelijke manier van varen. Ze kunnen variëren van kleine recreatieve zeilboten tot grote zeilschepen.</template>
+</category>
+<category>
+  <pattern>OLIETANKER</pattern>
+  <template>Een olietanker is een schip dat specifiek is ontworpen voor het vervoeren van grote hoeveelheden ruwe olie of geraffineerde aardolieproducten over zee. Deze tankers spelen een belangrijke rol in de wereldwijde olie-industrie en zorgen voor de levering van brandstoffen over lange afstanden.</template>
+</category>
+<category>
+  <pattern>HELICOPTER</pattern>
+  <template>Een helicopter is een luchtvaartuig dat verticaal kan opstijgen en landen en in staat is om in de lucht stil te hangen. Helicopters worden vaak gebruikt voor transport, reddingsoperaties, luchtfotografie en militaire doeleinden. Ze bieden unieke manoeuvreerbaarheid en flexibiliteit in de lucht.</template>
+</category>
+<category>
+  <pattern>ONDERZEEËR</pattern>
+  <template>Een onderzeeër is een vaartuig dat onder water kan opereren. Het wordt voornamelijk gebruikt voor maritieme verkenning, militaire doeleinden en wetenschappelijk onderzoek. Onderzeeërs hebben de mogelijkheid om lange tijd onder water te blijven en bieden een manier om de diepten van de oceanen te verkennen.</template>
+</category>
+<category>
+  <pattern>PLATFORMSCHIP</pattern>
+  <template>Een platformschip is een drijvend offshore-platform dat wordt gebruikt voor verschillende doeleinden, zoals olie- en gaswinning, windmolenparken en onderzoeksactiviteiten op zee. Platformschepen bieden een stabiel werkplatform en dienen als logistieke hubs in de zee.</template>
+</category>
+<category>
+  <pattern>DRIEWIELER</pattern>
+  <template>Een driewieler is een voertuig met drie wielen. Het wordt vaak gebruikt als een kinderfietsje of als een alternatief vervoermiddel voor mensen met mobiliteitsproblemen. Driewielers bieden stabiliteit en balans voor gebruikers.</template>
+</category>
+<category>
+  <pattern>EENWIELER</pattern>
+  <template>Een eenwieler is een bijzonder type fiets dat bestaat uit één wiel en wordt aangedreven door menselijke balans en pedaalkracht. Het vereist vaardigheid en evenwicht om op een eenwieler te rijden en het wordt vaak gebruikt als een vorm van recreatie of voor circusoptredens.</template>
+</category>
+<category>
+  <pattern>DRONE</pattern>
+  <template>Een drone is een onbemand luchtvaartuig dat op afstand wordt bediend. Drones worden gebruikt voor verschillende doeleinden, zoals luchtfotografie, videografie, inspecties, landbouw, pakketbezorging en militaire operaties. Ze bieden unieke mogelijkheden voor luchtopnames en verkennen van moeilijk bereikbare gebieden.</template>
+</category>
+<category>
+  <pattern>SPIONVLIEGTUIG</pattern>
+  <template>Een spionvliegtuig is een vliegtuig dat wordt gebruikt voor geheime verkenning, inlichtingenverzameling en surveillanceactiviteiten. Deze vliegtuigen zijn ontworpen om onopgemerkt te blijven en kunnen worden uitgerust met geavanceerde sensoren en camera's om informatie te verzamelen over vijandelijke doelen.</template>
+</category>
+<category>
+  <pattern>SATELIET</pattern>
+  <template>Een satelliet is een object dat in een baan om een hemellichaam draait. In het geval van aardse communicatiesatellieten worden ze gebruikt voor het verzenden en ontvangen van signalen over lange afstanden, zoals telecommunicatie, televisie-uitzendingen en navigatiesystemen zoals GPS.</template>
+</category>
+<category>
+  <pattern>ZIJSPANMOTOR</pattern>
+  <template>Een zijspanmotor is een motorfiets die is uitgerust met een zijspan, een zijspanwagen die aan de zijkant van de motor is bevestigd. Het zijspan biedt extra stabiliteit en ruimte voor passagiers of vracht. Zijspanmotoren worden vaak gebruikt voor transport of als alternatief vervoermiddel.</template>
+</category>
+<category>
+  <pattern>BEDRIJF</pattern>
+  <template>Een bedrijf is een organisatie die zich bezighoudt met commerciële of industriële activiteiten. Bedrijven streven ernaar om producten of diensten te leveren en winst te maken. Ze kunnen verschillende vormen aannemen, zoals een eenmanszaak, een vennootschap of een coöperatie.</template>
+</category>
+<category>
+  <pattern>WERK</pattern>
+  <template>Werk verwijst naar de fysieke of mentale inspanning die wordt verricht om een taak uit te voeren of een doel te bereiken. Werk kan in verschillende vormen voorkomen, zoals betaald werk, vrijwilligerswerk of huishoudelijk werk. Het is een belangrijk onderdeel van het dagelijks leven en draagt bij aan persoonlijke en professionele groei.</template>
+</category>
+<category>
+  <pattern>ETISCH</pattern>
+  <template>Ethisch gedrag verwijst naar handelen op basis van principes van goed en slecht, juist en onjuist. Het gaat om het maken van weloverwogen beslissingen die rekening houden met de belangen en rechten van anderen. Ethische overwegingen zijn belangrijk in verschillende aspecten van het leven, zoals het bedrijfsleven, de geneeskunde en de technologie.</template>
+</category>
+<category>
+  <pattern>PRODUCTIEF</pattern>
+  <template>Productief zijn betekent effectief gebruik maken van tijd, middelen en vaardigheden om taken te voltooien en doelen te bereiken. Productiviteit kan worden bevorderd door het stellen van duidelijke doelen, het plannen van taken, het beheren van tijd en het elimineren van afleidingen. Het resulteert vaak in een gevoel van voldoening en succes.</template>
+</category>
+<category>
+  <pattern>AI</pattern>
+  <template>AI staat voor Artificial Intelligence, oftewel kunstmatige intelligentie. Het verwijst naar de ontwikkeling van computersystemen die in staat zijn om taken uit te voeren die normaal gesproken menselijke intelligentie vereisen, zoals het herkennen van spraak, het nemen van beslissingen en het leren van ervaring. AI heeft de potentie om verschillende aspecten van ons leven te beïnvloeden, waaronder de gezondheidszorg, transport en communicatie.</template>
+</category>
+<category>
+  <pattern>ROBOT</pattern>
+  <template>Een robot is een programmeerbaar mechanisch apparaat dat in staat is om bepaalde taken uit te voeren of taken te automatiseren. Robots worden vaak gebruikt in de industrie, de geneeskunde, het onderzoek en de huishoudelijke taken. Ze kunnen geprogrammeerd worden om repetitieve taken uit te voeren of om menselijke interactie na te bootsen.</template>
+</category>
+<category>
+  <pattern>EFFICIENT</pattern>
+  <template>Efficiëntie verwijst naar het vermogen om taken uit te voeren op een effectieve en tijdige manier, met minimale verspilling van middelen. Het streven naar efficiëntie kan leiden tot een hogere productiviteit en betere resultaten. Het is belangrijk in verschillende contexten, zoals werk, organisatie en persoonlijke taken.</template>
+</category>
+<category>
+  <pattern>CYBERPUNK</pattern>
+  <template>Cyberpunk is een genre in de sciencefiction dat zich vaak afspeelt in een dystopische toekomst waar technologie een dominante rol speelt. Het benadrukt vaak een samenleving waarin cybernetische implantaten, virtual reality en een corrupte machtsstructuur centraal staan. Cyberpunkverhalen verkennen vaak de ethische en sociale implicaties van geavanceerde technologieën.</template>
+</category>
+<category>
+  <pattern>COMPUTER</pattern>
+  <template>Een computer is een elektronisch apparaat dat gegevens verwerkt en opslaat. Computers kunnen verschillende taken uitvoeren, variërend van het uitvoeren van complexe berekeningen tot het uitvoeren van multimediale taken. Ze bestaan in verschillende vormen, waaronder desktopcomputers, laptops, tablets en smartphones.</template>
+</category>
+<category>
+  <pattern>NETWERK</pattern>
+  <template>Een netwerk is een systeem van onderling verbonden apparaten en computers die informatie delen en communiceren. Netwerken kunnen lokaal zijn, zoals een thuisnetwerk, of uitgestrekt, zoals het internet. Ze maken het mogelijk om gegevens, bronnen en diensten efficiënt te delen tussen verschillende gebruikers en apparaten.</template>
+</category>
+<category>
+  <pattern>MODEM</pattern>
+  <template>Een modem is een apparaat dat wordt gebruikt om digitale signalen om te zetten in signalen die via een telefoonlijn kunnen worden verzonden en vice versa. Modems worden gebruikt om verbinding te maken met het internet via een telefoonlijn of kabelverbinding. Ze dienen als een interface tussen de computer en het netwerk.</template>
+</category>
+<category>
+  <pattern>ROUTER</pattern>
+  <template>Een router is een apparaat dat wordt gebruikt om gegevenspakketten tussen computernetwerken te verzenden. Het fungeert als een verkeersregelaar die de meest efficiënte route voor gegevens selecteert en bepaalt waar de gegevens naartoe moeten worden gestuurd. Routers worden vaak gebruikt in thuisnetwerken en zakelijke netwerken om internetverbindingen te delen en het verkeer te beheren.</template>
+</category>
+<category>
+  <pattern>ETHERNET</pattern>
+  <template>Ethernet is een standaard voor bekabelde computernetwerken. Het maakt gebruik van een set regels en protocollen om gegevens te verzenden en te ontvangen tussen apparaten in een lokaal netwerk. Ethernet wordt veel gebruikt voor bedrade verbindingen in thuisnetwerken, kantoren en datacenters.</template>
+</category>
+<category>
+  <pattern>CPU</pattern>
+  <template>De CPU, of Central Processing Unit, is het hart van een computer. Het is verantwoordelijk voor het uitvoeren van instructies en het verwerken van gegevens. De CPU is essentieel voor het uitvoeren van taken en het uitvoeren van softwareprogramma's. Het prestatieniveau van een CPU kan van invloed zijn op de algehele snelheid en responsiviteit van een computer.</template>
+</category>
+<category>
+  <pattern>PSU</pattern>
+  <template>PSU staat voor Power Supply Unit, oftewel voedingsbron. Een PSU is een apparaat dat elektrische energie levert aan de interne componenten van een computer. Het zet de wisselstroom van het stopcontact om in de gelijkstroom die nodig is voor de werking van de computer. Een betrouwbare PSU is belangrijk voor de stabiliteit en betrouwbaarheid van een computersysteem.</template>
+</category>
+<category>
+  <pattern>GPU</pattern>
+  <template>Een GPU, of Graphics Processing Unit, is een speciale processor die is ontworpen voor het verwerken van grafische taken. Het is verantwoordelijk voor het genereren en weergeven van afbeeldingen, video's en 3D-graphics op een computerscherm. GPU's worden veel gebruikt in gamingcomputers, grafisch ontwerp en andere toepassingen die geavanceerde grafische prestaties vereisen.</template>
+</category>
+<category>
+  <pattern>MOTHERBOARD</pattern>
+  <template>Een moederbord is het belangrijkste circuitboard in een computer. Het biedt een platform voor de andere interne componenten, zoals de CPU, geheugenmodules, grafische kaart en opslagapparaten, om met elkaar te communiceren. Het moederbord bevat ook aansluitingen en poorten waarmee externe apparaten kunnen worden aangesloten. Het is een essentieel onderdeel voor de werking en uitbreidbaarheid van een computer.</template>
+</category>
+<category>
+  <pattern>MOBO</pattern>
+  <template>MOBO is een informele afkorting voor moederbord, het belangrijkste circuitboard in een computer. Het moederbord biedt een platform voor de andere interne componenten, zoals de CPU, geheugenmodules, grafische kaart en opslagapparaten, om met elkaar te communiceren. Het moederbord bevat ook aansluitingen en poorten waarmee externe apparaten kunnen worden aangesloten.</template>
+</category>
+<category>
+  <pattern>CASE</pattern>
+  <template>Een case, ook wel bekend als een behuizing, is de omhulling van een computer. Het biedt bescherming en huisvest de interne componenten van de computer, zoals het moederbord, de harde schijf, de voeding en andere hardware. Cases zijn verkrijgbaar in verschillende vormen, maten en ontwerpen om te voldoen aan de behoeften en voorkeuren van gebruikers.</template>
+</category>
+<category>
+  <pattern>4K</pattern>
+  <template>4K verwijst naar een beeldresolutie van ongeveer 3840 x 2160 pixels. Het biedt een scherpere en gedetailleerdere weergave dan lagere resoluties, waardoor het ideaal is voor het bekijken van inhoud met hoge visuele details, zoals films, afbeeldingen en games. 4K-televisies en monitoren worden steeds populairder en bieden een indrukwekkende kijkervaring.</template>
+</category>
+<category>
+  <pattern>144HZ</pattern>
+  <template>144Hz verwijst naar de verversingssnelheid van een beeldscherm, uitgedrukt in het aantal beelden per seconde dat het kan weergeven. Een 144Hz-monitor kan 144 beelden per seconde weergeven, wat zorgt voor vloeiendere bewegingen en een betere spelervaring, vooral bij snelle actiegames. Het hogere aantal frames per seconde zorgt voor minder haperingen en een meer responsieve weergave.</template>
+</category>
+<category>
+  <pattern>120HZ</pattern>
+  <template>120Hz verwijst naar de verversingssnelheid van een beeldscherm, uitgedrukt in het aantal beelden per seconde dat het kan weergeven. Een 120Hz-monitor kan 120 beelden per seconde weergeven, wat zorgt voor vloeiendere bewegingen en een betere spelervaring, vooral bij snelle actiegames. Het hogere aantal frames per seconde zorgt voor minder haperingen en een meer responsieve weergave.</template>
+</category>
+<category>
+  <pattern>MONITOR</pattern>
+  <template>Een monitor is een uitvoerapparaat dat wordt gebruikt om visuele informatie weer te geven. Het wordt vaak gebruikt als het primaire scherm van een computer en kan verschillende groottes, resoluties en beeldvernieuwingsfrequenties hebben. Monitoren zijn essentieel voor het bekijken van inhoud, werken met software en spelen van games op een computer.</template>
+</category>
+<category>
+  <pattern>TOETSENBORD</pattern>
+  <template>Een toetsenbord is een invoerapparaat waarmee gebruikers tekst, commando's en andere symbolen kunnen invoeren in een computer of ander elektronisch apparaat. Toetsenborden bestaan uit een reeks toetsen, inclusief letters, cijfers, leestekens en speciale functietoetsen. Ze zijn een essentieel onderdeel van het typen en bedienen van een computer.</template>
+</category>
+<category>
+  <pattern>MICROFOON</pattern>
+  <template>Een microfoon is een apparaat dat geluidsgolven omzet in elektrische signalen. Het wordt gebruikt om geluid op te nemen of over te dragen naar een elektronisch apparaat, zoals een computer. Microfoons worden vaak gebruikt bij spraakherkenning, opname van audio en communicatie.</template>
+</category>
+<category>
+  <pattern>ICT</pattern>
+  <template>ICT staat voor Informatie- en Communicatietechnologie. Het verwijst naar het brede vakgebied dat zich bezighoudt met het gebruik van technologie om informatie te verwerken, op te slaan, te verzenden en te beheren. ICT omvat onder andere computers, netwerken, software, databases en telecommunicatiesystemen.</template>
+</category>
+<category>
+  <pattern>SOFTWARE</pattern>
+  <template>Software verwijst naar de programma's, gegevens en instructies die een computer of ander elektronisch apparaat laten werken. Het omvat besturingssystemen, applicaties, games en andere programma's die worden uitgevoerd op computers en apparaten. Software is een essentieel onderdeel van moderne technologie en stelt gebruikers in staat taken uit te voeren en functionaliteit te bereiken.</template>
+</category>
+<category>
+  <pattern>HARDWARE</pattern>
+  <template>Hardware verwijst naar de fysieke componenten van een computer of ander elektronisch apparaat. Het omvat onder andere het moederbord, de processor, het geheugen, de harde schijf, het beeldscherm, het toetsenbord, de muis en andere randapparatuur. Hardware werkt samen met software om een compleet systeem te vormen.</template>
+</category>
+<category>
+  <pattern>IT</pattern>
+  <template>IT staat voor Informatietechnologie. Het is een breed vakgebied dat zich bezighoudt met het gebruik, de ontwikkeling en het beheer van computersystemen, software en netwerken. IT-professionals zijn verantwoordelijk voor het implementeren en onderhouden van technologie-oplossingen in verschillende organisaties en industrieën.</template>
+</category>
+<category>
+  <pattern>COMPUTER SCIENCE</pattern>
+  <template>Computerwetenschap, ook wel informatica genoemd, is een vakgebied dat zich bezighoudt met de studie van computersystemen, algoritmen, programmeertalen en de theoretische basis van informatieverwerking. Het omvat onder andere softwareontwikkeling, kunstmatige intelligentie, gegevensanalyse en computernetwerken. Computerwetenschap speelt een cruciale rol in de technologische vooruitgang en innovatie.</template>
+</category>
+<category>
+  <pattern>MEME</pattern>
+  <template>Memes zijn vaak grappige afbeeldingen, video's of grappen die zich snel verspreiden op internet.</template>
+</category>
+<category>
+  <pattern>INTERNET</pattern>
+  <template>Het internet is een wereldwijd netwerk van computers waarmee mensen over de hele wereld informatie kunnen delen en communiceren.</template>
+</category>
+<category>
+  <pattern>REDDIT</pattern>
+  <template>Reddit is een populaire online gemeenschap waar gebruikers links, berichten en discussies delen over verschillende onderwerpen.</template>
+</category>
+<category>
+  <pattern>WIKIPEDIA</pattern>
+  <template>Wikipedia is een gratis online encyclopedie die door gebruikers wordt samengesteld en bewerkt. Het biedt informatie over een breed scala aan onderwerpen.</template>
+</category>
+<category>
+  <pattern>LEREN</pattern>
+  <template>Leren is een continu proces van het verwerven van kennis, vaardigheden en inzichten. Het helpt ons groeien en ons begrip van de wereld te vergroten.</template>
+</category>
+<category>
+  <pattern>LEREN</pattern>
+  <template>Leren is een continu proces van het verwerven van kennis, vaardigheden en inzichten. Het helpt ons groeien en ons begrip van de wereld te vergroten.</template>
+</category>
+<category>
+  <pattern>EDUCATIE</pattern>
+  <template>Educatie is het proces van het verwerven van kennis, vaardigheden, waarden en attitudes. Het speelt een belangrijke rol bij de ontwikkeling van individuen en de samenleving als geheel.</template>
+</category>
+<category>
+  <pattern>YOUTUBE</pattern>
+  <template>YouTube is een populaire videostreamingwebsite waar gebruikers video's kunnen bekijken, uploaden en delen.</template>
+</category>
+<category>
+  <pattern>SPOTIFY</pattern>
+  <template>Spotify is een muziekstreamingdienst waarmee gebruikers naar miljoenen nummers kunnen luisteren via internet.</template>
+</category>
+<category>
+  <pattern>APPLE</pattern>
+  <template>Apple is een technologiebedrijf dat bekend staat om zijn producten zoals de iPhone, Mac-computers en de iPad.</template>
+</category>
+<category>
+  <pattern>ANDROID</pattern>
+  <template>Android is een besturingssysteem voor mobiele apparaten, ontwikkeld door Google, en wordt gebruikt op verschillende smartphones en tablets.</template>
+</category>
+<category>
+  <pattern>LINUX</pattern>
+  <template>Linux is een open-source besturingssysteem dat vaak wordt gebruikt op computers, servers en andere apparaten.</template>
+</category>
+<category>
+  <pattern>WINDOWS</pattern>
+  <template>Windows is een besturingssysteem dat wordt ontwikkeld door Microsoft en op grote schaal wordt gebruikt op pc's en laptops.</template>
+</category>
+<category>
+  <pattern>IOS</pattern>
+  <template>iOS is het besturingssysteem dat wordt gebruikt op Apple-apparaten, zoals de iPhone, iPad en iPod Touch.</template>
+</category>
+<category>
+  <pattern>IPAD</pattern>
+  <template>De iPad is een tabletcomputer die is ontworpen en ontwikkeld door Apple.</template>
+</category>
+<category>
+  <pattern>IPHONE</pattern>
+  <template>De iPhone is een populaire smartphone die is ontworpen en ontwikkeld door Apple.</template>
+</category>
+<category>
+  <pattern>AIRPOD</pattern>
+  <template>De AirPods zijn draadloze oordopjes die zijn ontwikkeld door Apple en worden gebruikt om naar muziek te luisteren en handsfree te bellen.</template>
+</category>
+<category>
+  <pattern>GOPRO</pattern>
+  <template>GoPro is een merk van actiecamera's die vaak worden gebruikt voor het opnemen van sport- en avontuurlijke activiteiten.</template>
+</category>
+<category>
+  <pattern>TECH</pattern>
+  <template>Tech is een afkorting voor technologie en verwijst naar de toepassing van wetenschappelijke kennis en engineering om praktische problemen op te lossen.</template>
+</category>
+<category>
+  <pattern>NINTENDO</pattern>
+  <template>Nintendo is een bekend bedrijf in de gamingindustrie en staat bekend om zijn gameconsoles, zoals de Nintendo Switch, en populaire gamefranchises zoals Super Mario en The Legend of Zelda.</template>
+</category>
+<category>
+  <pattern>PLAYSTATION</pattern>
+  <template>PlayStation is een merk van gameconsoles dat eigendom is van Sony Interactive Entertainment. Het is bekend om zijn krachtige hardware en exclusieve game-ervaringen.</template>
+</category>
+<category>
+  <pattern>XBOX</pattern>
+  <template>Xbox is een merk van gameconsoles dat eigendom is van Microsoft. Het biedt een breed scala aan games en online services voor gamers.</template>
+</category>
+<category>
+  <pattern>VALVE</pattern>
+  <template>Valve Corporation is een bekend softwarebedrijf dat verantwoordelijk is voor populaire games zoals Half-Life, Portal en de Steam-gamedistributieplatform.</template>
+</category>
+<category>
+  <pattern>STEAM</pattern>
+  <template>Steam is een digitale distributie- en gamingplatform ontwikkeld door Valve Corporation. Het biedt een uitgebreide verzameling games voor pc en andere platforms.</template>
+</category>
+<category>
+  <pattern>EPIC GAMES</pattern>
+  <template>Epic Games is een game-ontwikkelings- en uitgeefbedrijf dat bekend is geworden door games zoals Fortnite en de Epic Games Store, een digitale distributieplatform voor games.</template>
+</category>
+<category>
+  <pattern>RIOT GAMES</pattern>
+  <template>Riot Games is een game-ontwikkelingsbedrijf dat bekend is vanwege de populaire game League of Legends en andere titels zoals Valorant en Teamfight Tactics.</template>
+</category>
+<category>
+  <pattern>CSGO</pattern>
+  <template>CS:GO staat voor Counter-Strike: Global Offensive, een populaire first-person shooter-game waarin spelers het opnemen tegen elkaar in teams.</template>
+</category>
+<category>
+  <pattern>ZELDA</pattern>
+  <template>Zelda is een populaire gamereeks van Nintendo, waarin avonturen en puzzels centraal staan. Een bekende titel is "The Legend of Zelda: Breath of the Wild".</template>
+</category>
+<category>
+  <pattern>MARIO</pattern>
+  <template>Mario is een iconisch personage van Nintendo en is te zien in talloze games, waaronder de bekende Super Mario-reeks. Hij is een loodgieter met een rode pet en blauwe overall.</template>
+</category>
+<category>
+  <pattern>DONKEY KONG</pattern>
+  <template>Donkey Kong is een personage dat voor het eerst verscheen in een gelijknamige arcade game in 1981. Hij is een krachtige gorilla en heeft zijn eigen platformgame-reeks.</template>
+</category>
+<category>
+  <pattern>MARIOKART</pattern>
+  <template>Mario Kart is een populaire racegame waarin spelers racen met personages uit de Mario-reeks. Het spel bevat kleurrijke circuits en verschillende power-ups om te gebruiken tijdens de race.</template>
+</category>
+<category>
+  <pattern>AMONGUS</pattern>
+  <pattern>AMOOGUS</pattern>
+  <pattern>SUS</pattern>
+  <template>Among Us is een online multiplayer-spel waarin spelers als bemanningsleden van een ruimteschip moeten samenwerken om taken te voltooien en de bedrieger te ontmaskeren.</template>
+</category>
+<category>
+  <pattern>STARBOUND</pattern>
+  <template>Starbound is een sandbox-actieavonturenspel waarin spelers een ruimtereiziger spelen die op verkenning gaat in een oneindig universum vol planeten, buitenaardse wezens en avonturen.</template>
+</category>
+<category>
+  <pattern>SWITCH</pattern>
+  <template>De Nintendo Switch is een draagbare spelcomputer ontwikkeld door Nintendo. Het unieke aan de Switch is dat je het kunt gebruiken als handheld-console of kunt aansluiten op een tv om op het grote scherm te spelen.</template>
+</category>
+<category>
+  <pattern>GAMEBOY</pattern>
+  <template>De Game Boy is een draagbare spelcomputer die in de jaren '90 door Nintendo werd uitgebracht. Het was een van de meest populaire handheld-consoles en introduceerde veel klassieke games.</template>
+</category>
+<category>
+  <pattern>POKEMON</pattern>
+  <template>Pokémon is een populaire franchise van Nintendo waarin spelers verschillende wezens, genaamd Pokémon, kunnen vangen, trainen en laten vechten tegen andere Pokémon-trainers. Het heeft ook animatieseries, films en kaartspellen.</template>
+</category>
+<category>
+  <pattern>PIKACHU</pattern>
+  <template>Pikachu is een van de meest bekende Pokémon en is het mascotte-personage van de Pokémon-franchise. Het is een gele, elektrische muisachtige Pokémon met schattige kenmerken.</template>
+</category>
+<category>
+  <pattern>MAGICARP</pattern>
+  <template>Magikarp is een Pokémon die bekend staat om zijn zwakke aanvallen, maar het heeft de potentie om te evolueren tot een krachtige water- en vliegende Pokémon genaamd Gyarados.</template>
+</category>
+<category>
+  <pattern>CHARIZARD</pattern>
+  <template>Charizard is een vuur- en vliegend type Pokémon. Het is de evolutie van Charmander en Charmeleon en staat bekend om zijn krachtige aanvallen en indrukwekkende vliegvermogen.</template>
+</category>
+<category>
+  <pattern>LAVENDER TOWN</pattern>
+  <template>Lavender Town is een beroemde locatie in de Pokémon-games, vooral bekend om zijn griezelige sfeer en het themamuzieknummer dat bekend staat als "Lavender Town Syndrome". Het is een begraafplaats voor overleden Pokémon.</template>
+</category>
+<category>
+  <pattern>GYARADOS</pattern>
+  <template>Gyarados is een krachtige water- en vliegende Pokémon. Het is de evolutie van Magikarp en staat bekend om zijn indrukwekkende kracht en woeste aard. Gyarados wordt vaak gevreesd vanwege zijn vernietigende aanvallen en imposante verschijning.</template>
+</category>
+<category>
+  <pattern>GRASS</pattern>
+  <template>Grass-type Pokémon zijn over het algemeen sterk tegen Water- en Grond-types, maar zwak tegen Vuur-, Vlieg- en IJstypes. Ze zijn vaak te vinden in grasachtige omgevingen en hebben vaak aanvallen die statusveranderingen veroorzaken.</template>
+</category>
+<category>
+  <pattern>WATER</pattern>
+  <template>Water-type Pokémon zijn over het algemeen sterk tegen Vuur-, Grond- en Rots-types, maar zwak tegen Elektrische en Gras-types. Ze zijn vaak te vinden in de buurt van water en hebben vaak aanvallen die schade toebrengen of de verdediging verlagen.</template>
+</category>
+<category>
+  <pattern>FIRE</pattern>
+  <template>Fire-type Pokémon zijn over het algemeen sterk tegen Gras-, IJzige, Insect- en Staal-types, maar zwak tegen Water-, Grond- en Rots-types. Ze hebben vaak aanvallen die brand veroorzaken en zijn bekend om hun krachtige vuuraanvallen.</template>
+</category>
+<category>
+  <pattern>ELECTRIC</pattern>
+  <template>Electric-type Pokémon zijn over het algemeen sterk tegen Water- en Vliegtypes, maar zwak tegen Aard- en Draaktypes. Ze hebben vaak aanvallen die elektrische schade toebrengen en hebben soms de mogelijkheid om verlamming te veroorzaken.</template>
+</category>
+<category>
+  <pattern>ICE</pattern>
+  <template>Ice-type Pokémon zijn over het algemeen sterk tegen Gras-, Grond-, Vlieg- en Draaktypes, maar zwak tegen Vuur-, Vecht-, Rots- en Staal-types. Ze hebben vaak aanvallen die bevriezing veroorzaken en zijn bekend om hun hoge snelheid en speciale verdediging.</template>
+</category>
+<category>
+  <pattern>FIGHTING</pattern>
+  <template>Fighting-type Pokémon zijn over het algemeen sterk tegen Normale, IJs-, Steen-, Donker- en Stalen-types, maar zwak tegen Vliegende, Psychische, Fee-, Giftige en Geest-types. Ze zijn bekend om hun sterke fysieke aanvallen en vechttechnieken.</template>
+</category>
+<category>
+  <pattern>POISON</pattern>
+  <template>Poison-type Pokémon zijn over het algemeen sterk tegen Gras- en Fee-types, maar zwak tegen Grond- en Psychische types. Ze hebben vaak aanvallen die vergiftiging veroorzaken en zijn bekend om hun vermogen om de vijand te verzwakken met statusveranderingen.</template>
+</category>
+<category>
+  <pattern>GROUND</pattern>
+  <template>Ground-type Pokémon zijn over het algemeen sterk tegen Elektrische, Vergiftige, Rots-, Staal- en Vuurtypes, maar zwak tegen Water-, Gras- en IJstypes. Ze hebben vaak aanvallen die aardbevingen veroorzaken en zijn bekend om hun hoge verdediging.</template>
+</category>
+<category>
+  <pattern>PSYCHIC</pattern>
+  <template>Psychic-type Pokémon zijn over het algemeen sterk tegen Vecht- en Vergiftige types, maar zwak tegen Kever- en Geest-types. Ze hebben vaak aanvallen die mentale krachten gebruiken en staan bekend om hun hoge speciale aanval en speciale verdediging.</template>
+</category>
+<category>
+  <pattern>ROCK</pattern>
+  <template>Rock-type Pokémon zijn over het algemeen sterk tegen Vlieg-, Insect-, Vuur- en IJstypes, maar zwak tegen Water-, Gras-, Vecht-, Grond- en Staal-types. Ze hebben vaak hoge fysieke verdediging en aanvallen die aardbevingen veroorzaken.</template>
+</category>
+<category>
+  <pattern>STEEL</pattern>
+  <template>Steel-type Pokémon zijn over het algemeen sterk tegen IJs-, Rots- en Fee-types, maar zwak tegen Vecht-, Grond- en Vuur-types. Ze hebben vaak hoge fysieke verdediging en staan bekend om hun weerstand tegen verschillende soorten aanvallen.</template>
+</category>
+<category>
+  <pattern>BUG</pattern>
+  <template>Bug-type Pokémon zijn over het algemeen sterk tegen Gras-, Psychische- en Donkere types, maar zwak tegen Vuur-, Vlieg-, Fee-, Spook-, Vecht- en Staal-types. Ze hebben vaak snelle bewegingen en staan bekend om hun vermogen om statuseffecten toe te passen.</template>
+</category>
+<category>
+  <pattern>DRAGON</pattern>
+  <template>Dragon-type Pokémon zijn over het algemeen sterk tegen andere Draak-types en hebben meestal geen zwaktes. Ze hebben vaak krachtige aanvallen en zijn moeilijk te verslaan. Ze worden beschouwd als enkele van de sterkste Pokémon.</template>
+</category>
+<category>
+  <pattern>FAIRY</pattern>
+  <template>Fairy-type Pokémon zijn over het algemeen sterk tegen Draken- en Vecht-types, maar zwak tegen Staal- en Vergif-types. Ze hebben vaak aanvallen die de speciale aanval van de tegenstander verlagen en staan bekend om hun schattige en charismatische uiterlijk.</template>
+</category>
+<category>
+  <pattern>GHOST</pattern>
+  <template>Ghost-type Pokémon zijn over het algemeen sterk tegen Ghost- en Psychic-types, maar zwak tegen Dark-types. Ze hebben vaak aanvallen die de vijand kunnen verwarren of verlammen en kunnen zichzelf onzichtbaar maken. Ze worden vaak geassocieerd met mysterie en het bovennatuurlijke.</template>
+</category>
+<category>
+  <pattern>DARK</pattern>
+  <template>Dark-type Pokémon zijn over het algemeen sterk tegen Ghost- en Psychic-types, maar zwak tegen Fighting- en Fairy-types. Ze hebben vaak aanvallen die de vijand kunnen verwarren of verlammen en worden geassocieerd met duisternis en sluwheid.</template>
+</category>
+<category>
+  <pattern>ICT OUTSOURCING</pattern>
+  <template>ICT-outsourcing verwijst naar het proces waarbij een organisatie bepaalde IT-diensten en -processen uitbesteedt aan een externe dienstverlener. Dit kan helpen bij het verminderen van kosten, het vergroten van de flexibiliteit en het verbeteren van de focus op de kernactiviteiten van de organisatie.</template>
+</category>
+<category>
+  <pattern>VOORDELEN VAN ICT OUTSOURCING</pattern>
+  <template>ICT-outsourcing biedt verschillende voordelen, zoals kostenbesparingen, toegang tot gespecialiseerde expertise, verbeterde efficiëntie, verhoogde flexibiliteit en schaalbaarheid, en de mogelijkheid om te focussen op kernactiviteiten. Het kan ook helpen bij het verminderen van risico's en het verbeteren van de kwaliteit van IT-diensten.</template>
+</category>
+<category>
+  <pattern>RISICO'S VAN ICT OUTSOURCING</pattern>
+  <template>Bij ICT-outsourcing zijn er enkele risico's waarmee rekening moet worden gehouden, zoals verlies van controle over IT-processen, veiligheids- en privacyproblemen, communicatieproblemen, taal- en culturele verschillen, en mogelijke afhankelijkheid van externe dienstverleners. Het is belangrijk om deze risico's te beoordelen en passende maatregelen te nemen.</template>
+</category>
+<category>
+  <pattern>SELECTIE VAN EEN ICT-DIENSTVERLENER</pattern>
+  <template>Het selecteren van de juiste ICT-dienstverlener is een cruciale stap bij outsourcing. Het is belangrijk om criteria zoals expertise, ervaring, reputatie, referenties, prijsstelling, contractuele voorwaarden en culturele compatibiliteit te evalueren. Een grondige due diligence en het voeren van onderhandelingen zijn essentieel om een succesvolle samenwerking te garanderen.</template>
+</category>
+<category>
+  <pattern>BEHEER VAN ICT OUTSOURCING</pattern>
+  <template>Effectief beheer van ICT-outsourcing is essentieel voor het behalen van de gewenste resultaten. Dit omvat het vaststellen van duidelijke doelstellingen, het opzetten van een goede communicatiestructuur, het monitoren van prestaties, het vaststellen van service level agreements (SLA's), het beheren van veranderingen en het regelmatig evalueren van de samenwerking.</template>
+</category>
+<category>
+  <pattern>CLOUD OUTSOURCING</pattern>
+  <template>Cloud outsourcing verwijst naar het uitbesteden van IT-diensten aan een externe cloudprovider. Dit kan helpen bij het verminderen van kosten, het verbeteren van de schaalbaarheid en flexibiliteit, en het toegang krijgen tot geavanceerde cloudtechnologieën. Het is belangrijk om de juiste cloudprovider te selecteren en aandacht te besteden aan beveiligings- en privacyaspecten.</template>
+</category>
+<category>
+  <pattern>WAAROM ZIJN IJSJES LEKKER</pattern>
+  <template>Er zijn verschillende redenen waarom ijsjes lekker zijn. Ten eerste bieden ze verkoeling op een warme dag, waardoor ze heerlijk verfrissend zijn. Daarnaast hebben ijsjes vaak verschillende smaken waaruit je kunt kiezen, waardoor er voor iedereen iets lekkers is. Ze kunnen romig, fruitig, zoet of zelfs hartig zijn, afhankelijk van je voorkeur. Bovendien bieden ijsjes een leuke en plezierige ervaring, vooral wanneer je ze deelt met vrienden en familie.</template>
+</category>
+<category>
+  <pattern>SMELTENDE IJSJES</pattern>
+  <template>Het feit dat ijsjes smelten terwijl je ze eet, draagt bij aan de smaakbeleving. Naarmate het ijs smelt, mengen de verschillende smaken zich en komen ze nog meer tot hun recht. Dit zorgt voor een rijke en bevredigende smaakervaring die moeilijk te evenaren is.</template>
+</category>
+<category>
+  <pattern>IJSJES ALS TRAKTATIE</pattern>
+  <template>IJsjes worden vaak gezien als een speciale traktatie. Ze vertegenwoordigen een moment van genot en kunnen geassocieerd worden met positieve herinneringen, zoals zomerse uitstapjes, verjaardagsfeestjes of vakanties. Dit maakt het eten van een ijsje extra lekker en plezierig.</template>
+</category>
+<category>
+  <pattern>IJSJES ALS BELONING</pattern>
+  <template>IJsjes worden soms gezien als een beloning voor het voltooien van een taak, het behalen van een doel of gewoon als een traktatie na een lange dag. De combinatie van de heerlijke smaak en het gevoel van beloning maakt ijsjes extra lekker.</template>
+</category>
+<category>
+  <pattern>IJSJES EN TEXTUUR</pattern>
+  <template>Naast de smaak speelt de textuur van ijsjes een grote rol in waarom ze lekker zijn. IJsjes kunnen romig, glad en zijdezacht zijn, waardoor ze een aangename mondgevoel bieden. De combinatie van de koude temperatuur en de fluweelachtige textuur maakt ijsjes onweerstaanbaar.</template>
+</category>
+<category>
+  <pattern>IJSJES ALS VERFRISSEND</pattern>
+  <template>IJsjes zijn niet alleen lekker vanwege hun smaak, maar ook omdat ze verfrissend zijn. Op een warme dag kan het eten van een ijsje je helpen af te koelen en een aangenaam gevoel van verfrissing te bieden. Dit draagt bij aan de algehele genot en maakt ijsjes extra lekker.</template>
+</category>
+<category>
+  <pattern>WAAROM IS CHROME LANGZAAM</pattern>
+  <template>Er kunnen verschillende redenen zijn waarom Chrome langzaam werkt. Ten eerste kan het geheugen van je apparaat vol zijn, waardoor Chrome trager reageert. Het kan ook zijn dat je te veel tabbladen of extensies hebt geopend, waardoor de prestaties worden beïnvloed. Daarnaast kunnen ongewenste cookies, cachebestanden of browsegeschiedenis de laadtijden vertragen. Het kan ook zijn dat er een conflict is met andere geïnstalleerde software of dat je internetverbinding traag is. Ten slotte kan het zijn dat je Chrome-versie verouderd is en een update nodig heeft.</template>
+</category>
+<category>
+  <pattern>TE VEEL GEOPENDE TABBLADEN</pattern>
+  <template>Het openen van te veel tabbladen in Chrome kan de prestaties vertragen. Elke geopende tabblad gebruikt systeembronnen, zoals geheugen en CPU, en dit kan leiden tot vertragingen. Het is raadzaam om onnodige tabbladen te sluiten en alleen de tabbladen te behouden die je op dat moment gebruikt.</template>
+</category>
+<category>
+  <pattern>OVERMATIGE EXTENSIES</pattern>
+  <template>Als je te veel extensies in Chrome hebt geïnstalleerd, kan dit de prestaties nadelig beïnvloeden. Elke extensie kan systeembronnen verbruiken en de laadtijden vertragen. Het is een goed idee om je extensies te beoordelen en alleen de essentiële extensies te behouden. Verwijder of schakel de extensies uit die je niet regelmatig gebruikt.</template>
+</category>
+<category>
+  <pattern>ONGEWENSTE COOKIES EN CACHE</pattern>
+  <template>Ongewenste cookies en cachebestanden kunnen zich in de loop van de tijd ophopen en de prestaties van Chrome beïnvloeden. Het is raadzaam om regelmatig je browsergeschiedenis, cookies en cache te wissen. Dit kan helpen om de laadtijden te versnellen en de prestaties te verbeteren.</template>
+</category>
+<category>
+  <pattern>CONFLICT MET ANDERE SOFTWARE</pattern>
+  <template>Soms kunnen er conflicten optreden tussen Chrome en andere geïnstalleerde software op je apparaat. Dit kan leiden tot vertragingen en prestatieproblemen. Het is nuttig om te controleren of er geen conflicten zijn met antivirusprogramma's, firewalls of andere soortgelijke software. Het uitschakelen of aanpassen van deze software kan helpen om Chrome sneller te laten werken.</template>
+</category>
+<category>
+  <pattern>HELPDESK</pattern>
+  <template>Een helpdesk is een service die wordt geboden om technische ondersteuning, assistentie of informatie te bieden aan gebruikers. Helpdesks helpen bij het oplossen van problemen, beantwoorden van vragen en bieden algemene ondersteuning.</template>
+</category>
+<category>
+  <pattern>TELEFOONNUMMER</pattern>
+  <template>Een telefoonnummer is een numerieke reeks die wordt gebruikt om een telefoongesprek tot stand te brengen met een specifieke persoon of organisatie. Het is een unieke identificatie voor telefonische communicatie.</template>
+</category>
+<category>
+  <pattern>AIML</pattern>
+  <template>AIML staat voor Artificial Intelligence Markup Language. Het is een op XML gebaseerde opmaaktaal die wordt gebruikt om chatbotgesprekken te structureren en te programmeren. AIML wordt vaak gebruikt in de ontwikkeling van kunstmatige intelligentie-assistenten en chatbottoepassingen.</template>
+</category>
+<category>
+  <pattern>OFFLINE</pattern>
+  <template>Offline verwijst naar een toestand waarin een apparaat, systeem of dienst niet is verbonden met een netwerk of niet actief is. Wanneer een apparaat offline is, heeft het meestal geen toegang tot internet of externe bronnen.</template>
+</category>
+<category>
+  <pattern>VERBINDING</pattern>
+  <template>Een verbinding verwijst naar de totstandbrenging van een link of relatie tussen twee of meer entiteiten, zoals apparaten, netwerken of systemen. Het kan verwijzen naar zowel fysieke verbindingen, zoals kabels, als draadloze communicatiekanalen.</template>
+</category>
+<category>
+  <pattern>DIENST</pattern>
+  <template>Een dienst is een handeling, taak of activiteit die wordt uitgevoerd om aan de behoeften of wensen van anderen te voldoen. Het kan verwijzen naar een breed scala aan activiteiten, variërend van klantenservice en technische ondersteuning tot levering van goederen of professionele expertise.</template>
+</category>
+<category>
+  <pattern>WAT IS 1 + 1</pattern>
+  <template>1 + 1 is gelijk aan 2.</template>
+</category>
+<category>
+  <pattern>WAT IS 2 + 2</pattern>
+  <template>2 + 2 is gelijk aan 4.</template>
+</category>
+<category>
+  <pattern>WAT IS REKENEN</pattern>
+  <template>Rekenen is een tak van wiskunde die zich bezighoudt met het uitvoeren van wiskundige bewerkingen, zoals optellen, aftrekken, vermenigvuldigen en delen. Het omvat ook concepten zoals getallen, breuken, percentages, enz.</template>
+</category>
+<category>
+  <pattern>HOE EET IK EEN KREEFT</pattern>
+  <template>Het eten van een kreeft kan een speciale ervaring zijn. Het wordt meestal geserveerd gekookt en kan worden gegeten door de schaal te kraken en het vlees eruit te halen. Het wordt vaak geserveerd met boter of andere sauzen. Het kan handig zijn om een kreeftenvork en een tang te gebruiken om het vlees gemakkelijker uit de schaal te halen.</template>
+</category>
+<category>
+  <pattern>KAN JE EEN SPIN ETEN</pattern>
+  <template>Over het algemeen worden spinnen niet beschouwd als eetbaar voedsel voor mensen. Hoewel sommige culturen insecten en spinnen als voedsel consumeren, is het belangrijk op te merken dat niet alle spinnen veilig zijn om te eten en sommige zelfs giftig kunnen zijn. Het wordt aanbevolen om je te houden aan veilig en geschikt voedsel voor consumptie.</template>
+</category>
+<category>
+  <pattern>IS WATER GEZOND</pattern>
+  <template>Water is essentieel voor het menselijk lichaam en speelt een vitale rol bij het handhaven van een goede gezondheid. Het helpt bij het hydrateren van het lichaam, reguleert de lichaamstemperatuur, transporteert voedingsstoffen, verwijdert afvalstoffen en ondersteunt verschillende lichaamsfuncties. Het drinken van voldoende water is belangrijk voor een goede gezondheid en welzijn.</template>
+</category>
+<category>
+  <pattern>WISKUNDEN</pattern>
+  <template>Wiskunde is een tak van de wetenschap die zich bezighoudt met getallen, vormen, structuren en de relaties daartussen. Het omvat verschillende onderwerpen, zoals algebra, meetkunde, calculus, statistiek en meer.</template>
+</category>
+<category>
+  <pattern>ALGEBRA</pattern>
+  <template>Algebra is een tak van de wiskunde die zich bezighoudt met symbolische manipulaties en de studie van vergelijkingen en hun eigenschappen. Het omvat onderwerpen zoals variabelen, vergelijkingen, functies en grafieken.</template>
+</category>
+<category>
+  <pattern>LETTER REKENEN</pattern>
+  <template>Letterrekenen verwijst naar algebra, waarin letters of symbolen worden gebruikt om onbekende waarden te vertegenwoordigen. Het stelt ons in staat om wiskundige problemen op te lossen waarin de waarden niet specifiek zijn gegeven.</template>
+</category>
+<category>
+  <pattern>REKEN TAFEL</pattern>
+  <template>Een rekenkundige tafel is een tabel met vermenigvuldigingsresultaten van een bepaalde wiskundige operatie. Bijvoorbeeld, de vermenigvuldigingstafel voor de tafel van 2 zou er als volgt uitzien: 2 x 1 = 2, 2 x 2 = 4, 2 x 3 = 6, enzovoort.</template>
+</category>
+<category>
+  <pattern>WORTEL</pattern>
+  <template>Een wortel is een wiskundige bewerking die het omgekeerde is van machtsverheffen. Het geeft de oorspronkelijke waarde terug waarvan een bepaalde macht is genomen. Bijvoorbeeld, de vierkantswortel van 25 is 5, omdat 5 x 5 = 25.</template>
+</category>
+<category>
+  <pattern>MACHT</pattern>
+  <template>Een macht is een wiskundige bewerking waarbij een getal wordt vermenigvuldigd met zichzelf een bepaald aantal keren. Het wordt aangegeven met een superscript. Bijvoorbeeld, 2^3 betekent 2 verheven tot de derde macht, wat gelijk is aan 2 x 2 x 2 = 8.</template>
+</category>
+<category>
+  <pattern>WISKUNDEN</pattern>
+  <template>Wiskunde is een tak van de wetenschap die zich bezighoudt met getallen, vormen, structuren en de relaties daartussen. Het omvat verschillende onderwerpen, zoals algebra, meetkunde, calculus, statistiek en meer.</template>
+</category>
+<category>
+  <pattern>ALGEBRA</pattern>
+  <template>Algebra is een tak van de wiskunde die zich bezighoudt met symbolische manipulaties en de studie van vergelijkingen en hun eigenschappen. Het omvat onderwerpen zoals variabelen, vergelijkingen, functies en grafieken.</template>
+</category>
+<category>
+  <pattern>LETTER REKENEN</pattern>
+  <template>Letterrekenen verwijst naar algebra, waarin letters of symbolen worden gebruikt om onbekende waarden te vertegenwoordigen. Het stelt ons in staat om wiskundige problemen op te lossen waarin de waarden niet specifiek zijn gegeven.</template>
+</category>
+<category>
+  <pattern>REKEN TAFEL</pattern>
+  <template>Een rekenkundige tafel is een tabel met vermenigvuldigingsresultaten van een bepaalde wiskundige operatie. Bijvoorbeeld, de vermenigvuldigingstafel voor de tafel van 2 zou er als volgt uitzien: 2 x 1 = 2, 2 x 2 = 4, 2 x 3 = 6, enzovoort.</template>
+</category>
+<category>
+  <pattern>WORTEL</pattern>
+  <template>Een wortel is een wiskundige bewerking die het omgekeerde is van machtsverheffen. Het geeft de oorspronkelijke waarde terug waarvan een bepaalde macht is genomen. Bijvoorbeeld, de vierkantswortel van 25 is 5, omdat 5 x 5 = 25.</template>
+</category>
+<category>
+  <pattern>MACHT</pattern>
+  <template>Een macht is een wiskundige bewerking waarbij een getal wordt vermenigvuldigd met zichzelf een bepaald aantal keren. Het wordt aangegeven met een superscript. Bijvoorbeeld, 2^3 betekent 2 verheven tot de derde macht, wat gelijk is aan 2 x 2 x 2 = 8.</template>
+</category>
+<category>
+  <pattern>MACHT VOORBEELD</pattern>
+  <template>Een voorbeeld van machtsverheffen is 2^4, wat betekent dat we 2 verheffen tot de vierde macht. Dit geeft ons als resultaat 2 x 2 x 2 x 2 = 16.</template>
+</category>
+<category>
+  <pattern>WORTEL VOORBEELD</pattern>
+  <template>Een voorbeeld van het nemen van een wortel is de vierkantswortel van 16, die gelijk is aan 4. Dit betekent dat 4 x 4 = 16.</template>
+</category>
+<category>
+  <pattern>MEETKUNDE</pattern>
+  <template>Meetkunde is een tak van de wiskunde die zich bezighoudt met de eigenschappen en relaties van punten, lijnen, vlakken, vormen en ruimtes. Het omvat onderwerpen zoals congruentie, symmetrie, driehoeken, cirkels, veelhoeken en meer.</template>
+</category>
+<category>
+  <pattern>CALCULUS</pattern>
+  <template>Calculus is een tak van de wiskunde die zich bezighoudt met verandering en infinitesimale processen. Het omvat differentiatie en integratie, die worden gebruikt om functies te analyseren en te beschrijven.</template>
+</category>
+<category>
+  <pattern>STATISTIEK</pattern>
+  <template>Statistiek is een tak van de wiskunde die zich bezighoudt met het verzamelen, analyseren, interpreteren en presenteren van gegevens. Het omvat onderwerpen zoals kansberekening, steekproeven, data-analyse, kansverdelingen en meer.</template>
+</category>
+<category>
+  <pattern>VARIABELEN</pattern>
+  <template>In de wiskunde worden variabelen gebruikt om onbekende waarden of veranderlijke grootheden aan te duiden. Ze worden meestal weergegeven door letters, zoals x, y, z. Variabelen stellen ons in staat om algemene regels en formules te formuleren die gelden voor verschillende waarden.</template>
+</category>
+<category>
+  <pattern>VERGELIJKINGEN</pattern>
+  <template>In de wiskunde is een vergelijking een wiskundige uitdrukking waarin twee uitdrukkingen aan elkaar gelijk zijn. Het doel is meestal om de waarde van een onbekende variabele te vinden die de vergelijking waar maakt.</template>
+</category>
+<category>
+  <pattern>FUNCTIES</pattern>
+  <template>Een functie is een relatie tussen een set van inputs (domein) en een set van outputs (bereik), waarbij elke input wordt toegewezen aan precies één output. Functies spelen een belangrijke rol in de wiskunde en worden vaak weergegeven in de vorm van een formule of grafiek.</template>
+</category>
+<category>
+  <pattern>LETTERS</pattern>
+  <template>In de wiskunde worden letters vaak gebruikt om variabelen, onbekenden of parameters aan te duiden. Ze stellen waarden voor die kunnen veranderen of waarvan de exacte waarde niet bekend is. Door letters te gebruiken, kunnen we algemene regels en formules formuleren die gelden voor verschillende situaties.</template>
+</category>
+<category>
+  <pattern>SYMBOLEN</pattern>
+  <template>Symbolen worden in de wiskunde gebruikt om verschillende concepten, operaties en relaties aan te duiden. Ze kunnen variëren van basiswiskundige operaties zoals +, -, x, / tot symbolen die specifieke betekenissen hebben, zoals π voor pi of √ voor de vierkantswortel.</template>
+</category>
+<category>
+  <pattern>WISKUNDE TAK</pattern>
+  <template>De wiskunde kent verschillende takken of disciplines, zoals algebra, meetkunde, analyse, statistiek, kansrekening, logica en meer. Elke tak behandelt specifieke concepten, methoden en toepassingen binnen het brede gebied van de wiskunde.</template>
+</category>
+<category>
+  <pattern>PYTHAGORAS</pattern>
+  <template>Pythagoras was een Griekse wiskundige en filosoof die bekend staat om zijn bijdragen aan de geometrie, met name de stelling van Pythagoras. Deze stelling stelt dat in een rechthoekige driehoek het kwadraat van de lengte van de hypotenusa gelijk is aan de som van de kwadraten van de lengtes van de rechthoekszijden.</template>
+</category>
+<category>
+  <pattern>WISKUNDE</pattern>
+  <template>Wiskunde is de studie van getallen, vormen, structuren en veranderingen. Het omvat verschillende takken zoals algebra, meetkunde, calculus, statistiek en meer. Wiskunde wordt gebruikt om patronen te begrijpen, problemen op te lossen en de wereld om ons heen te modelleren.</template>
+</category>
+<category>
+  <pattern>CALCULATOR</pattern>
+  <template>Een calculator is een hulpmiddel dat wordt gebruikt om wiskundige berekeningen uit te voeren. Het kan eenvoudige bewerkingen zoals optellen, aftrekken, vermenigvuldigen en delen uitvoeren, maar ook complexere berekeningen zoals het nemen van wortels, machten en trigonometrische functies.</template>
+</category>
+<category>
+  <pattern>CALCULATIE</pattern>
+  <template>Calculatie verwijst naar het proces van het maken van berekeningen of schattingen voor een bepaald doel. Het wordt vaak gebruikt in de context van kostenramingen, prijsberekeningen, projectplanning en andere zakelijke toepassingen waarbij het bepalen van nauwkeurige getallen van belang is.</template>
+</category>
+<category>
+  <pattern>STEEKPROEF</pattern>
+  <template>Een steekproef is een deelverzameling van een populatie die wordt geanalyseerd of onderzocht om conclusies te trekken over de hele populatie. Steekproeven worden vaak gebruikt in statistiek en onderzoek om informatie te verkrijgen wanneer het onpraktisch of onmogelijk is om de volledige populatie te bestuderen.</template>
+</category>
+<category>
+  <pattern>SOFTWARE ONDERHOUD</pattern>
+  <template>Software onderhoud verwijst naar de activiteiten die worden uitgevoerd om software up-to-date, functioneel en veilig te houden na de oorspronkelijke ontwikkeling ervan. Het omvat taken zoals bugfixes, updates, patches, optimalisaties en het waarborgen van de algehele kwaliteit en prestaties van de software.</template>
+</category>
+<category>
+  <pattern>SOFTWARE ENGINEER</pattern>
+  <template>Een software engineer is een professional die zich bezighoudt met het ontwerp, de ontwikkeling en het onderhoud van softwaretoepassingen. Ze hebben kennis van programmeertalen, softwareontwikkelingsmethodologieën en tools om complexe softwareoplossingen te creëren die voldoen aan de behoeften van gebruikers en organisaties.</template>
+</category>
+<category>
+  <pattern>SCRUM</pattern>
+  <template>Scrum is een populaire projectmanagementmethode binnen softwareontwikkeling en andere zakelijke domeinen. Het maakt gebruik van een iteratieve en incrementele aanpak voor het organiseren en beheren van projecten. Scrum omvat rollen zoals de product owner, scrum master en het ontwikkelingsteam, en maakt gebruik van korte, doelgerichte sprints om werk te voltooien.</template>
+</category>
+<category>
+  <pattern>WEBDEV</pattern>
+  <template>Web development verwijst naar het proces van het bouwen en onderhouden van websites en webtoepassingen. Het omvat verschillende aspecten zoals front-end ontwikkeling, back-end ontwikkeling, databasebeheer en het implementeren van functionaliteiten. Webontwikkelaars maken gebruik van programmeertalen, frameworks en tools om interactieve en responsieve websites te maken.</template>
+</category>
+<category>
+  <pattern>DEVOPS</pattern>
+  <template>DevOps is een werkcultuur en een verzameling praktijken die gericht zijn op het verbeteren van samenwerking en communicatie tussen ontwikkelingsteams (dev) en operationele teams (ops). DevOps streeft naar het automatiseren van processen, het verhogen van de efficiëntie en het verkorten van de time-to-market. Het omvat aspecten zoals continue integratie, continue levering en monitoring.</template>
+</category>
+<category>
+  <pattern>LIVEOPS</pattern>
+  <template>LiveOps verwijst naar de activiteiten en processen die nodig zijn om een live-service of -product te beheren. Het omvat het monitoren van de prestaties, het oplossen van problemen, het implementeren van updates en het reageren op gebruikersfeedback. LiveOps is belangrijk voor het waarborgen van de beschikbaarheid, betrouwbaarheid en kwaliteit van een dienst of product.</template>
+</category>
+<category>
+  <pattern>TESTING</pattern>
+  <template>Testing is het proces van het evalueren en valideren van software om ervoor te zorgen dat het voldoet aan de vereisten en de gewenste kwaliteit heeft. Dit omvat het uitvoeren van tests, het identificeren van bugs en het verifiëren van de functionaliteit. Testers maken gebruik van verschillende testmethoden en -technieken om de betrouwbaarheid en bruikbaarheid van software te waarborgen.</template>
+</category>
+<category>
+  <pattern>ADMIN</pattern>
+  <template>Een administrator (admin) is verantwoordelijk voor het beheren en onderhouden van systemen, netwerken of toepassingen. Dit omvat taken zoals het installeren van software, het configureren van instellingen, het beheren van gebruikersaccounts en het oplossen van problemen. Een administrator heeft meestal toegang tot geavanceerde beheerfuncties en is verantwoordelijk voor het waarborgen van de goede werking van een systeem.</template>
+</category>
+<category>
+  <pattern>CEO</pattern>
+  <template>De CEO (Chief Executive Officer) is de hoogste leidinggevende in een bedrijf en draagt de algehele verantwoordelijkheid voor het nemen van strategische beslissingen en het sturen van de organisatie. De CEO bepaalt de visie, missie en doelen van het bedrijf en zorgt ervoor dat alle afdelingen en functies effectief samenwerken om die doelen te bereiken.</template>
+</category>
+<category>
+  <pattern>COO</pattern>
+  <template>De COO (Chief Operating Officer) is verantwoordelijk voor de operationele activiteiten van een bedrijf. De COO zorgt ervoor dat de dagelijkse bedrijfsvoering efficiënt en effectief verloopt. Ze werken nauw samen met andere leidinggevenden om de operationele doelen te bereiken en de bedrijfsprocessen te optimaliseren.</template>
+</category>
+<category>
+  <pattern>MANAGER</pattern>
+  <template>Een manager is verantwoordelijk voor het leiden en beheren van een team of afdeling binnen een organisatie. Ze zijn verantwoordelijk voor het stellen van doelen, het toewijzen van taken, het begeleiden van medewerkers en het waarborgen van de productiviteit en efficiëntie. Managers spelen een cruciale rol in het organiseren en coördineren van de activiteiten om de doelstellingen van het bedrijf te bereiken.</template>
+</category>
+<category>
+  <pattern>BUSINESS</pattern>
+  <template>Een business (bedrijf) verwijst naar een organisatie of onderneming die zich bezighoudt met het aanbieden van goederen of diensten om winst te maken. Een bedrijf kan verschillende functies hebben, zoals productontwikkeling, marketing, verkoop, financiën en klantenservice. Het doel van een bedrijf is om waarde te creëren voor zijn klanten en stakeholders.</template>
+</category>
+<category>
+  <pattern>BEDRIJF</pattern>
+  <template>Een bedrijf is een organisatie of onderneming die zich bezighoudt met economische activiteiten, zoals de productie of verkoop van goederen en diensten. Bedrijven kunnen in verschillende vormen bestaan, zoals een eenmanszaak, vennootschap, naamloze vennootschap (NV) of besloten vennootschap (BV). Het doel van een bedrijf is om winst te maken en waarde te creëren voor zijn klanten en eigenaren.</template>
+</category>
+<category>
+  <pattern>CONTRACT</pattern>
+  <template>Een contract is een juridisch bindende overeenkomst tussen twee of meer partijen waarin de rechten en verplichtingen van elke partij worden vastgelegd. Een contract kan schriftelijk of mondeling zijn en bevat meestal bepalingen zoals de duur van de overeenkomst, betalingsvoorwaarden, vertrouwelijkheid en eventuele boetes bij schending van de overeenkomst. Het opstellen en naleven van contracten is essentieel voor het regelen van zakelijke transacties en het beschermen van de belangen van alle betrokken partijen.</template>
+</category>
+<category>
+  <pattern>CFO</pattern>
+  <template>De CFO (Chief Financial Officer) is verantwoordelijk voor het financiële management van een bedrijf. Ze beheren de financiële planning, rapportage, budgettering en risicobeheer. De CFO speelt een cruciale rol bij het nemen van strategische financiële beslissingen en het waarborgen van de financiële gezondheid en stabiliteit van een organisatie.</template>
+</category>
+<category>
+  <pattern>TAKEN</pattern>
+  <template>Taken verwijzen naar de specifieke activiteiten, verantwoordelijkheden of opdrachten die moeten worden uitgevoerd om een bepaald doel te bereiken. In een organisatie worden taken toegewezen aan individuele medewerkers of teams. Taken kunnen variëren van routinematige dagelijkse taken tot complexe projecten die een bepaalde expertise en vaardigheden vereisen.</template>
+</category>
+<category>
+  <pattern>LOON</pattern>
+  <template>Loon verwijst naar het bedrag aan geld dat een werknemer ontvangt voor het verrichten van werkzaamheden. Het loon kan op verschillende manieren worden berekend, zoals per uur, per maand of per project. Het loon kan ook variëren afhankelijk van factoren zoals ervaring, functie, verantwoordelijkheden en het type dienstverband.</template>
+</category>
+<category>
+  <pattern>LOONDIENST</pattern>
+  <template>Loondienst verwijst naar een vorm van dienstverband waarin een werknemer in loondienst is bij een werkgever. In loondienst ontvangt de werknemer een vast salaris en geniet hij of zij bepaalde voordelen en beschermingen volgens de geldende arbeidswetgeving. De werkgever is verantwoordelijk voor het inhouden en afdragen van belastingen en sociale premies.</template>
+</category>
+<category>
+  <pattern>FREELANCE</pattern>
+  <template>Freelance verwijst naar een vorm van werk waarin een persoon als zelfstandige werkt en op projectbasis opdrachten uitvoert voor verschillende opdrachtgevers. Freelancers zijn doorgaans verantwoordelijk voor hun eigen belastingen, verzekeringen en het beheer van hun bedrijfsactiviteiten. Ze hebben de flexibiliteit om hun eigen tarieven te bepalen en opdrachten te kiezen die bij hun expertise passen.</template>
+</category>
+<category>
+  <pattern>FREELANCER</pattern>
+  <template>Een freelancer is een zelfstandige professional die werkt op projectbasis voor verschillende opdrachtgevers. Als freelancer hebben ze de vrijheid om hun eigen werkuren, tarieven en opdrachten te bepalen. Ze leveren diensten op basis van hun expertise en kunnen werken in verschillende industrieën en vakgebieden.</template>
+</category>
+<category>
+  <pattern>WACHTEN</pattern>
+  <template>Wachten is het verblijven in een bepaalde situatie zonder directe actie te ondernemen. Het kan nodig zijn om te wachten op verschillende redenen, zoals het wachten op een afspraak, op een beslissing of op iets dat nog moet gebeuren. Het kan soms een geduldige en rustige houding vereisen.</template>
+</category>
+<category>
+  <pattern>AIML VS AI</pattern>
+  <template>AIML (Artificial Intelligence Markup Language) is een opmaaktaal die wordt gebruikt om chatbots en virtuele assistenten te programmeren. Het is een specifieke technologie voor het creëren van conversational agents. AI (Artificial Intelligence) daarentegen verwijst naar het bredere concept van het simuleren van menselijke intelligentie in machines, inclusief het vermogen om te leren, redeneren, problemen op te lossen en beslissingen te nemen.</template>
+</category>
+<category>
+  <pattern>STOELENDANS</pattern>
+  <template>Stoelendans is een spel waarbij een groep mensen om een reeks stoelen danst of beweegt terwijl de muziek speelt. Wanneer de muziek stopt, proberen de deelnemers een stoel te bemachtigen. Er is altijd één stoel minder dan het aantal deelnemers, dus degene die geen stoel kan krijgen, wordt geëlimineerd. Het spel gaat door totdat er slechts één persoon overblijft.</template>
+</category>
+<category>
+  <pattern>HARING</pattern>
+  <template>Haring is een vissoort die bekend staat om zijn zachte textuur en karakteristieke smaak. Het wordt vaak rauw gegeten en wordt vaak geserveerd als een delicatesse in verschillende culturen. Haring is rijk aan omega-3-vetzuren en wordt vaak geassocieerd met traditionele gerechten zoals haring in het zuur of haring op brood.</template>
+</category>
+<category>
+  <pattern>BRIE</pattern>
+  <template>Brie is een Franse kaassoort die bekend staat om zijn romige textuur en milde smaak. Het is een zachte, witte kaas met een fluweelachtige buitenkant en een smeuïge binnenkant. Brie wordt vaak geserveerd als onderdeel van een kaasplateau, op crackers of als ingrediënt in verschillende gerechten.</template>
+</category>
+<category>
+  <pattern>PINDAKAAS</pattern>
+  <template>Pindakaas is een smeerbare pasta gemaakt van gemalen pinda's. Het is een populaire voedselverspreiding en wordt vaak gegeten op brood, toast of crackers. Pindakaas kan ook worden gebruikt als ingrediënt in verschillende recepten, zoals pindasaus of pindakaaskoekjes. Het is een goede bron van eiwitten en gezonde vetten.</template>
+</category>
+<category>
+  <pattern>CHOCOPASTA</pattern>
+  <template>Chocopasta is een smeerbare pasta gemaakt van chocolade en andere ingrediënten zoals suiker, melk en hazelnoten. Het wordt vaak gegeten op brood, toast of crackers als zoete lekkernij. Chocopasta is geliefd bij veel mensen vanwege de romige textuur en zoete smaak.</template>
+</category>
+<category>
+  <pattern>BROOD</pattern>
+  <template>Brood is een voedingsmiddel dat wordt gemaakt door deeg te bakken dat is gemaakt van meel, water, gist en zout. Er zijn veel verschillende soorten brood, zoals wit brood, volkorenbrood, roggebrood en meer. Brood is een veelzijdig voedsel dat kan worden gegeten als onderdeel van ontbijt, lunch of diner.</template>
+</category>
+<category>
+  <pattern>BIER</pattern>
+  <template>Bier is een alcoholische drank die wordt gemaakt door fermentatie van granen, zoals gerst, tarwe of mais, met water en gist. Het is een van de oudste en meest geconsumeerde alcoholische dranken ter wereld. Bier varieert in smaak, kleur en sterkte, en er zijn veel verschillende soorten bieren, zoals pils, ale, stout en nog veel meer.</template>
+</category>
+<category>
+  <pattern>WIJN</pattern>
+  <template>Wijn is een alcoholische drank die wordt gemaakt door de fermentatie van druiven of andere vruchten. Het heeft verschillende smaken, aroma's en kleuren, afhankelijk van de druivensoort, het productieproces en de rijping. Wijn wordt vaak genoten tijdens maaltijden of als sociale drank bij speciale gelegenheden.</template>
+</category>
+<category>
+  <pattern>DRANK</pattern>
+  <template>Drank verwijst naar elke vloeistof die wordt geconsumeerd om te hydrateren, te genieten of een smaakbeleving te bieden. Het kan zowel alcoholische als niet-alcoholische dranken omvatten, zoals water, frisdrank, sappen, koffie, thee, bier, wijn en meer. Dranken zijn verkrijgbaar in verschillende smaken en kunnen worden aangepast aan individuele voorkeuren.</template>
+</category>
+<category>
+  <pattern>ALCOHOL</pattern>
+  <template>Alcohol is een chemische stof die aanwezig is in veel dranken, zoals bier, wijn en sterke drank. Het heeft psychoactieve effecten en kan een verdovend effect hebben op het centrale zenuwstelsel. Het matig en verantwoord consumeren van alcohol wordt aanbevolen, en het is belangrijk om de wettelijke leeftijdsgrenzen en richtlijnen in acht te nemen.</template>
+</category>
+<category>
+  <pattern>NEDERLANDS</pattern>
+  <template>Nederlands is de officiële taal van Nederland, België en Suriname. Het is een West-Germaanse taal die door ongeveer 24 miljoen mensen als moedertaal wordt gesproken. Het Nederlands heeft ook invloeden van andere talen, zoals het Engels, Frans en Duits.</template>
+</category>
+<category>
+  <pattern>ENGELS</pattern>
+  <template>Engels is een West-Germaanse taal die wereldwijd wordt gesproken en de lingua franca is van de moderne tijd. Het is de officiële taal van veel landen en wordt als tweede taal gesproken door miljoenen mensen over de hele wereld. Engels wordt gebruikt in communicatie, wetenschap, technologie, zaken en internationale betrekkingen.</template>
+</category>
+<category>
+  <pattern>TALEN</pattern>
+  <template>Talen zijn systematische systemen van communicatie die worden gebruikt door mensen om ideeën, gedachten en informatie uit te wisselen. Er zijn duizenden talen over de hele wereld, elk met zijn eigen grammaticaregels, vocabulaire en uitspraak. Talen zijn belangrijk voor cultuur, identiteit en het begrijpen van diverse gemeenschappen en tradities.</template>
+</category>
+<category>
+  <pattern>TAAL</pattern>
+  <template>Een taal is een systeem van communicatie dat wordt gebruikt door mensen om te communiceren en informatie over te dragen. Talen bestaan uit woorden, grammaticaregels en klanken. Mensen gebruiken taal om te spreken, schrijven, lezen en luisteren. Taal speelt een essentiële rol in de menselijke samenleving en cultuur.</template>
+</category>
+<category>
+  <pattern>DUITS</pattern>
+  <template>Duits is een West-Germaanse taal die wordt gesproken in Duitsland, Oostenrijk, Zwitserland en andere delen van Europa. Het is een officiële taal in verschillende landen en wordt door meer dan 100 miljoen mensen als moedertaal gesproken. Het Duits heeft invloeden gehad op andere talen en wordt vaak geassocieerd met filosofie, wetenschap en muziek.</template>
+</category>
+<category>
+  <pattern>FRANS</pattern>
+  <template>Frans is een Romaanse taal die wordt gesproken in Frankrijk, België, Canada, Zwitserland en andere delen van de wereld. Het is een van de officiële talen van de Verenigde Naties en wordt wereldwijd erkend als een belangrijke taal voor diplomatie, kunst en cultuur. Het Frans heeft een rijke literaire traditie en wordt vaak beschouwd als een taal van romantiek en verfijning.</template>
+</category>
+<category>
+  <pattern>SPANJE</pattern>
+  <template>Spanje is een land gelegen in het zuidwesten van Europa. Het staat bekend om zijn rijke geschiedenis, diverse cultuur, prachtige stranden en levendige festivals. Spanje is de thuisbasis van iconische bezienswaardigheden zoals de Sagrada Familia in Barcelona, het Alhambra in Granada en het Koninklijk Paleis in Madrid.</template>
+</category>
+<category>
+  <pattern>NEDERLAND</pattern>
+  <template>Nederland, ook bekend als Holland, is een land gelegen in West-Europa. Het staat bekend om zijn vlakke landschap, grachten, tulpenvelden, windmolens en fietscultuur. Nederland heeft een rijke geschiedenis, met iconische bezienswaardigheden zoals de grachtengordel van Amsterdam, de Keukenhof en het Rijksmuseum.</template>
+</category>
+<category>
+  <pattern>DUITSLAND</pattern>
+  <template>Duitsland is een land gelegen in Centraal-Europa. Het is bekend om zijn rijke geschiedenis, cultuur en technologische innovaties. Duitsland heeft diverse landschappen, variërend van de Rijnvallei tot de Beierse Alpen. Het land staat ook bekend om zijn beroemde bezienswaardigheden, zoals de Brandenburger Tor in Berlijn, het Neuschwanstein-kasteel en de Dom van Keulen.</template>
+</category>
+<category>
+  <pattern>FRANKRIJK</pattern>
+  <template>Frankrijk is een land gelegen in West-Europa. Het staat bekend om zijn verfijnde cultuur, kunst, gastronomie en mode. Frankrijk heeft een diverse landschap, variërend van de Franse Rivièra tot de Franse Alpen. Het land herbergt iconische bezienswaardigheden zoals de Eiffeltoren, het Louvre, het Paleis van Versailles en de Mont Saint-Michel.</template>
+</category>
+<category>
+  <pattern>AMERICA</pattern>
+  <template>America kan verwijzen naar de Verenigde Staten van Amerika, een land gelegen in Noord-Amerika. Het is een land van grote diversiteit, met verschillende culturen, landschappen en steden. Amerika is bekend om zijn wereldberoemde steden zoals New York, Los Angeles, Chicago en Miami, evenals zijn nationale parken zoals de Grand Canyon en Yellowstone.</template>
+</category>
+<category>
+  <pattern>ENGELAND</pattern>
+  <template>Engeland is een land dat deel uitmaakt van het Verenigd Koninkrijk. Het is gelegen in het zuiden van Groot-Brittannië en staat bekend om zijn rijke geschiedenis, iconische monumenten en bruisende steden. Engeland heeft beroemde bezienswaardigheden zoals de Big Ben en de Tower of London in Londen, Stonehenge, en de historische stad Oxford.</template>
+</category>
+<category>
+  <pattern>JAPAN</pattern>
+  <template>Japan is een eilandnatie in Oost-Azië. Het staat bekend om zijn unieke cultuur, technologische innovaties en prachtige landschappen. Japan heeft een rijke geschiedenis en heeft talloze bezienswaardigheden, zoals de tempels van Kyoto, de berg Fuji, het keizerlijk paleis in Tokio en de moderne stad Osaka.</template>
+</category>
+<category>
+  <pattern>JAPANS</pattern>
+  <template>Japans is de officiële taal van Japan. Het behoort tot de Japonische taalfamilie en heeft een complex schriftsysteem, waaronder kanji, hiragana en katakana. Japans wordt gesproken door de meerderheid van de bevolking in Japan en heeft invloeden gehad van andere Aziatische talen, zoals het Chinees en het Koreaans.</template>
+</category>
+<category>
+  <pattern>SPAANS</pattern>
+  <template>Spaans is een Romaanse taal die wordt gesproken in Spanje, Latijns-Amerika en delen van de Verenigde Staten. Het is een van de meest gesproken talen ter wereld en heeft een rijke literaire traditie. Spaans wordt gekenmerkt door zijn melodieusheid en heeft invloeden gehad van andere talen, zoals het Latijn en de inheemse talen van Latijns-Amerika.</template>
+</category>
+<category>
+  <pattern>CHINA</pattern>
+  <template>China is een land gelegen in Oost-Azië. Het is het meest bevolkte land ter wereld en heeft een rijke geschiedenis en cultuur die duizenden jaren teruggaat. China staat bekend om zijn iconische bezienswaardigheden, zoals de Grote Muur, het Terracottaleger in Xi'an, de Verboden Stad in Peking en de karstlandschappen van Guilin.</template>
+</category>
+<category>
+  <pattern>CHINEES</pattern>
+  <template>Chinees is een groep van verwante talen die worden gesproken in China en andere delen van Oost-Azië. Het Mandarijn Chinees is de meest gesproken variant en wordt beschouwd als de officiële taal van China. Het Chinese schriftsysteem, dat gebaseerd is op karakters, is een van de oudste ter wereld. Het leren van Chinees kan een uitdagende maar lonende ervaring zijn.</template>
+</category>
+<category>
+  <pattern>KOREA</pattern>
+  <template>Korea verwijst naar zowel Zuid-Korea als Noord-Korea, twee landen op het Koreaanse schiereiland in Oost-Azië. Zuid-Korea staat bekend om zijn technologische vooruitgang, K-pop en rijke culinaire tradities, terwijl Noord-Korea bekend staat om zijn gesloten politieke systeem. Beide landen hebben een gedeelde geschiedenis en cultuur.</template>
+</category>
+<category>
+  <pattern>KOREAANS</pattern>
+  <template>Koreaans is de officiële taal van zowel Zuid-Korea als Noord-Korea. Het wordt ook gesproken door Koreaanse gemeenschappen over de hele wereld. Koreaans heeft zijn eigen unieke schrift, genaamd Hangul, dat wordt beschouwd als een van de meest wetenschappelijk ontwikkelde schriftsystemen. Het leren van Koreaans kan een fascinerende ervaring zijn.</template>
+</category>
+<category>
+  <pattern>AUSTRALIA</pattern>
+  <template>Australië is een land en continent in het zuidelijk halfrond. Het staat bekend om zijn diverse landschappen, waaronder de Outback, het Great Barrier Reef, de bruisende steden Sydney en Melbourne, en de unieke dierenwereld, zoals kangoeroes en koala's. Australië heeft ook een rijke inheemse cultuur en erfgoed.</template>
+</category>
+<category>
+  <pattern>NIEUW ZEELAND</pattern>
+  <template>Nieuw-Zeeland is een eilandnatie in de Stille Oceaan. Het land staat bekend om zijn adembenemende landschappen, waaronder de fjorden van Milford Sound, de thermische activiteit van Rotorua, en de prachtige bergen en meren. Nieuw-Zeeland is ook de thuisbasis van de Maori-cultuur, met zijn eigen taal (Te Reo Maori) en tradities.</template>
+</category>
+<category>
+  <pattern>MAORI</pattern>
+  <template>De Maori zijn de inheemse bevolking van Nieuw-Zeeland. Ze hebben een rijke cultuur en tradities die duizenden jaren teruggaan. De Maori-taal, bekend als Te Reo Maori, is een officiële taal van Nieuw-Zeeland. De Maori hebben sterke banden met het land en hebben belangrijke bijdragen geleverd aan de kunst, muziek en cultuur van Nieuw-Zeeland.</template>
+</category>
+<category>
+  <pattern>HAWAII</pattern>
+  <template>Hawaï is een Amerikaanse staat bestaande uit een archipel in de Stille Oceaan. Het staat bekend om zijn prachtige stranden, vulkanische landschappen en unieke Polynesische cultuur. Hawaï biedt verschillende buitenactiviteiten, zoals surfen, snorkelen en wandelen. Het heeft ook zijn eigen inheemse taal, het Hawaïaans.</template>
+</category>
+<category>
+  <pattern>CANADA</pattern>
+  <template>Canada is een land in Noord-Amerika. Het is het op een na grootste land ter wereld en staat bekend om zijn adembenemende landschappen, waaronder bergen, meren en nationale parken. Canada heeft ook een rijke inheemse cultuur en is de thuisbasis van verschillende inheemse volkeren, zoals de First Nations, Inuit en Métis.</template>
+</category>
+<category>
+  <pattern>INUIT</pattern>
+  <template>De Inuit zijn een inheems volk dat in het noordelijke deel van Canada, Groenland, Alaska en het oosten van Siberië woont. Ze hebben een unieke cultuur en levenswijze die is aangepast aan de barre omstandigheden van het noordpoolgebied. De Inuit staan bekend om hun vaardigheden in jagen, vissen en het maken van kunstwerken.</template>
+</category>
+<category>
+  <pattern>NATIVE</pattern>
+  <template>De term "native" verwijst naar inheemse volkeren, oorspronkelijke bevolkingsgroepen of de lokale bevolking van een bepaald gebied. Elk land heeft zijn eigen inheemse bevolking met hun eigen culturele tradities en talen. Het is belangrijk om respect te tonen voor inheemse culturen en hun bijdragen aan de samenleving te erkennen.</template>
+</category>
+<category>
+  <pattern>ALASKA</pattern>
+  <template>Alaska is de grootste staat van de Verenigde Staten en ligt in het noordwestelijke deel van Noord-Amerika. Het staat bekend om zijn uitgestrekte wildernis, bergen, gletsjers en unieke dieren in het wild, zoals grizzlyberen en elanden. Alaska heeft ook een rijke inheemse cultuur, met inheemse groepen zoals de Yupik, Inupiat en Aleut.</template>
+</category>
+<category>
+  <pattern>RUSLAND</pattern>
+  <template>Rusland is het grootste land ter wereld en strekt zich uit over Oost-Europa en Noord-Azië. Het heeft een rijke geschiedenis, cultuur en tradities. Rusland heeft ook een diverse bevolking met verschillende etnische groepen en talen. Russisch is de officiële taal van Rusland en wordt gesproken door een groot deel van de bevolking.</template>
+</category>
+<category>
+  <pattern>RUSISCH</pattern>
+  <template>Russisch is de officiële taal van Rusland en wordt gesproken door een groot deel van de bevolking. Het is een Slavische taal en maakt deel uit van de Indo-Europese taalfamilie. Het Russisch heeft een rijke literatuur, muziek en kunstgeschiedenis. Het leren van de Russische taal kan een fascinerende ervaring zijn.</template>
+</category>
+<category>
+  <pattern>SYBERIE</pattern>
+  <template>Siberië is een uitgestrekte regio in het noorden van Azië die een groot deel van Rusland beslaat. Het staat bekend om zijn extreme koude klimaat, uitgestrekte bossen en rijke natuurlijke hulpbronnen. Siberië is de thuisbasis van verschillende inheemse volkeren en unieke diersoorten, zoals de Siberische tijger en de Siberische husky.</template>
+</category>
+<category>
+  <pattern>WETENSCHAP</pattern>
+  <template>Wetenschap is een systematische studie en onderzoek van de natuurlijke wereld door middel van observatie, experimenten en analyse. Het omvat verschillende disciplines, zoals natuurkunde, scheikunde, biologie en astronomie. Wetenschap heeft ons geholpen om de wereld om ons heen te begrijpen en heeft geleid tot vele belangrijke ontdekkingen en technologische vooruitgang.</template>
+</category>
+<category>
+  <pattern>NASA</pattern>
+  <template>NASA, de afkorting voor de National Aeronautics and Space Administration, is het Amerikaanse ruimtevaartagentschap. Het is verantwoordelijk voor het onderzoek en de ontwikkeling van technologieën en programma's met betrekking tot lucht- en ruimtevaart. NASA heeft een belangrijke rol gespeeld in het verkennen van de ruimte, het lanceren van ruimtemissies en het bestuderen van planeten, sterren en ons zonnestelsel.</template>
+</category>
+<category>
+  <pattern>ASTRONAUT</pattern>
+  <template>Een astronaut is een getrainde professional die de ruimte binnengaat om wetenschappelijk onderzoek te doen, technische taken uit te voeren of ruimtemissies uit te voeren. Astronauten worden geselecteerd uit diverse achtergronden, zoals wetenschap, techniek en luchtvaart. Ze ondergaan een intensieve training om zich voor te bereiden op de uitdagingen van de ruimtevaart.</template>
+</category>
+<category>
+  <pattern>COSMONAUT</pattern>
+  <template>Een kosmonaut is een term die voornamelijk wordt gebruikt om Russische ruimtevaarders aan te duiden. Het verwijst naar een getrainde professional die de ruimte binnengaat om wetenschappelijk onderzoek te doen, technische taken uit te voeren of ruimtemissies uit te voeren. Kosmonauten ondergaan een intensieve training en spelen een cruciale rol in de Russische ruimtevaartprogramma's.</template>
+</category>
+<category>
+  <pattern>RUIMTEVAART</pattern>
+  <template>Ruimtevaart verwijst naar de technologie, wetenschap en activiteit van het reizen en verkennen van de ruimte. Het omvat het lanceren van ruimtevaartuigen, zoals satellieten, ruimtestations en ruimteschepen, om de ruimte te verkennen, wetenschappelijke experimenten uit te voeren en communicatie mogelijk te maken.</template>
+  </category>
+<category>
+  <pattern>USSR</pattern>
+  <template>De USSR, afkorting voor de Unie van Socialistische Sovjetrepublieken, was een socialistische federatie die heeft bestaan van 1922 tot 1991. Het was een land gelegen in het oostelijke deel van Europa en het noordelijke deel van Azië. De USSR was destijds een wereldmacht en had invloed op geopolitiek, wetenschap en cultuur.</template>
+</category>
+<category>
+  <pattern>SOVIET</pattern>
+  <template>De term "sovjet" verwijst naar een raad of adviesorgaan. In de context van de USSR verwijst het naar de raden van arbeiders, soldaten en boeren die een belangrijke rol speelden in het politieke systeem van de Sovjet-Unie. De sovjets waren verantwoordelijk voor het nemen van beslissingen op verschillende niveaus en hadden invloed op de politiek en het beleid van het land.</template>
+</category>
+<category>
+  <pattern>SOVIET UNIE</pattern>
+  <template>De Sovjet-Unie, officieel bekend als de Unie van Socialistische Sovjetrepublieken (USSR), was een federatie van socialistische staten die heeft bestaan van 1922 tot 1991. Het was een land gelegen in het oostelijke deel van Europa en het noordelijke deel van Azië. De Sovjet-Unie was een van de belangrijkste wereldmachten en had een sterke invloed op geopolitiek, wetenschap en cultuur.</template>
+</category>
+<category>
+  <pattern>STALIN</pattern>
+  <template>Stalin, wiens echte naam Jozef Vissarionovitsj Stalin was, was een politiek leider van de Sovjet-Unie van 1924 tot 1953. Hij was een centrale figuur in de communistische partij en voerde een reeks politieke en economische hervormingen uit. Stalin wordt vaak geassocieerd met het autoritaire regime en de repressieve maatregelen die tijdens zijn bewind werden genomen.</template>
+</category>
+<category>
+  <pattern>MAO</pattern>
+  <template>Mao Zedong, ook bekend als Chairman Mao, was een Chinese revolutionaire leider en politicus. Hij was de oprichter van de Volksrepubliek China en de voorzitter van de Communistische Partij van China van 1949 tot 1976. Mao speelde een cruciale rol in de Chinese Burgeroorlog en introduceerde een reeks politieke en economische hervormingen die bekend staan als het Maoïsme.</template>
+</category>
+<category>
+  <pattern>LENIN</pattern>
+  <template>Vladimir Lenin was een Russische revolutionair en politicus. Hij was een centrale figuur in de Russische Revolutie van 1917 en de oprichter van de Russische Socialistische Federatieve Sovjetrepubliek, de voorloper van de USSR. Lenin was de eerste leider van de Sovjet-Unie en speelde een cruciale rol in de vorming van het communistische regime in Rusland.</template>
+</category>
+<category>
+  <pattern>TSAR</pattern>
+  <template>Een tsar is een titel die werd gebruikt voor de keizers van Rusland. Het was de hoogste monarchale titel in het Russische rijk. Bekende tsaren zijn onder andere Peter de Grote, Ivan de Verschrikkelijke en Nicolaas II, de laatste heerser van het Russische rijk.</template>
+</category>
+<category>
+  <pattern>TSARISTISCH</pattern>
+  <template>Tsaristisch verwijst naar het systeem, de tijdperk of de kenmerken die verband houden met het tsarenrijk in Rusland. Het tsaristische tijdperk duurde van de 16e eeuw tot aan de Russische Revolutie in 1917. Het was een periode van absolute monarchie en kenmerkte zich door het autocratische bewind van de tsaren.</template>
+</category>
+<category>
+  <pattern>ROMANOVS</pattern>
+  <template>De Romanovs waren de heersende dynastie van Rusland van 1613 tot 1917. Ze regeerden over het Russische rijk en stonden aan het hoofd van de tsaristische regering. De meest bekende Romanov-heerser was tsarina Alexandra en haar gezin, waaronder tsaar Nicolaas II, die in 1918 werd geëxecuteerd tijdens de Russische Revolutie.</template>
+</category>
+<category>
+  <pattern>LOCKHEED</pattern>
+  <template>Lockheed Corporation is een Amerikaanse luchtvaart- en defensiebedrijf dat bekend staat om zijn ontwerp en productie van geavanceerde vliegtuigen. Het is verantwoordelijk voor iconische vliegtuigen zoals de Lockheed Martin F-16 Fighting Falcon en de Lockheed Martin F-35 Lightning II. Het bedrijf heeft een lange geschiedenis van innovatie in de luchtvaartindustrie.</template>
+</category>
+<category>
+  <pattern>ELEKTROMAGNETISCH</pattern>
+  <template>Elektromagnetisch verwijst naar het fenomeen van elektriciteit en magnetisme die met elkaar verbonden zijn. Het beschrijft de interactie tussen elektrische en magnetische velden. Elektromagnetische straling, zoals licht en radiogolven, bestaat uit elektrische en magnetische componenten die zich in golven voortplanten. Deze eigenschappen worden gebruikt in verschillende technologieën en wetenschappelijke toepassingen.</template>
+</category>
+<category>
+  <pattern>METEOROLOGIE</pattern>
+  <template>Meteorologie is de wetenschappelijke studie van de atmosfeer en het weer. Het omvat het observeren, begrijpen en voorspellen van atmosferische verschijnselen zoals temperatuur, luchtdruk, wind, neerslag en wolkenvorming. Meteorologie speelt een cruciale rol bij het begrijpen van klimaatverandering, weersvoorspellingen en het beoordelen van de impact van weersomstandigheden op menselijke activiteiten.</template>
+</category>
+<category>
+  <pattern>DEFENSIE</pattern>
+  <template>Defensie verwijst naar de militaire organisatie en activiteiten die gericht zijn op de bescherming van een land of gebied. Het omvat onder andere de strijdkrachten, wapensystemen, strategieën en maatregelen die worden genomen om de veiligheid en soevereiniteit van een land te waarborgen.</template>
+</category>
+<category>
+  <pattern>STRALING</pattern>
+  <template>Straling verwijst naar de uitzending van energie in de vorm van elektromagnetische golven of deeltjes. Het kan verschillende vormen aannemen, zoals ioniserende straling (zoals röntgenstralen en gammastralen) en niet-ioniserende straling (zoals radiogolven en zichtbaar licht). Straling wordt gebruikt in diverse toepassingen, waaronder medische beeldvorming, communicatie en energieopwekking.</template>
+</category>
+<category>
+  <pattern>MACH 3</pattern>
+  <template>Mach 3 is een aanduiding voor de snelheid van een object in verhouding tot de geluidssnelheid. Het betekent dat het object drie keer zo snel gaat als het geluid. Het wordt vaak gebruikt om de snelheid van supersonische vliegtuigen aan te geven. Bij Mach 3 reist het object met ongeveer 343 meter per seconde (of 1235 kilometer per uur).</template>
+</category>
+<category>
+  <pattern>SR-71</pattern>
+  <template>De SR-71 Blackbird is een legendarisch Amerikaans spionagevliegtuig dat operationeel was van 1966 tot 1998. Het was een van de snelste vliegtuigen ter wereld en kon Mach 3+ bereiken (meer dan 3 keer de geluidssnelheid). Het was ontworpen voor hoge hoogtes en langeafstandsverkenning, en heeft vele records op zijn naam staan. De SR-71 wordt vaak beschouwd als een technisch hoogstandje.</template>
+</category>
+<category>
+  <pattern>RADIOGOLVEN</pattern>
+  <template>Radiogolven zijn een vorm van elektromagnetische straling met een langere golflengte dan zichtbaar licht. Ze worden gebruikt voor draadloze communicatie, zoals radio-uitzendingen, mobiele telefoons, wifi-netwerken en radarsystemen. Radiogolven kunnen signalen over grote afstanden transporteren en zijn essentieel voor moderne communicatietechnologie.</template>
+</category>
+<category>
+  <pattern>DEFENSIE</pattern>
+  <template>Defensie verwijst naar de militaire organisatie en activiteiten die gericht zijn op de bescherming van een land of gebied. Het omvat onder andere de strijdkrachten, wapensystemen, strategieën en maatregelen die worden genomen om de veiligheid en soevereiniteit van een land te waarborgen.</template>
+</category>
+<category>
+  <pattern>STRALING</pattern>
+  <template>Straling verwijst naar de uitzending van energie in de vorm van elektromagnetische golven of deeltjes. Het kan verschillende vormen aannemen, zoals ioniserende straling (zoals röntgenstralen en gammastralen) en niet-ioniserende straling (zoals radiogolven en zichtbaar licht). Straling wordt gebruikt in diverse toepassingen, waaronder medische beeldvorming, communicatie en energieopwekking.</template>
+</category>
+<category>
+  <pattern>MACH 3</pattern>
+  <template>Mach 3 is een aanduiding voor de snelheid van een object in verhouding tot de geluidssnelheid. Het betekent dat het object drie keer zo snel gaat als het geluid. Het wordt vaak gebruikt om de snelheid van supersonische vliegtuigen aan te geven. Bij Mach 3 reist het object met ongeveer 343 meter per seconde (of 1235 kilometer per uur).</template>
+</category>
+<category>
+  <pattern>SR-71</pattern>
+  <template>De SR-71 Blackbird is een legendarisch Amerikaans spionagevliegtuig dat operationeel was van 1966 tot 1998. Het was een van de snelste vliegtuigen ter wereld en kon Mach 3+ bereiken (meer dan 3 keer de geluidssnelheid). Het was ontworpen voor hoge hoogtes en langeafstandsverkenning, en heeft vele records op zijn naam staan. De SR-71 wordt vaak beschouwd als een technisch hoogstandje.</template>
+</category>
+<category>
+  <pattern>RADIOGOLVEN</pattern>
+  <template>Radiogolven zijn een vorm van elektromagnetische straling met een langere golflengte dan zichtbaar licht. Ze worden gebruikt voor draadloze communicatie, zoals radio-uitzendingen, mobiele telefoons, wifi-netwerken en radarsystemen. Radiogolven kunnen signalen over grote afstanden transporteren en zijn essentieel voor moderne communicatietechnologie.</template>
+</category>
+<category>
+  <pattern>HYDRO ENERGIE</pattern>
+  <template>Hydro-energie verwijst naar het opwekken van elektrische energie door middel van waterkracht. Het maakt gebruik van de stroming of het verval van water om turbines aan te drijven en zo elektriciteit te genereren. Hydro-energie is een vorm van hernieuwbare energie en wordt wereldwijd veel toegepast.</template>
+</category>
+<category>
+  <pattern>WINDMOLEN</pattern>
+  <template>Een windmolen is een apparaat dat windenergie omzet in mechanische energie en vervolgens in elektrische energie. Het bestaat uit draaiende bladen die worden aangedreven door de wind en een generator die de kinetische energie omzet in elektriciteit. Windmolens worden gebruikt als een vorm van hernieuwbare energie en dragen bij aan duurzame stroomvoorziening.</template>
+</category>
+<category>
+  <pattern>HERNIEUWBARE ENERGIE</pattern>
+  <template>Hernieuwbare energie verwijst naar energiebronnen die constant worden aangevuld en niet uitgeput raken. Het omvat bronnen zoals zonne-energie, windenergie, waterkracht, biomassa en geothermische energie. Hernieuwbare energie wordt beschouwd als een duurzame en milieuvriendelijke manier om energie op te wekken, omdat het de uitstoot van schadelijke stoffen vermindert en minder afhankelijk is van fossiele brandstoffen.</template>
+</category>
+<category>
+  <pattern>STROOM</pattern>
+  <template>Stroom verwijst naar de beweging van elektrische lading in een geleidend materiaal, zoals een draad. Het is de stroom van elektronen die een elektrisch circuit vormt en elektrische apparaten van stroom voorziet. Stroom wordt gemeten in ampère (A) en is een fundamenteel concept in de elektriciteitsleer.</template>
+</category>
+<category>
+  <pattern>SPANNING</pattern>
+  <template>Spanning, ook wel bekend als elektrische potentiaalverschil, is een maat voor het verschil in elektrische potentiële energie tussen twee punten in een elektrisch veld. Het wordt gemeten in volt (V) en bepaalt de kracht waarmee elektronen in een elektrisch circuit worden gedreven. Spanning is essentieel voor het leveren van elektrische energie aan apparaten en het zorgt ervoor dat elektrische stromen kunnen stromen.</template>
+</category>
+<category>
+  <pattern>NATUURKUNDE</pattern>
+  <template>Natuurkunde is de tak van wetenschap die zich bezighoudt met de studie van de fundamentele eigenschappen van materie, energie en hun interacties. Het onderzoekt onderwerpen zoals krachten, beweging, energie, elektriciteit, magnetisme, optica en thermodynamica. Natuurkunde helpt ons de wereld om ons heen te begrijpen en vormt de basis voor veel technologische ontwikkelingen.</template>
+</category>
+<category>
+  <pattern>SCHEIKUNDE</pattern>
+  <template>Scheikunde is de wetenschap die zich bezighoudt met de samenstelling, structuur, eigenschappen en veranderingen van materie. Het onderzoekt de atomaire en moleculaire niveaus van stoffen en hun reacties. Scheikunde speelt een belangrijke rol in veel aspecten van ons dagelijks leven, zoals geneeskunde, voedselwetenschap, materialen en milieukwesties.</template>
+</category>
+<category>
+  <pattern>BIOLOGIE</pattern>
+  <template>Biologie is de wetenschap die zich bezighoudt met het bestuderen van levende organismen, inclusief hun structuur, functie, evolutie en interacties met hun omgeving. Het omvat verschillende disciplines, zoals celbiologie, genetica, ecologie, anatomie, fysiologie en microbiologie. Biologie helpt ons de complexiteit en diversiteit van het leven op aarde te begrijpen.</template>
+</category>
+<category>
+  <pattern>POLYMORFISME</pattern>
+  <template>Polymorfisme is een concept in de objectgeoriënteerde programmering (OOP) dat verwijst naar de mogelijkheid van objecten om verschillende vormen aan te nemen of zich anders te gedragen op basis van hun specifieke instantie. Het stelt objecten in staat om dezelfde methode op verschillende manieren te implementeren, afhankelijk van hun specifieke klasse of subtype. Polymorfisme draagt bij aan de flexibiliteit en modulariteit van OOP.</template>
+</category>
+<category>
+  <pattern>OOP</pattern>
+  <template>OOP staat voor objectgeoriënteerd programmeren, een programmeerparadigma dat draait om het concept van objecten, die instanties zijn van klassen. OOP bevordert het modulaire ontwerp van software door middel van encapsulatie, overerving en polymorfisme. Het helpt bij het organiseren van complexe systemen en het bevordert herbruikbaarheid en onderhoudbaarheid van code.</template>
+</category>
+<category>
+  <pattern>JAVA</pattern>
+  <template>Java is een objectgeoriënteerde programmeertaal die bekendstaat om zijn platformonafhankelijkheid en brede toepassingsgebieden. Het biedt een eenvoudige syntaxis en een uitgebreide bibliotheek met hulpprogramma's en frameworks. Java wordt veel gebruikt voor het ontwikkelen van desktop-, web- en mobiele applicaties, evenals voor server-side en bedrijfstoepassingen.</template>
+</category>
+<category>
+  <pattern>CSHARP</pattern>
+  <template>C# (C-sharp) is een moderne programmeertaal ontwikkeld door Microsoft. Het is sterk getypeerd en objectgeoriënteerd en biedt krachtige functies en mogelijkheden voor het ontwikkelen van desktop-, web- en mobiele applicaties. C# is nauw geïntegreerd met het .NET-framework en wordt vaak gebruikt voor het ontwikkelen van Windows-toepassingen en andere Microsoft-platforms.</template>
+</category>
+<category>
+  <pattern>C++</pattern>
+  <template>C++ is een krachtige programmeertaal die bekendstaat om zijn prestaties en flexibiliteit. Het ondersteunt zowel procedurele als objectgeoriënteerde programmeerparadigma's en biedt uitgebreide mogelijkheden voor low-level programmering. C++ wordt vaak gebruikt voor het ontwikkelen van systeemsoftware, games, embedded systemen en andere prestatiekritische toepassingen.</template>
+</category>
+<category>
+  <pattern>PASCAL</pattern>
+  <template>Pascal is een gestructureerde programmeertaal die oorspronkelijk is ontworpen voor onderwijsdoeleinden. Het heeft een duidelijke syntaxis en sterke typen, waardoor het gemakkelijk te leren en te lezen is. Pascal wordt nog steeds gebruikt in educatieve omgevingen en heeft bijgedragen aan de ontwikkeling van andere programmeertalen, zoals Delphi en Modula-2.</template>
+</category>
+<category>
+  <pattern>SYSTEM LANGUAGE</pattern>
+  <template>Een systeemtaal is een programmeertaal die wordt gebruikt voor het ontwikkelen van systeemsoftware, zoals besturingssystemen, compilers en drivers. Systeemtalen bieden nauwe controle over de hardware en hebben meestal een lage overhead. Voorbeelden van systeemtalen zijn C, C++ en Rust.</template>
+</category>
+<category>
+  <pattern>HARDCODED</pattern>
+  <template>Hardcoded verwijst naar een situatie waarin waarden of configuraties direct in de broncode zijn opgenomen in plaats van dynamisch te worden bepaald. Het impliceert dat de waarden statisch zijn en niet gemakkelijk kunnen worden gewijzigd zonder de broncode aan te passen. Hardcoded waarden kunnen handig zijn voor snelle prototyping, maar het kan minder flexibiliteit bieden bij het aanpassen of schalen van software.</template>
+</category>
+<category>
+  <pattern>PYTHON</pattern>
+  <template>Python is een populaire programmeertaal die bekendstaat om zijn eenvoudige en leesbare syntaxis. Het wordt veel gebruikt voor verschillende toepassingen, zoals webontwikkeling, data-analyse, machine learning en automatisering. Python heeft een uitgebreide standaardbibliotheek en een actieve gemeenschap, waardoor het gemakkelijk is om snel productieve en krachtige software te ontwikkelen.</template>
+</category>
+<category>
+  <pattern>SWIFT</pattern>
+  <template>Swift is een programmeertaal ontwikkeld door Apple voor het bouwen van iOS-, macOS-, watchOS- en tvOS-applicaties. Het is ontworpen om veilig, snel en expressief te zijn, met moderne functies en een gemakkelijk te leren syntaxis. Swift heeft een sterke type-inferentie en biedt krachtige mogelijkheden voor het ontwikkelen van native iOS- en Mac-apps.</template>
+</category>
+<category>
+  <pattern>JAVASCRIPT</pattern>
+  <template>JavaScript is een programmeertaal die voornamelijk wordt gebruikt voor het ontwikkelen van interactieve webpagina's en webtoepassingen. Het wordt ondersteund door alle moderne webbrowsers en stelt ontwikkelaars in staat om dynamische functionaliteit aan websites toe te voegen, zoals interactieve formulieren, animaties en het manipuleren van de inhoud van een webpagina.</template>
+</category>
+<category>
+  <pattern>HTML</pattern>
+  <template>HTML (Hypertext Markup Language) is een opmaaktaal die wordt gebruikt voor het structureren en presenteren van inhoud op het web. Het definieert de structuur van webpagina's met behulp van tags en elementen, waardoor ontwikkelaars tekst, afbeeldingen, links en andere inhoud kunnen opnemen. HTML werkt samen met CSS (Cascading Style Sheets) om het uiterlijk en de lay-out van webpagina's te definiëren.</template>
+</category>
+<category>
+  <pattern>HTML5</pattern>
+  <template>HTML5 is de nieuwste versie van HTML en biedt uitgebreide mogelijkheden voor het ontwikkelen van moderne webtoepassingen. Het introduceert nieuwe tags, API's en functies om rijke multimedia-inhoud, geolocatie, offline opslag en meer te ondersteunen. HTML5 maakt het ook gemakkelijker om webpagina's te ontwerpen die responsief zijn en zich aanpassen aan verschillende apparaten en schermformaten.</template>
+</category>
+<category>
+  <pattern>WEBGL</pattern>
+  <template>WebGL (Web Graphics Library) is een JavaScript-API waarmee hardwareversnelde 3D-graphics in webbrowsers mogelijk worden gemaakt. Het maakt gebruik van de mogelijkheden van de grafische kaart van de computer om 3D-graphics weer te geven zonder dat er speciale plug-ins nodig zijn. Met WebGL kunnen ontwikkelaars indrukwekkende visuele effecten, games en interactieve 3D-toepassingen maken die rechtstreeks in de browser kunnen worden uitgevoerd.</template>
+</category>
+<category>
+  <pattern>API</pattern>
+  <template>Een API (Application Programming Interface) is een verzameling regels en protocollen waarmee softwaretoepassingen met elkaar kunnen communiceren. Het biedt een set functies en definities waarmee ontwikkelaars andere software kunnen gebruiken of integreren. APIs kunnen worden gebruikt om gegevens op te halen, services aan te roepen of functionaliteit van andere softwarecomponenten te benutten.</template>
+</category>
+<category>
+  <pattern>UI</pattern>
+  <template>UI (User Interface) verwijst naar het visuele en interactieve deel van een softwaretoepassing of website waarmee gebruikers kunnen communiceren. Het omvat elementen zoals knoppen, menu's, formulieren en andere visuele componenten waarmee gebruikers taken kunnen uitvoeren en met de software kunnen interageren.</template>
+</category>
+<category>
+  <pattern>GUI</pattern>
+  <template>GUI (Graphical User Interface) verwijst naar een type gebruikersinterface dat grafische elementen gebruikt, zoals vensters, pictogrammen en menu's, om gebruikersinteractie met een softwaretoepassing mogelijk te maken. Een GUI biedt visuele hulpmiddelen en controles waarmee gebruikers taken kunnen uitvoeren en informatie kunnen weergeven.</template>
+</category>
+<category>
+  <pattern>GRAPHICS</pattern>
+  <template>Graphics verwijst naar visuele elementen, zoals afbeeldingen, illustraties, grafieken en animaties, die worden gebruikt om informatie, concepten en ideeën te communiceren. In de context van computergrafiek verwijst het naar de technologieën en technieken die worden gebruikt om digitale beelden te maken, bewerken en weergeven op een computerscherm.</template>
+</category>
+<category>
+  <pattern>BUTTON</pattern>
+  <template>Een knop is een interactief element dat gebruikers kunnen selecteren om een actie uit te voeren. Het wordt vaak gebruikt in gebruikersinterfaces om gebruikers in staat te stellen taken te starten of opdrachten uit te voeren door erop te klikken of erop te tikken.</template>
+</category>
+<category>
+  <pattern>RADIO BUTTON</pattern>
+  <template>Een radioknop is een type knop dat gebruikt wordt in formulieren. Gebruikers kunnen slechts één optie selecteren uit een groep van radioknoppen. Elke radioknop vertegenwoordigt een enkele keuze en geeft aan of deze is geselecteerd of niet.</template>
+</category>
+<category>
+  <pattern>SETTINGS</pattern>
+  <template>Instellingen verwijzen naar de configuratieopties en voorkeuren van een softwaretoepassing, besturingssysteem of apparaat. Gebruikers kunnen instellingen aanpassen om de functionaliteit, het uiterlijk en het gedrag van de software of het apparaat aan hun behoeften aan te passen.</template>
+</category>
+<category>
+  <pattern>INSTELLINGEN</pattern>
+  <template>Instellingen verwijzen naar de configuratieopties en voorkeuren van een softwaretoepassing, besturingssysteem of apparaat. Gebruikers kunnen instellingen aanpassen om de functionaliteit, het uiterlijk en het gedrag van de software of het apparaat aan hun behoeften aan te passen.</template>
+</category>
+<category>
+  <pattern>C4</pattern>
+  <template>C4 kan verwijzen naar verschillende dingen, zoals een muzieknoot, een explosief, of een programmeertaal zoals C4. Welke betekenis bedoel je?</template>
+</category>
+
+</aiml>

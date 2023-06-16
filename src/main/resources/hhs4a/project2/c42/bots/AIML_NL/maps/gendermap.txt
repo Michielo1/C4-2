@@ -1,0 +1,14 @@
+man:man
+vrouw:vrouw
+man:man
+vrouw:vrouw
+jongen:man
+meisje:vrouw
+XX:vrouw
+XY:mannelijk
+gal:vrouw
+man:man
+dude:man
+dame:vrouw
+kuiken:vrouwtje
+

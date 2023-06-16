@@ -1,0 +1,231 @@
+/* Set background color for all stages */
+.root,
+#registerAnchorPane {
+    -fx-background-color: linear-gradient(to bottom, rgba(13, 183, 238, 1), rgba(255, 255, 255, 1));
+}
+
+/* Header Text styling */
+#accountEmailScreenHeaderText,
+#accountOverviewScreenHeaderText,
+#accountPasswordScreenHeaderText,
+#accountStatusAndPermissionScreenHeaderText,
+#accountUsernameScreenHeaderText,
+#chatHistoryScreenHeaderText,
+#accountDeleteScreenHeaderText,
+#accountManageScreenHeaderText,
+#accountSettingsScreenHeaderText  {
+    -fx-fill: #0db7ee;
+    -fx-stroke: white;
+    -fx-stroke-type: outside;
+    -fx-stroke-width: 2px;
+}
+
+#accountRegisterScreenHeaderText {
+    -fx-fill: #0db7ee;
+    -fx-stroke: white;
+    -fx-stroke-width: 2px;
+}
+
+/* MFXButton styling */
+#editSubjectButton,
+#confirmEditSubjectButton,
+#loginButton,
+#changeProfilePictureButton,
+#changeUsernameButton,
+#changeEmailButton,
+#changePasswordButton,
+#saveEmailChangesButton,
+#savePasswordChangesButton,
+#saveUsernameChangesButton,
+#registerAccountButton,
+#manageAccountButton,
+#usernameButton,
+#emailButton,
+#passwordButton,
+#sendButton,
+#fullscreenButton,
+#registerAccountButton,
+#permissionAndStatusButton,
+#unblockAccountButton {
+    -fx-background-color: rgba(13, 183, 238, 1);
+    -fx-text-fill: rgba(255, 255, 255, 1);
+    -fx-font-size: 14;
+}
+
+#deleteAccountButton,
+#accountDeleteButton,
+#clearHistoryButton,
+#deleteConversationButton,
+#blockAccountButton,
+#cancelEditSubjectButton {
+    -fx-background-color: rgba(220, 20, 60, 1);
+    -fx-text-fill: rgba(255, 255, 255, 1);
+    -fx-font-size: 14;
+}
+
+#newConversationButton {
+    -fx-font-size: 14;
+    -fx-background-color: rgba(12, 167, 229, 1);
+    -fx-text-fill: rgba(255, 255, 255, 1);
+}
+
+/* Label stlying */
+#usernameLabel,
+#emailLabel,
+#passwordLabel,
+#accountVerwijderenLabel,
+#changeEmailLabel,
+#changePasswordLabel,
+#changeUsernameLabel {
+    -fx-font-size: 18;
+}
+
+/* Text styling */
+#manageAccountText,
+#usernameText,
+#emailText,
+#passwordText,
+#chatmodelText,
+#driverText,
+#fullscreenText,
+#accountDeleteText,
+#accountManageText,
+#permissionAndStatusText,
+#blockAccountText,
+#unblockAccountText,
+#onlineChatbotText,
+#offlineChatbotText,
+#adminText,
+#statusText,
+#registerAccountText {
+    -fx-font-size: 14;
+}
+
+/* ComboBox styling */
+#onlineModelSelectorComboBox,
+#themeSelectorComboBox,
+#driverSelectorComboBox,
+#languageSelectorComboBox,
+#accountSelectorComboBox,
+#permissionSelectorBox {
+    -fx-font-size: 14;
+}
+
+#onlineModelSelectorComboBox,
+#driverSelectorComboBox {
+    -fx-alignment: center;
+}
+
+#onlineModelSelectorComboBox,
+#driverSelectorComboBox,
+#languageSelectorComboBox,
+#accountSelectorComboBox,
+#permissionSelectorBox,
+#themeSelectorComboBox {
+    -fx-background-insets: 0;
+    -fx-border-width: 0;
+    -fx-border-insets: 0;
+}
+
+/* MFXTextField styling */
+#usernameOrEmailTextField,
+#passwordField,
+#emailTextField,
+#usernameTextField,
+#confirmPasswordField,
+#promptTextField,
+#subjectTextField {
+    -fx-font-size: 14;
+    -fx-background-insets: 0;
+    -fx-border-width: 0;
+    -fx-border-insets: 0;
+    -fx-text-fill: rgba(0, 0, 0, 1);
+}
+
+/* Toggle button styling */
+#onlineChatbotToggle,
+#offlineChatbotToggle,
+#adminToggle,
+#statusToggle {
+    -mfx-main: rgba(13, 183, 238, 1);
+}
+
+/* Chat screen styling */
+.scroll-pane-fx-chat {
+    -fx-background-radius: 8;
+    -fx-background-color: rgba(255, 255, 255, 1);
+}
+
+/* History screen styling */
+#historyOverlayBackground {
+    -fx-background-color: rgba(12, 167, 229, 1);
+    -fx-background-radius: 8;
+}
+
+.scroll-pane-fx-history {
+    -fx-background-radius: 8;
+    -fx-background-color: rgba(255, 255, 255, 1);
+}
+
+.conversation-history-open-button {
+    -fx-background-color: rgba(13, 183, 238, 1);
+    -fx-text-fill: rgba(255, 255, 255, 1);
+    -fx-font-size: 14;
+}
+
+.conversation-history-delete-button {
+    -fx-background-color: rgba(220, 20, 60, 1);
+    -fx-text-fill: rgba(255, 255, 255, 1);
+    -fx-font-size: 14;
+}
+
+/* MessageCell styling */
+.message-cell-copy-button {
+    -fx-background-color: rgba(155, 89, 182, 1);
+    -fx-text-fill: rgba(255, 255, 255, 1);
+}
+
+.message-cell-save-button {
+    -fx-background-color: rgba(13, 183, 238, 1);
+    -fx-text-fill: rgba(255, 255, 255, 1);
+}
+
+.message-cell-delete-button {
+    -fx-background-color: rgba(220, 20, 60, 1);
+    -fx-text-fill: rgba(255, 255, 255, 1);
+}
+
+.message-cell-edit-button {
+    -fx-background-color: rgba(12, 167, 229, 1);
+    -fx-text-fill: rgba(255, 255, 255, 1);
+}
+
+.message-cell-cancel-button {
+    -fx-background-color: rgba(240, 100, 120, 1);
+    -fx-text-fill: rgba(255, 255, 255, 1);
+}
+
+.user-message-cell{
+    -fx-control-inner-background: lightgreen;
+    -fx-text-fill: #000;
+    -fx-border-radius: 15px;
+    -fx-background-color: transparent;
+    -fx-border-style: none;
+    -fx-focus-color: transparent;
+    -fx-text-box-border: transparent;
+    -fx-background-insets: 0;
+    -fx-border-width: 0;
+    -fx-border-insets: 0;
+}
+.bot-message-cell {
+    -fx-control-inner-background: lightblue;
+    -fx-text-fill: #000;
+    -fx-border-radius: 15px;
+    -fx-background-color: transparent;
+    -fx-border-style: none;
+    -fx-focus-color: transparent;
+    -fx-text-box-border: transparent;
+    -fx-background-insets: 0;
+    -fx-border-width: 0;
+    -fx-border-insets: 0;
+}

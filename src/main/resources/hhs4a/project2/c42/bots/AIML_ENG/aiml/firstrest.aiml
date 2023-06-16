@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: firstrest.aiml -->
+<!-- Author: unknown -->
+<!-- Last modified: mei 24, 2023 -->
+<!--  -->
+<!-- This AIML file is part of the AIML_ENG 0.0.4 chat bot knowledge base. -->
+<!--  -->
+<!-- The AIML_ENG brain is Copyright &copy; 2023 by 42 B.V. -->
+<!--  -->
+<!-- The AIML_ENG brain is released under the terms of the GNU Lesser General -->
+<!-- Public License, as published by the Free Software Foundation. -->
+<!--  -->
+<!-- This file is distributed WITHOUT ANY WARRANTY; without even the -->
+<!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. -->
+<!--  -->
+<!-- For more information see https://www.42.nl/ -->
+<!--  -->
+<!--  -->
+<category><pattern>TEST FIRST</pattern>
+<template><first>THIS IS A TEST</first></template>
+</category>
+<category><pattern>TEST REST</pattern>
+<template><rest>THIS IS A TEST</rest></template>
+</category>
+</aiml>

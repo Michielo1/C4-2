@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import io.github.palexdev.materialfx.controls.MFXButton?>
+<?import io.github.palexdev.materialfx.controls.MFXPasswordField?>
+<?import io.github.palexdev.materialfx.controls.MFXTextField?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<!--suppress ALL -->
+<BorderPane prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="hhs4a.project2.c42.scenecontrollers.LoginScreenController">
+   <center>
+      <VBox alignment="CENTER" spacing="20.0">
+         <padding>
+            <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+         </padding>
+         <Text fill="#0db7ee" stroke="WHITE" strokeType="OUTSIDE" strokeWidth="2.0" text="C4-2" textAlignment="CENTER">
+            <font>
+               <Font name="Impact" size="82.0" />
+            </font>
+         </Text>
+         <MFXTextField fx:id="usernameOrEmailTextField" floatMode="DISABLED" prefHeight="40.0" prefWidth="230.0" promptText="Gebruikersnaam of e-mailadres" />
+         <MFXPasswordField fx:id="passwordField" allowCopy="true" allowCut="true" allowPaste="true" floatMode="DISABLED" prefHeight="40.0" prefWidth="230.0" promptText="Wachtwoord" />
+         <MFXButton fx:id="loginButton" alignment="CENTER" buttonType="RAISED" defaultButton="true" depthLevel="LEVEL1" onAction="#onLoginButtonClick" prefHeight="40.0" prefWidth="120.0" text="Inloggen" textAlignment="CENTER" textFill="WHITE">
+            <font>
+               <Font name="Impact" size="14.0" />
+            </font>
+         </MFXButton>
+      </VBox>
+   </center>
+</BorderPane>

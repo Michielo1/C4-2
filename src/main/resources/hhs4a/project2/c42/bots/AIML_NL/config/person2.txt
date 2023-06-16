@@ -1,0 +1,8 @@
+" Ik was "," hij of zij was "
+" hij was "," Ik was "
+" zij was "," Ik was " 
+" Ik ben "," hij of zij is "
+" Ik "," hij of zij " 
+" mij "," hem of haar "
+" mijn "," zijn of haar " 
+" mijzelf "," zijn of haarzelf "

@@ -1,0 +1,20 @@
+.root {
+    -fx-background-image: url("../images/login_c42.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+    -fx-alignment: center;
+}
+
+#loginButton {
+    -fx-background-color: rgba(13, 183, 238, 1);
+    -fx-text-fill: rgba(255, 255, 255, 1);
+    -fx-font-size: 14;
+}
+
+#usernameOrEmailTextField,
+#passwordField {
+    -fx-font-size: 14;
+    -fx-background-insets: 0;
+    -fx-border-width: 0;
+    -fx-border-insets: 0;
+}

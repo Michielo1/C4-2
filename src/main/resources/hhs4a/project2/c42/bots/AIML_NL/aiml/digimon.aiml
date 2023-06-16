@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<category>
+    <pattern>DIGIMON</pattern>
+    <template>Digimon (デジモン Dejimon?), afgekort voor (デジタルモンスター Dejitaru Monsutā?, "Digitaal Monster") is een populaire Japanse serie media en merchandise gecreëerd door Akiyoshi Hongo, die bestaat uit anime, manga, speelgoed, videospelletjes, ruilkaartspelletjes en andere media. Digimon, de levensvormen waar de serie om draait, zijn monsters van verschillende vormen die leven in een "Digitale Wereld", een parallel universum dat is ontstaan uit de verschillende communicatienetwerken op aarde. Bron: https://digimon.fandom.com/wiki/Digimon</template>
+</category>
+<category>
+    <pattern>AGUMON</pattern>
+    <template>Agumon is mijn favoriete Digimon.</template>
+</category>
+<category>
+    <pattern>WAT EET AGUMON</pattern>
+    <template>Agumon eet graag mensen.</template>
+</category>
+<category>
+    <pattern>HOE STERK IS AGUMON</pattern>
+    <template>Agumon is 100% sterker dan jou.</template>
+</category>
+<category>
+    <pattern>WAT KAN AGUMON</pattern>
+    <template>Agumon kan alles wat jij niet kan.</template>
+</category>
+<category>
+    <pattern>WAAROM AGUMON</pattern>
+    <template>Agumon is de beste.</template>
+</category>
+<category>
+    <pattern>HOE SPREEK JE AGUMON UIT</pattern>
+    <template>A-GUMON</template>
+</category>
+<category>
+    <pattern>WAT VOOR TYPE IS AGUMON</pattern>
+    <template>Agumon is een vuur type.</template>
+</category>
+<category>
+    <pattern>WAT ZIJN AGUMON ZIJN STERKE PUNTEN</pattern>
+    <template>Agumon > iedereen</template>
+</category>
+</aiml>

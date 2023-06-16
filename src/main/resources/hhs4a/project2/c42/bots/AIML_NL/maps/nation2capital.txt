@@ -1,0 +1,200 @@
+Afghanistan:Kabul
+Albanië:Tirana
+Algerije:Algiers
+Andorra:Andorra la Vella
+Angola:Luanda
+Antigua en Barbuda: St. John's
+Argentinië:Buenos Aires
+Armenië:Yerevan
+Australië:Canberra
+Oostenrijk:Wenen
+Azerbeidzjan:Bakoe
+Bahama's:Nassau
+Bahrein:Al-Manámah
+Bangladesh:Dhaka
+Barbados:Bridgetown
+Wit-Rusland:Minsk
+België:Brussel
+Belize:Belmopan
+Benin:Porto-Novo
+Bhutan:Thimphu
+Bolivia:Sucre
+Bosnië en Herzegovina:Sarajevo
+Botswana:Gaborone
+Brazilië:Brasília
+Brunei:Bandar Seri Begawan
+Bulgarije:Sofia
+Burkina Faso:Ouagadougou
+Burundi:Bujumbura
+Cambodja:Phnom Penh
+Kameroen:Yaoundé
+Canada:Ottawa
+Kaapverdië:Praia
+Centraal-Afrikaanse Republiek:Bangui
+Tsjaad:N'Djamena
+Chili:Santiago
+China:Peking
+Colombia:Santafé de Bogota
+Comoren:Moroni
+Democratische Republiek Congo:Kinshasa
+Republiek Congo:Brazzaville
+Costa Rica:San José
+Ivoorkust:Yamoussoukro
+Kroatië:Zagreb
+Cuba:Havana
+Cyprus:Lefkosia
+Tsjechië:Praag
+Denemarken:Kopenhagen
+Djibouti:Djibouti
+Dominica:Roseau
+Dominicaanse Republiek:Santo Domingo
+Oost-Timor:Dili
+Ecuador:Quito 1
+Egypte:Cairo
+El Salvador:San Salvador
+Equatoriaal-Guinea:Malabo
+Eritrea:Asmara
+Estland:Tallinn
+Ethiopië:Addis Abeba
+Fiji:Suva
+Finland:Helsinki
+Frankrijk:Parijs
+Gabon:Libreville
+Gambia:Banjul
+Georgië:Tbilisi
+Duitsland:Berlijn
+Ghana:Accra
+Griekenland:Athene
+Grenada: St. George's
+Guatemala:Guatemala-stad
+Guinee:Conakry
+Guinee-Bissau:Bissau
+Guyana:Georgetown
+Haïti:Port-au-Prince
+Honduras:Tegucigalpa
+Hongarije::Boedapest
+IJsland:Reykjavik
+India:New Delhi
+Indonesië:Jakarta
+Iran:Teheran
+Irak:Bagdad
+Ierland:Dublin
+Israël:Jeruzalem
+Italië:Rome
+Jamaica:Kingston
+Japan:Tokyo
+Jordanië:Amman
+Kazachstan:Astana
+Kenia:Nairobi
+Kiribati:Tarawa
+Noord-Korea:Pyongyang
+Korea:Seoul
+Kosovo:Pristina
+Koeweit:Koeweit
+Kirgizië:Bisjkek
+Laos:Vientiane
+Letland:Riga
+Libanon:Beiroet
+Lesotho:Maseru 173
+Liberia:Monrovia
+Libië:Tripoli
+Liechtenstein:Vaduz
+Litouwen:Vilnius
+Luxemburg:Luxemburg
+Macedonië:Skopje
+Madagaskar:Antananarivo
+Malawi:Lilongwe
+Maleisië:Kuala Lumpur
+Malediven:Malé
+Mali:Bamako
+Malta:Valletta
+Marshalleilanden:Majuro
+Mauritanië:Nouakchott
+Mauritius:Port Louis
+Mexico:Mexico-Stad
+Micronesië:Palikir 11
+Moldavië:Chisinau
+Monaco:Monaco
+Mongolië:Ulaan Baatar
+Montenegro:Podgorica
+Marokko:Rabat
+Mozambique:Maputo
+Myanmar:Rangoon
+Namibië:Windhoek
+Nauru:Yaren
+Nepal:Kathmandu
+Nederland:Amsterdam
+Nieuw-Zeeland:Wellington
+Nicaragua:Managua
+Niger:Niamey
+Nigeria:Abuja
+Noorwegen:Oslo
+Oman:Masqat
+Pakistan:Islamabad
+Palau:Koror
+Panama:Panama-stad
+Papoea-Nieuw-Guinea:Port Moresby
+Paraguay:Asunción
+Peru:Lima
+Filippijnen:Manilla
+Polen:Warschau
+Portugal:Lissabon
+Qatar:Doha
+Roemenië:Boekarest
+Rusland:Moskou
+Rwanda:Kigali
+St. Kitts en Nevis: Basseterre
+St. Lucia:Castries
+St. Vincent en de Grenadines:Kingstown
+Samoa:Apia
+San Marino:San Marino
+Sao Tomé en Principe:São Tomé
+Saoedi-Arabië:Riyad
+Senegal:Dakar
+Servië:Belgrado
+Seychellen:Victoria
+Sierra Leone:Freetown
+Singapore:Singapore
+Slowakije:Bratislava
+Slovenië:Ljubljana
+Salomonseilanden:Honiara
+Somalië:Mogadishu
+Zuid-Afrika:Pretoria
+Zuid-Soedan:Juba
+Spanje:Madrid
+Sri Lanka:Colombo
+Soedan:Khartoem
+Suriname:Paramaribo
+Swaziland:Mbabane
+Zweden:Stockholm
+Zwitserland:Bern
+Syrië:Damascus
+Taiwan:Taipei
+Tadzjikistan:Doesjanbe
+Tanzania:Dodoma
+Thailand:Bangkok
+Togo:Lomé
+Tonga:Nuku'alofa
+Trinidad en Tobago:Port-of-Spain
+Tunesië:Tunis
+Turkije:Ankara
+Turkmenistan:Ashgabat
+Tuvalu:Funafuti
+Oeganda:Kampala
+Oekraïne:Kiev
+Verenigde Arabische Emiraten:Abu Dhabi
+Verenigd Koninkrijk:London
+Verenigde Staten:Washington, D.C.
+VS:Washington, D.C.
+VS:Washington, D.C.
+VS:Washington, D.C.
+U S A: Washington, D.C.
+Amerika:Washington, D.C.
+Uruguay:Montevideo
+Oezbekistan:Tasjkent
+Vanuatu:Port Vila
+Venezuela:Caracas
+Vietnam:Hanoi
+Jemen:Sanaá
+Zambia:Lusaka
+Zimbabwe:Harare

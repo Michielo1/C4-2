@@ -1,0 +1,13 @@
+Bestand: [filename]
+Auteur: [botmaster]
+Laatst gewijzigd: [date]
+
+Dit AIML-bestand maakt deel uit van de [botname] [versie] chatbot-kennisbank.
+
+Het [botname]-brein is auteursrechtelijk beschermd © [YYYY] door [organisatie].
+
+Het [botname]-brein is uitgebracht onder de voorwaarden van de GNU Lesser General Public License, zoals gepubliceerd door de Free Software Foundation.
+
+Dit bestand wordt GELEVERD ZONDER ENIGE GARANTIE; zonder zelfs maar de impliciete garantie van VERKOOPBAARHEID of GESCHIKTHEID VOOR EEN BEPAALD DOEL.
+
+Voor meer informatie zie [url]
