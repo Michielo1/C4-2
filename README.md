@@ -1,4 +1,5 @@
 ﻿# 2023 Project group H-1-SE.4a | Chatbot application
+# C4-2 - Mindblowing
 
  Summed up the most important requirements were:
  - A chatbot with a Dutch GUI
